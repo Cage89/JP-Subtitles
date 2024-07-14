@@ -1,0 +1,2052 @@
+﻿WEBVTT
+
+NOTE Netflix
+NOTE Profile: webvtt-lssdh-ios8
+NOTE Date: 2017/07/04 10:00:12
+
+NOTE SegmentIndex
+NOTE Segment=596.500 27806@284 184
+NOTE Segment=595.733 26764@28090 179
+NOTE Segment=236.500 8985@54854 62
+NOTE /SegmentIndex
+
+                            
+
+                    
+1
+00:00:01.566 --> 00:00:05.900  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田(よしだ)）今日は 特別に ガンガン
+進みますけど大丈夫でしょうかね？
+
+2
+00:00:06.300 --> 00:00:07.833  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（岡(おか)さん）ワカメの
+しゃぶしゃぶですね
+
+3
+00:00:07.933 --> 00:00:09.233  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+サッと
+入れていただけば―
+
+4
+00:00:09.333 --> 00:00:10.300  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+色が変わりますから
+
+5
+00:00:10.400 --> 00:00:13.500  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（室谷(むろや)）
+アア… 緑色に 一瞬で
+
+6
+00:00:13.600 --> 00:00:16.400  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）変わる
+（室谷）変わる！ あら～！
+
+7
+00:00:16.800 --> 00:00:20.333  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（岡さん）８時間ぐらい蒸しまして
+…で サッと焼いていただければ
+
+8
+00:00:20.433 --> 00:00:22.900  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（吉田･室谷）めったらだぁ
+
+9
+00:00:23.833 --> 00:00:26.066  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+類(るい)さんも絶賛！
+
+10
+00:00:26.166 --> 00:00:28.300  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+箸も お酒も
+止まらない―
+
+11
+00:00:28.400 --> 00:00:31.233  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+絶品の
+アイデア居酒屋に
+
+12
+00:00:33.700 --> 00:00:38.033  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）非常に
+品のいい そんな味付け
+
+13
+00:00:38.133 --> 00:00:40.566  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+酒で言うと
+キレのいい辛口
+
+14
+00:00:41.166 --> 00:00:43.166  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）これ 相当の時間
+煮込んでるんじゃないですか？
+
+15
+00:00:43.366 --> 00:00:45.166  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（山崎さん）スープもルーも
+同じブイヨン使うんですけど
+
+16
+00:00:45.266 --> 00:00:47.233  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+ブイヨンが大体12時間ぐらい
+
+17
+00:00:47.366 --> 00:00:48.666  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+止まらないですね 類さん
+
+18
+00:00:48.766 --> 00:00:52.466  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+あっ すいません
+もう食べんの夢中になっちゃって
+
+19
+00:00:53.533 --> 00:00:56.000  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+こだわりは北海道野菜
+
+20
+00:00:56.400 --> 00:00:59.533  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+大地の恵み いっぱいの
+スープカレー
+
+21
+00:01:01.533 --> 00:01:06.033  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）うわ！
+かわいいですね これは
+
+22
+00:01:06.633 --> 00:01:08.200  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）これ カメラ？
+（池亀(いけがめ)さん）はい
+
+23
+00:01:08.333 --> 00:01:11.233  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+これは あの…
+手作りなんですよね？
+
+24
+00:01:11.333 --> 00:01:13.300  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）これも…
+これは靴なんですね
+
+25
+00:01:13.400 --> 00:01:14.300  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（池亀さん）はい
+
+26
+00:01:15.366 --> 00:01:19.266  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+元家具職人が作る
+菓子木型彫刻
+
+27
+00:01:19.533 --> 00:01:21.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+日本に
+数人しかいない―
+
+28
+00:01:21.233 --> 00:01:23.700  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+伝統のお菓子に
+類さん…
+
+29
+00:01:24.700 --> 00:01:28.066  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+なんか玉手箱みたいですね
+これをお菓子と…
+
+30
+00:01:28.233 --> 00:01:30.933  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+いやぁ でも ホントに品がいいし
+
+31
+00:01:32.633 --> 00:01:34.733  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+出会いが いっぱい！
+
+32
+00:01:35.000 --> 00:01:37.833  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+今回
+２人が訪れた町は…
+
+33
+00:01:41.066 --> 00:01:43.033  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+こんにちは
+室谷香菜子(かなこ)です
+
+34
+00:01:43.133 --> 00:01:45.700  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+私は今
+地上１１５メートル
+
+35
+00:01:45.800 --> 00:01:49.233  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ホテル エミシア札幌(さっぽろ)の
+屋上ヘリポートに―
+
+36
+00:01:49.333 --> 00:01:50.400  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+やって来ております
+
+37
+00:01:50.500 --> 00:01:52.400  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+いやぁ…
+寒いんですけれども
+
+38
+00:01:52.500 --> 00:01:55.766  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+あの… 空気は澄んでて
+気持ちいいですよ
+
+39
+00:01:55.866 --> 00:01:59.266  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ねっ？ ハハッ… あら
+寒そうですね 類さん
+
+40
+00:01:59.366 --> 00:02:01.933  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+あの… 今 僕もね
+
+41
+00:02:02.700 --> 00:02:05.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ヘリで
+降りてきたばっかりです
+
+42
+00:02:05.233 --> 00:02:09.000  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+何を言ってるんですか？
+いや でもね 眺め最高！
+
+43
+00:02:09.100 --> 00:02:10.433  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+あそこにあるのが―
+
+44
+00:02:10.533 --> 00:02:13.000  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+札幌ドーム
+見えてまして
+
+45
+00:02:13.100 --> 00:02:16.666  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+こっち側が
+札幌駅なんです
+
+46
+00:02:16.766 --> 00:02:18.433  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+…という中で
+今回は 類さん
+
+47
+00:02:18.533 --> 00:02:21.400  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+“厚別(あつべつ)
+新さっぽろ編”ということで
+
+48
+00:02:21.533 --> 00:02:25.233  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+この辺りも 駅を中心に 開発が
+進んでまして いいお店が―
+
+49
+00:02:25.333 --> 00:02:27.333  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+たくさんあるわけですよ
+（吉田）あるんですね
+
+50
+00:02:27.433 --> 00:02:32.700  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+もう この辺 新住宅地というか
+そういう意味合いもあるんですね
+
+51
+00:02:32.800 --> 00:02:35.000  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+札幌のほうに お勤めの方はね
+
+52
+00:02:35.366 --> 00:02:36.700  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+なんか おいしい物が いっぱい―
+
+53
+00:02:36.800 --> 00:02:39.000  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+待っててくれそうな気が
+するんですが
+
+54
+00:02:39.100 --> 00:02:42.933  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+ただですね この始まりは
+今までないことですから
+
+55
+00:02:43.133 --> 00:02:47.100  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+きっとね
+は… 波乱万丈というか―
+
+56
+00:02:47.200 --> 00:02:50.066  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+面白い映像が撮れるかなと
+いうふうに思っております
+
+57
+00:02:54.100 --> 00:02:56.000  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）酒と
+登山をこよなく愛し
+
+58
+00:02:56.133 --> 00:02:58.866  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+日本全国
+旅を続けています
+
+59
+00:03:00.933 --> 00:03:04.433  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（俳句を読み上げる声）
+
+60
+00:03:05.366 --> 00:03:06.600  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+これは どなたの句でしょう？
+
+61
+00:03:07.833 --> 00:03:09.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+もうひとつの顔は―
+
+62
+00:03:09.233 --> 00:03:13.733  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+俳句の愛好会をまとめる
+業界きっての酒場詩人
+
+63
+00:03:14.066 --> 00:03:15.400  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+さあ 今日は―
+
+64
+00:03:15.500 --> 00:03:18.366  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+どんな出会いが
+待っているのでしょうか
+
+65
+00:03:33.333 --> 00:03:35.500  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+札幌の東に位置し
+
+66
+00:03:35.600 --> 00:03:39.100  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+豊かな自然に囲まれた
+厚別区
+
+67
+00:03:40.033 --> 00:03:43.600  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+中でも 新さっぽろと
+呼ばれる駅周辺は―
+
+68
+00:03:43.700 --> 00:03:48.100  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+複合商業施設が建ち並び
+魅力あふれるエリアです
+
+69
+00:03:50.000 --> 00:03:52.833  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+お２人さん
+まずは こちら
+
+70
+00:03:53.100 --> 00:03:55.066  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+北海道の
+開拓の歴史や―
+
+71
+00:03:55.166 --> 00:03:57.166  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+文化を
+学ぶことができる―
+
+72
+00:03:57.266 --> 00:03:59.933  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+〝開拓の村〞から
+スタートですよ
+
+73
+00:04:01.500 --> 00:04:03.033  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）いきなり
+開拓時代に―
+
+74
+00:04:03.133 --> 00:04:05.500  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+タイムスリップというね
+感じで
+
+75
+00:04:05.600 --> 00:04:07.500  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+多分
+戻ってくるんでしょうね
+
+76
+00:04:07.600 --> 00:04:10.366  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ハハ… 戻ってこないと
+いけませんが
+
+77
+00:04:10.766 --> 00:04:13.466  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ここへ来たら 着たい物
+
+78
+00:04:13.566 --> 00:04:15.800  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（堀内さん）当時は
+寒さ対策として―
+
+79
+00:04:15.966 --> 00:04:18.166  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+男性の方ですとマントですね
+
+80
+00:04:18.266 --> 00:04:21.399  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+…で 女性の方ですと角巻き
+羽織ですね
+
+81
+00:04:21.500 --> 00:04:23.066  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）角巻き
+（吉田）はぁはぁ…
+
+82
+00:04:24.066 --> 00:04:27.100  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）
+衣装も決まったところで 出発！
+
+83
+00:04:27.500 --> 00:04:30.000  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）暖(あった)かいですよ
+（室谷）そうですね
+
+84
+00:04:30.100 --> 00:04:35.400  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+これ１枚で全く違いますね
+（室谷）ホントに違うものですね
+
+85
+00:04:35.566 --> 00:04:36.800  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（室谷）当時の建物が…
+
+86
+00:04:36.900 --> 00:04:39.466  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）
+明治(めいじ)時代の これは…
+
+87
+00:04:39.600 --> 00:04:42.900  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+昔の… 今でいう
+道庁なんでしょうかね
+
+88
+00:04:43.000 --> 00:04:45.766  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+結構ね ステキですね
+形が
+
+89
+00:04:46.000 --> 00:04:48.600  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+あそこにソリが…
+（吉田）ありますね
+
+90
+00:04:48.833 --> 00:04:50.933  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）
+じゃ 引いていきましょうか？ 僕が
+
+91
+00:04:51.033 --> 00:04:52.866  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+私 乗っていいんですか？
+（吉田）乗っていいですよ
+
+92
+00:04:54.333 --> 00:04:56.433  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（吉田）あっ それ 逆かな
+
+93
+00:04:58.566 --> 00:05:01.266  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+わあ！ ハハハッ…
+
+94
+00:05:02.366 --> 00:05:06.600  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+まさか吉田類さんに
+ソリ 押していただけるとは
+
+95
+00:05:07.100 --> 00:05:09.166  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+孫を
+あやしてる おじいちゃんみたい
+
+96
+00:05:09.266 --> 00:05:10.600  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（笑い声）
+
+97
+00:05:10.700 --> 00:05:13.933  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）類さんに
+ソリを引いてもらったり―
+
+98
+00:05:14.033 --> 00:05:17.500  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+かまくらに入ったりと
+室谷アナ 楽しそう！
+
+99
+00:05:17.600 --> 00:05:19.166  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）いやいやいや
+（室谷）ハァ…
+
+100
+00:05:24.133 --> 00:05:28.133  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）…で 類さん
+こちらが 武井(たけい)商店酒造
+
+101
+00:05:28.233 --> 00:05:33.733  position:50.00%,middle  align:middle size:80.00%  line:74.00% 
+（吉田）
+…ということで 酒屋さんというか
+酒を売ってたとこだよね
+
+102
+00:05:33.833 --> 00:05:35.333  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+きっとね 酒肆(しゅし)ですよね
+
+103
+00:05:35.433 --> 00:05:38.733  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）中に入れるようなので
+温かい物をいただきましょうか
+
+104
+00:05:38.833 --> 00:05:40.000  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（吉田）はいはいはい
+
+105
+00:05:42.433 --> 00:05:43.266  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+あっ…
+（室谷）あら
+
+106
+00:05:43.366 --> 00:05:45.166  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（村上さん）
+今日 寒いですね
+
+107
+00:05:45.266 --> 00:05:46.966  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）
+寒いですね　これは？
+
+108
+00:05:47.166 --> 00:05:48.800  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（村上さん）甘酒で
+温まっていってください
+
+109
+00:05:48.900 --> 00:05:51.100  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（室谷）あら！
+ありがとうございます
+
+110
+00:05:51.200 --> 00:05:52.800  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+はい どうぞ
+
+111
+00:05:52.900 --> 00:05:57.333  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+今日 特別に
+用意していただきました 甘酒
+
+112
+00:05:57.433 --> 00:06:01.066  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）じゃ どぶろくのつもりで
+じゃ いただきましょうかね
+
+113
+00:06:01.166 --> 00:06:05.933  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（村上さん）あと こちらがですね
+開拓の村で採れた大根 漬けた…
+
+114
+00:06:06.033 --> 00:06:07.233  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（食べる音）
+（吉田）うん…
+
+115
+00:06:09.566 --> 00:06:10.833  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+懐かしい
+
+116
+00:06:13.566 --> 00:06:15.466  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+塩加減が ちょうど
+
+117
+00:06:15.566 --> 00:06:16.933  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+ウ～ン！
+（吉田）うん
+
+118
+00:06:18.400 --> 00:06:20.500  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）よいしょ
+（吉田）うん…
+
+119
+00:06:21.266 --> 00:06:23.933  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+いやぁ これ 温まる ねえ？
+（室谷）ねえ？
+
+120
+00:06:24.300 --> 00:06:25.800  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+ここに しばらく座ってると―
+
+121
+00:06:25.900 --> 00:06:27.666  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+来たときは
+ものすごく寒かったですけど
+
+122
+00:06:27.766 --> 00:06:30.333  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+やっぱり 火の力って すごいですね
+
+123
+00:06:30.433 --> 00:06:35.733  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+これはね もう見てるだけで
+心が温まりますし
+
+124
+00:06:35.833 --> 00:06:36.766  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+ここにいたら―
+
+125
+00:06:36.866 --> 00:06:39.133  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+芝居をしたくなるんだけど
+（室谷）ハハハッ…
+
+126
+00:06:40.000 --> 00:06:42.500  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+映画のワンシーン
+（吉田）映画のワンシーンみたい
+
+127
+00:06:43.600 --> 00:06:46.066  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）うわ！
+（村上さん）はい こちらがですね
+
+128
+00:06:46.166 --> 00:06:49.900  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+開拓の村の食堂で大人気の
+いももちになります
+
+129
+00:06:50.033 --> 00:06:53.266  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）類さん いももち
+（吉田）僕も大好きなんですよ
+
+130
+00:06:56.100 --> 00:06:58.133  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+うん うまい！ うん
+
+131
+00:07:00.400 --> 00:07:02.166  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+甘だれがかかってるって
+いうこともありますが
+
+132
+00:07:02.266 --> 00:07:06.100  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+それだけじゃなくて
+中身が非常に甘くて
+
+133
+00:07:06.200 --> 00:07:08.033  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+あの… 単なる
+お餅っていうよりも―
+
+134
+00:07:08.133 --> 00:07:10.333  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+やっぱイモが
+入ってるでしょう
+
+135
+00:07:10.433 --> 00:07:12.200  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+これ イモだけで
+こうなるのかな？
+
+136
+00:07:12.866 --> 00:07:16.966  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）開拓者の活力でもあった
+いももちを再現
+
+137
+00:07:17.266 --> 00:07:21.833  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+ジャガイモ デンプン
+片栗粉(かたくりこ)で作った お餅を―
+
+138
+00:07:22.200 --> 00:07:27.266  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+特別に 旧武井商店酒造部で
+ごちそうになりました
+
+139
+00:07:31.100 --> 00:07:33.400  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（鈴の音）
+（室谷）おお！
+
+140
+00:07:33.500 --> 00:07:36.600  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+あっ 動き始めた！
+あっ 速い！
+
+141
+00:07:36.933 --> 00:07:38.833  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+結構 速い
+（吉田）速いね
+
+142
+00:07:40.266 --> 00:07:41.866  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（室谷）
+類さん どこだ？
+あっ 類さん いた
+
+143
+00:07:41.966 --> 00:07:44.466  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+類さん 速いですね
+（吉田）速いですね
+
+144
+00:07:44.566 --> 00:07:48.866  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+速いというか 力が強いね
+（室谷）うん
+
+145
+00:07:49.133 --> 00:07:52.966  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+これ 雪の上だからいいんだよね
+（室谷）そうですね
+
+146
+00:07:54.266 --> 00:07:57.033  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+馬も疲れないで済むし
+（室谷）はい
+
+147
+00:07:57.766 --> 00:08:00.400  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+クッションのようになるんですね
+
+148
+00:08:01.466 --> 00:08:04.400  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）この どさんこちゃんの
+お名前はあるんですか？
+
+149
+00:08:04.500 --> 00:08:06.666  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ガイド）
+力(リキ)っていいます はい
+
+150
+00:08:07.000 --> 00:08:08.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（室谷）
+力ということはオス？
+
+151
+00:08:08.233 --> 00:08:10.100  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ガイド）オスですね
+（吉田）ほう…
+
+152
+00:08:11.533 --> 00:08:14.500  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+どさんこの力君 26歳
+
+153
+00:08:15.133 --> 00:08:19.033  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+人に例えると
+80歳を超える元気なおじいちゃん
+
+154
+00:08:20.133 --> 00:08:26.033  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+冬限定の馬そりに乗って 北海道の
+時間旅行を楽しむことができます
+
+155
+00:08:31.000 --> 00:08:32.866  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）力君
+（吉田）力君 どうも
+
+156
+00:08:33.566 --> 00:08:36.633  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+お疲れさんでした
+（室谷）ちゃんと道を覚えて―
+
+157
+00:08:36.733 --> 00:08:39.700  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+きれいに案内してくれました
+（吉田）力君 ありがとうね
+
+158
+00:08:40.500 --> 00:08:42.799  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+ハハッ… “ありがとうね”って
+
+159
+00:08:43.666 --> 00:08:49.266  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）北海道の歴史を 肌で
+感じることができる開拓の村でした
+
+160
+00:08:51.266 --> 00:08:53.333  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+さあ 類さん 続いてはカレーです
+
+161
+00:08:53.733 --> 00:08:56.600  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）カレー…　なんか目の前に
+“ふらの”って書いていますが―
+
+162
+00:08:56.700 --> 00:08:58.400  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+ここは富良野(ふらの)ではないんですね
+
+163
+00:08:58.500 --> 00:09:01.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（室谷）札幌なんですが
+〝ふらのや〞さん
+
+164
+00:09:01.233 --> 00:09:03.033  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+道産野菜を
+たっぷり使っています
+
+165
+00:09:03.133 --> 00:09:06.033  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）あっ それは
+ありがたいですね
+
+166
+00:09:06.133 --> 00:09:08.366  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（室谷･吉田）
+おジャマしましょう
+
+167
+00:09:09.733 --> 00:09:11.233  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（吉田）これが 今日の…
+
+168
+00:09:12.233 --> 00:09:14.666  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）
+ああ… やっぱり 類さん 野菜
+
+169
+00:09:14.766 --> 00:09:17.900  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）いや いいですね
+野菜で しかも カレーっていうと
+
+170
+00:09:18.000 --> 00:09:20.800  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+体… ものすごく温まって
+健康にいいという
+
+171
+00:09:20.900 --> 00:09:22.600  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+う～ん
+
+172
+00:09:23.366 --> 00:09:26.700  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+黒板に書かれた
+たくさんの野菜
+
+173
+00:09:27.833 --> 00:09:32.166  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+富良野と札幌にお店を
+構える 〝ふらのや〞
+
+174
+00:09:32.433 --> 00:09:35.600  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+究極の
+北海道カレーとは？
+
+175
+00:09:36.666 --> 00:09:39.433  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+こちら
+たっぷり道産野菜のスープカレー
+
+176
+00:09:39.533 --> 00:09:40.933  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+すごい！
+
+177
+00:09:41.033 --> 00:09:44.166  position:50.00%,middle  align:middle size:80.00%  line:74.00% 
+（山崎さん）
+…と こちら たっぷり道産野菜の
+ルータイプになります
+
+178
+00:09:44.266 --> 00:09:45.266  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（室谷）わあ！
+
+179
+00:09:45.366 --> 00:09:46.666  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（山崎さん）
+熱いんで気をつけてください
+
+180
+00:09:46.766 --> 00:09:48.933  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+すごいですね
+（山崎さん）ありがとうございます
+
+181
+00:09:49.166 --> 00:09:50.666  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）
+こう 見ただけで
+健康になりそうですね
+
+182
+00:09:50.766 --> 00:09:52.400  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（山崎さん）あっ…
+ありがとうございます
+
+183
+00:09:52.500 --> 00:09:54.233  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ボリュームだけは
+自信があります
+
+184
+00:09:54.333 --> 00:09:56.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）すごいなぁ
+
+185
+00:09:56.500 --> 00:09:57.666  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+早速…
+
+186
+00:10:00.433 --> 00:10:07.300  position:50.00%,middle  align:middle size:80.00%  line:74.00% 
+（吉田）
+非常に品のいい そんな味付け
+酒で言うと キレのいい辛口
+
+187
+00:10:08.833 --> 00:10:12.200  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+室谷アナはルータイプの
+カレーを注文
+
+188
+00:10:15.700 --> 00:10:19.133  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+うん… あっ おいしい まろやか！
+（吉田）ねえ
+
+189
+00:10:19.333 --> 00:10:21.600  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+これ 相当の時間
+煮込んでるんじゃないですか？
+
+190
+00:10:21.733 --> 00:10:22.400  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+スープもルーも―
+
+191
+00:10:22.500 --> 00:10:23.566  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+同じブイヨン
+使うんですけど
+
+192
+00:10:23.666 --> 00:10:25.700  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ブイヨンが
+大体12時間ぐらい
+
+193
+00:10:27.800 --> 00:10:32.100  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）
+豚の骨 鶏ガラ 北海道産野菜を―
+
+194
+00:10:32.200 --> 00:10:35.733  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+コトコト 12時間 煮込んで
+ブイヨンを作り―
+
+195
+00:10:36.200 --> 00:10:40.700  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+注文を受けてから
+野菜を素揚げしてスープを作ります
+
+196
+00:10:41.800 --> 00:10:43.500  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+この手間暇が―
+
+197
+00:10:43.600 --> 00:10:46.500  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+〝ふらのや〞の
+おいしさの秘密なんです
+
+198
+00:10:47.866 --> 00:10:49.633  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（室谷）
+止まらないですね
+類さん
+
+199
+00:10:49.766 --> 00:10:53.000  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+あっ すいません
+もう食べんの夢中になっちゃって
+
+200
+00:10:53.100 --> 00:10:55.233  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+夢中になりますよね
+
+201
+00:10:55.333 --> 00:10:57.966  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+今から
+15～16年前ぐらいなんですけど―
+
+202
+00:10:58.066 --> 00:10:59.366  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+独立当初は
+移動販売車１台で―
+
+203
+00:10:59.633 --> 00:11:02.333  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+１人で 札幌で始めて
+
+204
+00:11:02.433 --> 00:11:05.566  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+…で なかなか どうにも
+うまくいかなくて
+
+205
+00:11:05.666 --> 00:11:08.866  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+それで 富良野の観光地だったら
+なんとかなるかなと
+
+206
+00:11:09.333 --> 00:11:12.833  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+…で そこに行ったのが
+始まりですよね
+
+207
+00:11:13.700 --> 00:11:18.000  position:50.00%,middle  align:middle size:80.00%  line:74.00% 
+（ﾅﾚｰﾀｰ）
+富良野 そして 北海道の野菜に
+こだわることで―
+
+208
+00:11:18.100 --> 00:11:21.166  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+いつしか お店も大人気に
+
+209
+00:11:21.800 --> 00:11:27.033  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+お皿に乗り切らないくらいの
+大地の恵みに 大満足の２人でした
+
+210
+00:11:35.700 --> 00:11:42.433  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+さあ このあとは 元家具職人が作る
+芸術的な和菓子が登場！
+
+211
+00:11:42.966 --> 00:11:44.833  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+これ お菓子？
+わあ… なるほど
+
+212
+00:11:44.966 --> 00:11:45.866  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（室谷）かわいい！
+
+213
+00:11:45.966 --> 00:11:47.200  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）
+こういう所を―
+
+214
+00:11:47.300 --> 00:11:48.833  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+お菓子にしちゃうって
+いう発想が―
+
+215
+00:11:48.933 --> 00:11:50.166  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+すばらしいと思いますね
+
+216
+00:11:51.066 --> 00:11:53.066  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+♪～
+
+217
+00:11:58.200 --> 00:12:00.933  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+～♪
+
+218
+00:12:02.500 --> 00:12:05.833  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）
+「吉田類 北海道ぶらり街めぐり」
+
+219
+00:12:05.933 --> 00:12:10.166  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+“厚別･新さっぽろ編”
+続いてのお店は？
+
+220
+00:12:11.133 --> 00:12:13.066  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+類さん この住宅街の中に―
+
+221
+00:12:13.166 --> 00:12:17.033  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+元家具職人が
+営んでいるお菓子屋さんが
+
+222
+00:12:17.133 --> 00:12:20.233  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）あっ… ひょっとして
+そこに見えてる明かりが
+
+223
+00:12:20.333 --> 00:12:22.900  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+ステキな看板と明かりが
+見えるんですが
+
+224
+00:12:23.000 --> 00:12:26.133  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+どんなお菓子なのか
+行ってみましょう
+
+225
+00:12:30.800 --> 00:12:33.733  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+職人の技が光る
+お店なんです
+
+226
+00:12:36.000 --> 00:12:41.766  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+はいはい…　うわ！
+かわいいですね これは
+
+227
+00:12:42.333 --> 00:12:43.300  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+これ カメラ？
+
+228
+00:12:43.400 --> 00:12:44.266  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（池亀さん）
+はい そうです
+
+229
+00:12:44.366 --> 00:12:47.000  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+そして 類さん
+こちらにはニットの帽子
+
+230
+00:12:47.100 --> 00:12:48.033  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）あっ ホントだ
+
+231
+00:12:48.133 --> 00:12:49.800  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（池亀さん）
+干菓子(ひがし)の中で―
+
+232
+00:12:50.066 --> 00:12:51.966  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（池亀さん）
+和三盆っていうのが―
+
+233
+00:12:52.066 --> 00:12:54.100  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+いちばん
+分かりやすいかな
+
+234
+00:12:54.200 --> 00:12:56.600  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+和三盆
+１００パーセントで
+
+235
+00:12:59.533 --> 00:13:01.100  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+アア…
+（吉田）うん
+
+236
+00:13:01.533 --> 00:13:02.400  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（室谷）ウ～ン！
+
+237
+00:13:02.500 --> 00:13:04.866  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+うん… あっ ホント 溶けてく
+（室谷）溶けてく
+
+238
+00:13:05.266 --> 00:13:08.133  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）
+甘さが キレがいいという感じだね
+
+239
+00:13:08.233 --> 00:13:10.366  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+残らないもんね
+サ～ッと消えちゃうもんね
+
+240
+00:13:11.666 --> 00:13:15.400  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）
+美しく 優しい口溶けの干菓子
+
+241
+00:13:16.366 --> 00:13:22.700  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+元家具職人の池亀由紀(ゆき)さんは
+子供のころから 木工が大好き
+
+242
+00:13:23.633 --> 00:13:24.866  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+６年前―
+
+243
+00:13:24.966 --> 00:13:30.300  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+日本に数人しかいないという
+菓子木型彫刻の道に転向
+
+244
+00:13:30.733 --> 00:13:35.733  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+四国にいる師匠のもとに
+何度か通い 技術を磨きました
+
+245
+00:13:37.466 --> 00:13:39.500  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）
+これも… これは靴なんですね
+
+246
+00:13:39.600 --> 00:13:40.833  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（室谷）池亀さんの手作り
+
+247
+00:13:40.933 --> 00:13:43.700  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）
+これを逆に見なきゃいけないので…
+
+248
+00:13:44.466 --> 00:13:47.066  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+出来上がったら
+どんなふうになるのかなという
+
+249
+00:13:47.166 --> 00:13:50.433  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+あっ… そっか 逆に
+（吉田）うん
+
+250
+00:13:50.533 --> 00:13:53.266  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+これ 木は何ですか？
+（池亀さん）桜の木です
+
+251
+00:13:53.366 --> 00:13:55.466  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（吉田）あっ 固いんですね じゃ
+
+252
+00:13:56.133 --> 00:13:58.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+愛らしいデザイン
+
+253
+00:13:58.466 --> 00:14:02.466  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+センスは もちろん
+集中力も求められます
+
+254
+00:14:03.233 --> 00:14:07.366  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+木型を作ってほしいと
+全国から注文が殺到
+
+255
+00:14:07.666 --> 00:14:11.066  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+予約は半年待ちの
+状態だといいます
+
+256
+00:14:11.866 --> 00:14:14.333  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+これは… あっ これ お菓子？
+
+257
+00:14:14.433 --> 00:14:16.800  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+わあ… なるほど
+（室谷）かわいい！
+
+258
+00:14:17.600 --> 00:14:19.500  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）ああ…
+（吉田）へえ…
+
+259
+00:14:19.600 --> 00:14:23.000  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+なんか玉手箱みたいですね
+これ お菓子と…
+
+260
+00:14:23.100 --> 00:14:25.866  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+いやぁ でも ホントに品がいいし
+
+261
+00:14:26.000 --> 00:14:32.033  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+こんなお砂糖に 水を
+含ませたものをここに詰めます
+
+262
+00:14:32.466 --> 00:14:38.333  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）最高級の砂糖 和三盆に
+水 僅かな色素
+
+263
+00:14:38.633 --> 00:14:41.433  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+これが 干菓子の原料です
+
+264
+00:14:42.100 --> 00:14:47.900  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+水 型を取る加減など
+池亀さんの手の感触が全て
+
+265
+00:14:48.000 --> 00:14:50.400  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+正に 職人技です
+
+266
+00:14:51.433 --> 00:14:54.633  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）色が そんなに
+濃くなくていいですね
+
+267
+00:14:55.000 --> 00:14:56.966  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（室谷）
+へえ すっごく細かい！
+
+268
+00:14:57.066 --> 00:15:00.500  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）ほら だから
+ここ 突起があって―
+
+269
+00:15:00.600 --> 00:15:03.400  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ここ 履けるっていう
+形になってるんだ？
+
+270
+00:15:03.500 --> 00:15:06.366  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+こういう所をお菓子に
+しちゃうっていう発想が
+
+271
+00:15:06.466 --> 00:15:08.066  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+すばらしいと思いますね
+
+272
+00:15:08.166 --> 00:15:10.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+自由な発想が
+（室谷）ねえ
+
+273
+00:15:11.100 --> 00:15:15.533  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）自分で型を彫り
+自分でお菓子を作る
+
+274
+00:15:16.133 --> 00:15:19.866  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+住宅街の中で見つけた
+日本の伝統菓子に―
+
+275
+00:15:19.966 --> 00:15:22.433  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+類さんも感激です
+
+276
+00:15:30.333 --> 00:15:31.533  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）さあ 類さん
+（吉田）はい
+
+277
+00:15:31.633 --> 00:15:35.533  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）暗くなってきましたので
+新鮮な海の幸で１杯
+
+278
+00:15:35.633 --> 00:15:37.900  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）この辺りね
+妙に見覚えがあるんですが
+
+279
+00:15:38.000 --> 00:15:40.166  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）高架下の この辺
+（吉田）はい
+
+280
+00:15:40.600 --> 00:15:42.100  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+新さっぽろ
+（室谷）はい
+
+281
+00:15:42.500 --> 00:15:43.933  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+こちら
+（吉田）あっ…
+
+282
+00:15:44.033 --> 00:15:47.033  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+この名前も
+ちょっと覚えがあります
+
+283
+00:15:47.133 --> 00:15:48.966  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+行きましょう
+（吉田）はいはいはい
+
+284
+00:15:50.733 --> 00:15:56.000  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+高架下の隠れた名店
+海鮮料理 魚鮮(うおせん)
+
+285
+00:15:56.633 --> 00:15:59.800  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+店の中には
+類さんのサインが！
+
+286
+00:16:00.833 --> 00:16:04.066  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（室谷）類さん 以前にも
+来たことがあったんですね
+
+287
+00:16:04.166 --> 00:16:07.033  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+いやぁ もう あの… ねっ？
+お世話になりまして
+
+288
+00:16:07.566 --> 00:16:09.766  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+こちらの社長
+小松(こまつ)さんと―
+
+289
+00:16:09.866 --> 00:16:11.800  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+久しぶりの乾杯
+
+290
+00:16:12.233 --> 00:16:16.266  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+もちろん常連さんとも
+酒縁社会の挨拶
+
+291
+00:16:18.033 --> 00:16:20.533  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+これからですね
+僕が目が覚めるのは
+
+292
+00:16:22.900 --> 00:16:25.433  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（岡さん）お造りになります
+（室谷）おお～！
+
+293
+00:16:25.533 --> 00:16:27.600  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）これは また…
+（岡さん）マグロですね
+
+294
+00:16:27.733 --> 00:16:30.400  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+ヒラメ カンパチ
+シメサバ ソイになります
+
+295
+00:16:30.500 --> 00:16:31.866  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（吉田･室谷）ああ…
+
+296
+00:16:32.933 --> 00:16:35.166  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+総料理長の岡紀彦(のりひこ)さんが
+
+297
+00:16:35.266 --> 00:16:37.400  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+腕を振るう 自慢の料理
+
+298
+00:16:37.833 --> 00:16:40.433  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+まずは
+お刺身五点盛り
+
+299
+00:16:40.533 --> 00:16:42.633  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ウ～ン 美しい！
+
+300
+00:16:44.833 --> 00:16:45.866  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+うん
+
+301
+00:16:46.266 --> 00:16:48.400  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）
+これは どこのマグロですかね？
+
+302
+00:16:48.500 --> 00:16:50.733  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（岡さん）九州のほうのバチですね
+
+303
+00:16:50.833 --> 00:16:53.366  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+目がね パッチリしてる感じの
+マグロでした これは
+
+304
+00:16:53.466 --> 00:16:54.466  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（笑い声）
+
+305
+00:16:55.000 --> 00:16:56.800  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（岡さん）
+ヒラメが寿都(すっつ)になりますね
+
+306
+00:16:56.900 --> 00:16:59.566  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）そうですか
+（室谷）あら！ ウ～ン！
+
+307
+00:17:01.366 --> 00:17:03.733  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+と… とろける感じですね
+（岡さん）そうですね はい
+
+308
+00:17:04.866 --> 00:17:08.333  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）
+料理にお酒に大満足の室谷アナ
+
+309
+00:17:08.599 --> 00:17:10.866  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+だんだんとヒートアップ？
+
+310
+00:17:10.966 --> 00:17:12.800  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（笑い声）
+
+311
+00:17:12.900 --> 00:17:14.500  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+居心地がいい
+
+312
+00:17:14.599 --> 00:17:16.833  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）はい 今日は
+香菜ちゃんは―
+
+313
+00:17:16.933 --> 00:17:19.266  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+もう
+思いっきり酔いました
+
+314
+00:17:19.366 --> 00:17:21.633  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+極上のスープですね
+
+315
+00:17:24.666 --> 00:17:28.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+「吉田類 北海道
+ぶらり街めぐり」
+
+316
+00:17:28.633 --> 00:17:31.200  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+今宵(こよい)は 新さっぽろの
+魚鮮で―
+
+317
+00:17:31.300 --> 00:17:33.233  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+お酒を楽しみます
+
+318
+00:17:34.466 --> 00:17:37.366  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（小松さん）岩手のね
+おいしいお酒ある
+
+319
+00:17:37.566 --> 00:17:41.400  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+社長は 岩手のご出身なんですね？
+
+320
+00:17:41.833 --> 00:17:45.633  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）
+岩手 赤武(あかぶ)酒造を代表する銘酒
+
+321
+00:17:45.766 --> 00:17:47.766  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+その名も “AKABU(アカブ)”
+
+322
+00:17:48.400 --> 00:17:51.500  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+爽やかな香りと
+甘みがたまりません
+
+323
+00:17:52.333 --> 00:17:54.800  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+あの… 飲みやすすぎますね
+これもね
+
+324
+00:17:54.900 --> 00:17:59.133  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+類さん すごく飲みやすい
+どうなってしまうんでしょうか
+
+325
+00:17:59.233 --> 00:18:00.133  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+うん
+
+326
+00:18:01.000 --> 00:18:02.366  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（岡さん）ワカメの
+しゃぶしゃぶですね
+
+327
+00:18:02.466 --> 00:18:03.766  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+それを
+お出ししたいんですけど
+
+328
+00:18:04.300 --> 00:18:05.466  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+サッと
+入れていただけば―
+
+329
+00:18:05.566 --> 00:18:06.566  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+色が変わりますから
+
+330
+00:18:06.666 --> 00:18:09.633  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+アア… 緑色に 一瞬で
+
+331
+00:18:09.733 --> 00:18:11.166  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）変わる
+（室谷）変わる！
+
+332
+00:18:12.800 --> 00:18:17.533  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+ウ～ン… これは ごちそうですね
+
+333
+00:18:17.700 --> 00:18:20.533  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+止まらなくなりますね これ
+（吉田）うんうんうん
+
+334
+00:18:21.566 --> 00:18:25.000  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+更に 濃厚な味わいの
+たちポン
+
+335
+00:18:25.600 --> 00:18:27.433  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+８時間 蒸したあと
+
+336
+00:18:27.533 --> 00:18:30.833  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+お客さん自ら焼いて
+食べる牛タンなど
+
+337
+00:18:30.933 --> 00:18:33.166  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+これには類さんも
+室谷アナも―
+
+338
+00:18:33.266 --> 00:18:35.566  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+お酒が進みます
+
+339
+00:18:40.166 --> 00:18:41.800  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+いい気分なので―
+
+340
+00:18:41.900 --> 00:18:45.800  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ここで 酒縁社会の
+挨拶といきましょう
+
+341
+00:18:46.366 --> 00:18:49.800  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）じゃ ちょっと 乾杯！
+（女性たち）乾杯！
+
+342
+00:18:50.200 --> 00:18:53.933  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）僕は もう… 12年前かな
+（室谷）はい
+
+343
+00:18:54.033 --> 00:18:56.133  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）…に来てんですよ
+そんな前じゃないでしょう 皆さん
+
+344
+00:18:56.233 --> 00:18:58.033  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（女性）
+そのころ まだ未成年だもんね
+
+345
+00:18:58.133 --> 00:19:01.766  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（笑い声）
+（女性）そうそう
+
+346
+00:19:02.333 --> 00:19:05.733  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+こんにちは　大丈夫ですか？
+ちょっと おジャマして
+
+347
+00:19:05.900 --> 00:19:08.300  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（男性）
+初めて うちの嫁さんに―
+
+348
+00:19:08.400 --> 00:19:11.100  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+ケーキを贈ったんですよ
+（室谷）ここで？
+
+349
+00:19:11.200 --> 00:19:12.166  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）
+ここで バースデーやったんですか
+
+350
+00:19:12.266 --> 00:19:13.666  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（女性）失礼でしょう ハハハッ…
+
+351
+00:19:13.766 --> 00:19:17.266  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（男性）ここでバースデーやって
+初めてだよ そんなこと
+
+352
+00:19:17.633 --> 00:19:21.800  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+その意外性が良かったでしょう？
+…ていうかね 心に残るよね
+
+353
+00:19:21.900 --> 00:19:23.866  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+そういうふうに
+していただいたらね
+
+354
+00:19:23.966 --> 00:19:29.833  position:50.00%,middle  align:middle size:80.00%  line:74.00% 
+（ﾅﾚｰﾀｰ）
+居酒屋トークは尽きませんが
+ここで 岡料理長 自慢の鍋が！
+
+355
+00:19:29.933 --> 00:19:32.266  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（室谷）うわぁ！
+
+356
+00:19:33.600 --> 00:19:36.100  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+これが きんき鍋
+（吉田）きんき鍋
+
+357
+00:19:36.200 --> 00:19:37.366  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（岡さん）脂乗ってて
+おいしいと思います
+
+358
+00:19:37.466 --> 00:19:41.600  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（室谷）
+うわぁ！ 最高ですね
+
+359
+00:19:41.700 --> 00:19:44.933  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+これは… これは
+ついでいいわけ？
+
+360
+00:19:45.266 --> 00:19:46.433  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（岡さん）
+これは こっちです
+
+361
+00:19:46.533 --> 00:19:49.000  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+アラを入れるんじゃ
+ないの？ これ
+
+362
+00:19:49.100 --> 00:19:51.066  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（岡さん）そうです
+そのためです
+
+363
+00:19:51.166 --> 00:19:52.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+それじゃ はい
+
+364
+00:19:52.233 --> 00:19:55.066  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（岡さん）ハハハッ…
+（室谷）すいません
+
+365
+00:19:58.733 --> 00:20:03.333  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）実は
+いつも以上に飲み過ぎの室谷アナ
+
+366
+00:20:03.433 --> 00:20:05.766  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+きんき鍋のリポートも…
+
+367
+00:20:11.233 --> 00:20:13.633  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+ご… 極上の…
+（吉田）味噌(みそ)味って感じもするけど
+
+368
+00:20:14.000 --> 00:20:19.300  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+魚のおダシと メンメの脂の味
+
+369
+00:20:19.433 --> 00:20:21.400  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+これは な… なん…
+
+370
+00:20:23.100 --> 00:20:24.366  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（岡さん）
+ざるラーメンになります
+
+371
+00:20:26.300 --> 00:20:29.000  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+岩のりです
+練り込んでありますんで
+
+372
+00:20:30.033 --> 00:20:32.966  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）シメは
+岩のりざるラーメン
+
+373
+00:20:33.800 --> 00:20:36.233  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+麺自体に
+岩のりを練り込んだ―
+
+374
+00:20:36.333 --> 00:20:38.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+こだわりのラーメンです
+
+375
+00:20:38.933 --> 00:20:41.066  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+高架下で
+何年になるんですか？
+
+376
+00:20:41.166 --> 00:20:44.233  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+もう25年になりますかね
+（室谷）ええっ？
+
+377
+00:20:44.366 --> 00:20:46.933  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+まあ いろんな
+お客さんがいるんで ええ
+
+378
+00:20:47.066 --> 00:20:49.333  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+まあ いろいろ楽しめますね
+
+379
+00:20:52.033 --> 00:20:55.833  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）香菜ちゃんもね
+すばらしい酔い方を―
+
+380
+00:20:55.933 --> 00:20:57.600  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+するようになりましたね
+
+381
+00:21:00.566 --> 00:21:02.033  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ハハハハッ…
+
+382
+00:21:03.933 --> 00:21:08.533  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+岡さんの料理を
+心行くまで堪能した２人
+
+383
+00:21:08.933 --> 00:21:12.866  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+さあ 今夜は
+もう１件 行きますよ
+
+384
+00:21:15.266 --> 00:21:17.366  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+新札幌駅から
+すぐの―
+
+385
+00:21:17.466 --> 00:21:20.966  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ホテル エミシア札幌で
+シメの１杯
+
+386
+00:21:21.533 --> 00:21:25.633  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+31階の バーラウンジ
+スターズ･バー
+
+387
+00:21:26.233 --> 00:21:29.500  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+ここでは
+星と札幌の夜景が―
+
+388
+00:21:29.600 --> 00:21:32.433  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+あなたを
+優しく包んでくれます
+
+389
+00:21:33.166 --> 00:21:34.233  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+人気は…
+
+390
+00:21:37.666 --> 00:21:40.533  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+たっぷりの
+ズワイガニが自慢です
+
+391
+00:21:40.933 --> 00:21:42.133  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+そして…
+
+392
+00:21:43.133 --> 00:21:45.133  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（バーテンダー）失礼いたします
+（吉田）はい
+
+393
+00:21:45.233 --> 00:21:47.133  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+こちら
+桜花(おうか)というカクテルになります
+
+394
+00:21:47.233 --> 00:21:49.166  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+日本酒ベースで桜を…
+
+395
+00:21:49.266 --> 00:21:50.800  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）
+日本酒ベースなんですね
+
+396
+00:21:50.900 --> 00:21:51.600  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（バーテンダー）
+そちら あの…
+
+397
+00:21:51.700 --> 00:21:52.900  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+スノースタイルの
+部分にも―
+
+398
+00:21:53.000 --> 00:21:54.933  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+桜の花びらを
+使ってますので
+
+399
+00:21:55.033 --> 00:21:56.100  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）そうなんですか
+
+400
+00:21:56.200 --> 00:21:58.433  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+こちら 室谷さんには
+ハスカップを…
+
+401
+00:21:58.533 --> 00:22:00.666  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+道産のハスカップを
+使ってアレンジした―
+
+402
+00:22:00.766 --> 00:22:02.833  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+フローズンダイキリに
+なります
+
+403
+00:22:05.300 --> 00:22:08.866  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）うん… 花びらを
+含んだような感じはしますが
+
+404
+00:22:08.966 --> 00:22:10.566  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+雪の中の夜景
+
+405
+00:22:11.633 --> 00:22:15.066  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+すごい幻想的じゃないですかね 今
+
+406
+00:22:17.866 --> 00:22:18.933  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+ウ～ン…
+
+407
+00:22:19.400 --> 00:22:22.766  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+ハスカップそのものの味がしますね
+
+408
+00:22:22.866 --> 00:22:26.166  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+こう… 闇の中に
+沈んでいくっていう感じがね
+
+409
+00:22:26.266 --> 00:22:28.866  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+すごい きれいですね
+（室谷）ねえ
+
+410
+00:22:28.966 --> 00:22:30.533  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+幻想的ですよね
+
+411
+00:22:31.200 --> 00:22:35.600  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（ﾅﾚｰﾀｰ）さあ 絶景を目の前に
+今日の一句です
+
+412
+00:22:45.400 --> 00:22:46.066  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（吉田）うまい！
+
+413
+00:22:47.166 --> 00:22:48.400  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+雪を見たんですね？
+
+414
+00:22:48.500 --> 00:22:51.533  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+あの… 雪…
+溶けた雪のようだなと思いまして
+
+415
+00:22:51.633 --> 00:22:56.133  position:50.00%,middle  align:middle size:80.00%  line:79.33% 
+（吉田）それ… 雪は溶けても
+白いと思うけど ハハハッ…
+
+416
+00:22:56.866 --> 00:22:59.066  position:50.00%,middle  align:middle size:80.00%  line:84.67% 
+（ﾅﾚｰﾀｰ）気を取り直して 類さん
+
+417
+00:23:09.200 --> 00:23:13.466  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+グラスを縁取る雪の音
+（吉田）うん
+
+418
+00:23:14.533 --> 00:23:18.233  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+では 室谷アナ
+泣きの一回！
+
+419
+00:23:27.033 --> 00:23:30.566  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+なんとか
+滑り込みセーフという
+
+420
+00:23:30.666 --> 00:23:31.933  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+感じじゃないですかね
+
+421
+00:23:33.800 --> 00:23:37.333  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+（ナレーター）
+たくさんの出会いが
+あった今回の旅
+
+422
+00:23:38.166 --> 00:23:39.866  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+おいしい料理と―
+
+423
+00:23:39.966 --> 00:23:42.633  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+おいしいお酒を
+堪能しました
+
+424
+00:23:43.433 --> 00:23:44.666  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+さあ 類さん
+
+425
+00:23:44.766 --> 00:23:48.733  position:50.00%,middle  align:middle size:80.00%  line:10.00% 
+次は どこの町に
+行くとしましょうか？
+
