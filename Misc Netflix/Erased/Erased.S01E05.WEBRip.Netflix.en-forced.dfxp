@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="279862916t" end="301968332t" region="region_1" xml:id="subtitle0"><span style="style_1">52-YEAR-OLD MOTHER</span><br/><span style="style_1">STABBED TO DEATH WITH A KNIFE</span></p>
+<p begin="302802500t" end="315315000t" region="region_1" xml:id="subtitle1"><span style="style_1">POLICE SEEK MISSING SON</span></p>
+<p begin="366616250t" end="390390000t" region="region_2" xml:id="subtitle2"><span style="style_1">UNKNOWN CALLER</span></p>
+<p begin="2879543334t" end="2899146250t" region="region_1" xml:id="subtitle3"><span style="style_1">MAN IN HIS 20S ARRESTED</span></p>
+<p begin="2946276666t" end="2967130832t" region="region_1" xml:id="subtitle4"><span style="style_1">ANOTHER GIRL MURDERED</span></p>
+<p begin="2985482500t" end="3003000000t" region="region_1" xml:id="subtitle5"><span style="style_1">ANOTHER GIRL MURDERED</span></p>
+<p begin="3003834166t" end="3018849166t" region="region_1" xml:id="subtitle6"><span style="style_1">KAYO HINAZUKI - AYA NAKANISHI</span></p>
+<p begin="3060140416t" end="3074738332t" region="region_1" xml:id="subtitle7"><span style="style_1">BOY GOES MISSING</span></p>
+<p begin="3075572500t" end="3091421666t" region="region_2" xml:id="subtitle8"><span style="style_1">MISSING BOY HIROMI SUGITA</span></p>
+<p begin="3144808332t" end="3164411250t" region="region_1" xml:id="subtitle9"><span style="style_1">SUSPECT IN CHILD MURDERS</span></p>
+<p begin="3165662500t" end="3186099582t" region="region_1" xml:id="subtitle10"><span style="style_1">MALE FOOD SERVICE EMPLOYEE ARRESTED</span></p>
+<p begin="3484314166t" end="3498912082t" region="region_1" xml:id="subtitle11"><span style="style_1">SHIRATORI SUSPECTED</span><br/><span style="style_1">IN CHILD MURDERS</span></p>
+<p begin="3500163332t" end="3520600416t" region="region_1" xml:id="subtitle12"><span style="style_1">MURDERED IN AN INDUSTRIAL FREEZER</span></p>
+<p begin="4745574166t" end="4781026250t" region="region_1" xml:id="subtitle13"><span style="style_1">UNKNOWN CALLER</span></p>
+<p begin="8243652082t" end="8284943332t" region="region_1" xml:id="subtitle14"><span style="style_1">FEBRUARY 29TH MONDAY</span></p>
+<p begin="10502575416t" end="10522595416t" region="region_1" xml:id="subtitle15"><span style="style_1">MARCH 2ND THURSDAY</span></p>
+<p begin="11541112916t" end="11563218332t" region="region_1" xml:id="subtitle16"><span style="style_1">SHIRATORI FOODS INC.</span></p>
+<p begin="11685423750t" end="11705443750t" region="region_1" xml:id="subtitle17"><span style="style_1">DIE</span></p>
+<p begin="12134622500t" end="12160481666t" region="region_1" xml:id="subtitle18"><span style="style_1">HOW TO MAKE A STUN GUN</span><br/><span style="style_1">FROM A DISPOSABLE CAMERA</span></p>
+<p begin="12161315832t" end="12173828332t" region="region_1" xml:id="subtitle19"><span style="style_1">DISASSEMBLE THE CAMERA</span></p>
+<p begin="12218456250t" end="12237225000t" region="region_1" xml:id="subtitle20"><span style="style_1">PUT IN THE FLASH BUTTON</span><br/><span style="style_1">AND YOU'RE DONE!</span></p>
+<p begin="15440007916t" end="15475877082t" region="region_1" xml:id="subtitle21"><span style="style_1">MARCH 3RD THURSDAY</span></p>
+<p begin="19230878332t" end="19250481250t" region="region_1" xml:id="subtitle22"><span style="style_1">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>

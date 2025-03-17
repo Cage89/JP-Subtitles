@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style_1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_2"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="165000000t" end="187666666t" region="region_1" xml:id="subtitle0"><span style="style_1">It was an age of war.</span></p>
+<p begin="199666666t" end="218000000t" region="region_1" xml:id="subtitle1"><span style="style_1">Relying on only his own skill...</span></p>
+<p begin="221666666t" end="247333333t" region="region_1" xml:id="subtitle2"><span style="style_1">one man wandered the land.</span></p>
+<p begin="283000000t" end="302666666t" region="region_1" xml:id="subtitle3"><span style="style_1">A samurai.</span></p>
+<p begin="900666666t" end="948000000t" region="region_1" xml:id="subtitle4"><span style="style_1">This man is not</span><br/><span style="style_1">a wondering samurai of today.</span></p>
+<p begin="955666666t" end="987666666t" region="region_1" xml:id="subtitle5"><span style="style_1">I don't feel comfortable wearing these.</span></p>
+<p begin="999000000t" end="1030000000t" region="region_1" xml:id="subtitle6"><span style="style_2">The doctor told you</span><br/><span style="style_2">to protect against cataracts.</span></p>
+<p begin="1033333333t" end="1062000000t" region="region_1" xml:id="subtitle7"><span style="style_2">I don't need them</span><br/><span style="style_2">to go to the stationery store.</span></p>
+<p begin="1062666666t" end="1086000000t" region="region_1" xml:id="subtitle8"><span style="style_2">No. Put them on.</span></p>
+<p begin="1161333333t" end="1185666666t" region="region_1" xml:id="subtitle9"><span style="style_2">Don't worry, they look good on you.</span></p>
+<p begin="1203333333t" end="1216333333t" region="region_1" xml:id="subtitle10"><span style="style_2">That laugh...</span></p>
+<p begin="1225000000t" end="1241666666t" region="region_1" xml:id="subtitle11"><span style="style_2">She thinks I look silly.</span></p>
+<p begin="1304000000t" end="1321000000t" region="region_1" xml:id="subtitle12"><span style="style_1">I wonder if I look shady.</span></p>
+<p begin="1327000000t" end="1349333333t" region="region_1" xml:id="subtitle13"><span style="style_1">Or pretending to be a celebrity?</span></p>
+<p begin="1356666666t" end="1390333333t" region="region_1" xml:id="subtitle14"><span style="style_1">Or perhaps like a crazy senior citizen</span></p>
+<p begin="1392333333t" end="1411000000t" region="region_1" xml:id="subtitle15"><span style="style_1">who is way too into rock music?</span></p>
+<p begin="1440666666t" end="1454333333t" region="region_1" xml:id="subtitle16"><span style="style_2">I'm worrying too much.</span></p>
+<p begin="1532531000t" end="1560559000t" region="region_1" xml:id="subtitle17"><span style="style_2">TAKESHI KASUMI</span></p>
+<p begin="1565333333t" end="1578000000t" region="region_1" xml:id="subtitle18"><span style="style_1">Such a smooth write.</span></p>
+<p begin="1582000000t" end="1601666666t" region="region_1" xml:id="subtitle19"><span style="style_2">-How is it?</span><br/><span style="style_2">-Very nice.</span></p>
+<p begin="1627333333t" end="1642666666t" region="region_2" xml:id="subtitle20"><span style="style_1">Wow, $200?</span></p>
+<p begin="1691000000t" end="1727000000t" region="region_1" xml:id="subtitle21"><span style="style_2">You look like a professional writer</span><br/><span style="style_2">with that pen.</span></p>
+<p begin="1830666666t" end="1843666666t" region="region_1" xml:id="subtitle22"><span style="style_2">I went over budget.</span></p>
+<p begin="1852517334t" end="1879878000t" region="region_1" xml:id="subtitle23"><span style="style_1">I was trying to look good</span><br/><span style="style_1">and couldn't say no.</span></p>
+<p begin="1888333333t" end="1898333333t" region="region_1" xml:id="subtitle24"><span style="style_1">It's a bad habit.</span></p>
+<p begin="1993000000t" end="2010333333t" region="region_1" xml:id="subtitle25"><span style="style_1">Good thing I wore these.</span></p>
+<p begin="2149666666t" end="2161000000t" region="region_1" xml:id="subtitle26"><span style="style_1">Italian?</span></p>
+<p begin="2183333333t" end="2228333333t" region="region_1" xml:id="subtitle27"><span style="style_1">A beer and some pizza would be great</span><br/><span style="style_1">on a bright, sunny day like this.</span></p>
+<p begin="2229000000t" end="2239666666t" region="region_1" xml:id="subtitle28"><span style="style_2">All right!</span></p>
+<p begin="2249333333t" end="2266000000t" region="region_1" xml:id="subtitle29"><span style="style_2">Italian for lunch it is!</span></p>
+<p begin="2309307000t" end="2349680667t" region="region_1" xml:id="subtitle30"><span style="style_1">After retiring, he lost his title</span><br/><span style="style_1">as a corporate man</span></p>
+<p begin="2351015334t" end="2383714667t" region="region_1" xml:id="subtitle31"><span style="style_1">and the support of his company.</span></p>
+<p begin="2393057334t" end="2413744667t" region="region_1" xml:id="subtitle32"><span style="style_1">Takeshi Kasumi, 60 years old.</span></p>
+<p begin="2441105334t" end="2454118334t" region="region_1" xml:id="subtitle33"><span style="style_1">This story</span></p>
+<p begin="2455119334t" end="2479477000t" region="region_1" xml:id="subtitle34"><span style="style_1">is about a normal 60-year-old man...</span></p>
+<p begin="2484482000t" end="2502833667t" region="region_1" xml:id="subtitle35"><span style="style_1">who is helped by a masterless samurai,</span></p>
+<p begin="2511842667t" end="2534198334t" region="region_1" xml:id="subtitle36"><span style="style_1">eating freely without being held back.</span></p>
+<p begin="2540538000t" end="2559890667t" region="region_1" xml:id="subtitle37"><span style="style_1">A gourmet fantasy.</span></p>
+<p begin="2654985667t" end="2703701000t" region="region_2" xml:id="subtitle38"><span style="style_2">PASTA THE SAMURAI WAY</span></p>
+<p begin="2762333333t" end="2792000000t" region="region_1" xml:id="subtitle39"><span style="style_1">I thought it was going</span><br/><span style="style_1">to be a more casual place.</span></p>
+<p begin="2808333333t" end="2820000000t" region="region_1" xml:id="subtitle40"><span style="style_2">Here you are, sir.</span></p>
+<p begin="2853333333t" end="2865000000t" region="region_1" xml:id="subtitle41"><span style="style_2">This is our menu.</span></p>
+<p begin="2910666666t" end="2921333333t" region="region_2" xml:id="subtitle42"><span style="style_1">A course menu...</span></p>
+<p begin="2955666666t" end="2969000000t" region="region_1" xml:id="subtitle43"><span style="style_1">Fifty bucks for lunch?</span></p>
+<p begin="2980978000t" end="3000664334t" region="region_1" xml:id="subtitle44"><span style="style_1">I made a mistake coming here.</span></p>
+<p begin="3021351667t" end="3035032000t" region="region_1" xml:id="subtitle45"><span style="style_2">Are you ready to order?</span></p>
+<p begin="3046376667t" end="3061391667t" region="region_1" xml:id="subtitle46"><span style="style_2">The pasta course, please.</span></p>
+<p begin="3062666666t" end="3071666666t" region="region_1" xml:id="subtitle47"><span style="style_2">Understood.</span></p>
+<p begin="3074333333t" end="3088666666t" region="region_1" xml:id="subtitle48"><span style="style_2">Would you like a drink?</span></p>
+<p begin="3093000000t" end="3103000000t" region="region_1" xml:id="subtitle49"><span style="style_2">Beer to start!</span></p>
+<p begin="3106666666t" end="3116666666t" region="region_1" xml:id="subtitle50"><span style="style_2">Right away.</span></p>
+<p begin="3117781334t" end="3128458667t" region="region_1" xml:id="subtitle51"><span style="style_1">What have I done?!</span></p>
+<p begin="3141000000t" end="3165666666t" region="region_1" xml:id="subtitle52"><span style="style_1">"Beer to start"?</span></p>
+<p begin="3173000000t" end="3188666666t" region="region_1" xml:id="subtitle53"><span style="style_1">This isn't some pub.</span></p>
+<p begin="3198000000t" end="3233000000t" region="region_1" xml:id="subtitle54"><span style="style_1">They must think I'm an unrefined old man.</span></p>
+<p begin="3280333333t" end="3293666666t" region="region_1" xml:id="subtitle55"><span style="style_2">Here you are, sir.</span></p>
+<p begin="3295959334t" end="3317981334t" region="region_1" xml:id="subtitle56"><span style="style_2">-May I pour it for you?</span><br/><span style="style_2">-Yes, please.</span></p>
+<p begin="3522333333t" end="3532333333t" region="region_1" xml:id="subtitle57"><span style="style_1">Tastes great!</span></p>
+<p begin="3537000000t" end="3564666666t" region="region_1" xml:id="subtitle58"><span style="style_1">Nothing beats a cold beer on a hot day.</span></p>
+<p begin="3617333333t" end="3641333333t" region="region_1" xml:id="subtitle59"><span style="style_2">This is our house-baked bread.</span></p>
+<p begin="3645642001t" end="3675338334t" region="region_1" xml:id="subtitle60"><span style="style_2">Please try it with olive oil</span><br/><span style="style_2">and balsamic vinegar.</span></p>
+<p begin="3728333333t" end="3744666666t" region="region_1" xml:id="subtitle61"><span style="style_1">Balsamic?</span></p>
+<p begin="3880666666t" end="3899000000t" region="region_1" xml:id="subtitle62"><span style="style_1">The acidity is just right!</span></p>
+<p begin="3914000000t" end="3948333333t" region="region_1" xml:id="subtitle63"><span style="style_1">This is different and fun.</span></p>
+<p begin="3987000000t" end="3996666666t" region="region_1" xml:id="subtitle64"><span style="style_2">Welcome.</span></p>
+<p begin="3997666666t" end="4007000000t" region="region_1" xml:id="subtitle65"><span style="style_2">I'm Nakanishi.</span></p>
+<p begin="4010333333t" end="4022666666t" region="region_1" xml:id="subtitle66"><span style="style_2">We have your table.</span></p>
+<p begin="4048333333t" end="4063666666t" region="region_1" xml:id="subtitle67"><span style="style_1">What about this bread?</span></p>
+<p begin="4112666666t" end="4121666666t" region="region_1" xml:id="subtitle68"><span style="style_1">It's good.</span></p>
+<p begin="4135333333t" end="4155666666t" region="region_1" xml:id="subtitle69"><span style="style_1">So, this is Italian food too?</span></p>
+<p begin="4226000000t" end="4251666666t" region="region_1" xml:id="subtitle70"><span style="style_2">The blue-crab spaghetti here</span><br/><span style="style_2">is delectable.</span></p>
+<p begin="4252333333t" end="4268000000t" region="region_1" xml:id="subtitle71"><span style="style_2">Really? I love crab!</span></p>
+<p begin="4335000000t" end="4369000000t" region="region_1" xml:id="subtitle72"><span style="style_2">-So distasteful.</span><br/><span style="style_2">-It's too much.</span></p>
+<p begin="4369666666t" end="4381666666t" region="region_1" xml:id="subtitle73"><span style="style_2">I can't believe it.</span></p>
+<p begin="4386666666t" end="4400666666t" region="region_1" xml:id="subtitle74"><span style="style_2">Indeed.</span></p>
+<p begin="4402333333t" end="4413333333t" region="region_1" xml:id="subtitle75"><span style="style_2">Right?</span></p>
+<p begin="4440333333t" end="4466000000t" region="region_1" xml:id="subtitle76"><span style="style_1">Did I do something wrong?</span></p>
+<p begin="4543000000t" end="4553000000t" region="region_1" xml:id="subtitle77"><span style="style_1">That's it.</span></p>
+<p begin="4556333333t" end="4564666666t" region="region_1" xml:id="subtitle78"><span style="style_1">I forgot!</span></p>
+<p begin="4594666666t" end="4607000000t" region="region_1" xml:id="subtitle79"><span style="style_1">I really screwed up.</span></p>
+<p begin="4615333333t" end="4633333333t" region="region_1" xml:id="subtitle80"><span style="style_1">A major faux pas.</span></p>
+<p begin="4666000000t" end="4674333333t" region="region_1" xml:id="subtitle81"><span style="style_2">Yes?</span></p>
+<p begin="4675000000t" end="4691333333t" region="region_1" xml:id="subtitle82"><span style="style_2">Some white wine, please.</span></p>
+<p begin="4692000000t" end="4702666666t" region="region_1" xml:id="subtitle83"><span style="style_2">What label?</span></p>
+<p begin="4703333333t" end="4714000000t" region="region_1" xml:id="subtitle84"><span style="style_2">Yes...</span></p>
+<p begin="4718380334t" end="4730392334t" region="region_1" xml:id="subtitle85"><span style="style_2">May we see the list?</span></p>
+<p begin="4731393334t" end="4743405334t" region="region_1" xml:id="subtitle86"><span style="style_1">Wine?</span></p>
+<p begin="4778666666t" end="4790000000t" region="region_1" xml:id="subtitle87"><span style="style_1">Oh, now I see.</span></p>
+<p begin="4801666666t" end="4833333333t" region="region_1" xml:id="subtitle88"><span style="style_1">To order a beer at a place like this,</span></p>
+<p begin="4837833000t" end="4852848000t" region="region_1" xml:id="subtitle89"><span style="style_1">is like being uncultured.</span></p>
+<p begin="4864000000t" end="4886666666t" region="region_1" xml:id="subtitle90"><span style="style_1">I lost a point with that move.</span></p>
+<p begin="4919000000t" end="4941666666t" region="region_1" xml:id="subtitle91"><span style="style_1">But this one is worse.</span></p>
+<p begin="4951333333t" end="4973000000t" region="region_1" xml:id="subtitle92"><span style="style_1">That's three points lost.</span></p>
+<p begin="5165333333t" end="5208666666t" region="region_1" xml:id="subtitle93"><span style="style_1">Any more mistakes, and I'll be given</span><br/><span style="style_1">a red card and thrown out.</span></p>
+<p begin="5213666666t" end="5233666666t" region="region_1" xml:id="subtitle94"><span style="style_2">Here you are, sir.</span></p>
+<p begin="5249666666t" end="5259666666t" region="region_1" xml:id="subtitle95"><span style="style_2">Pardon my reach.</span></p>
+<p begin="5267262001t" end="5308970334t" region="region_1" xml:id="subtitle96"><span style="style_2">Potato and snow-crab terrine</span><br/><span style="style_2">with a crab bagna càuda sauce,</span></p>
+<p begin="5310000000t" end="5345666666t" region="region_1" xml:id="subtitle97"><span style="style_2">topped with an herb salad,</span><br/><span style="style_2">sourced from a farm.</span></p>
+<p begin="5380333333t" end="5388666666t" region="region_1" xml:id="subtitle98"><span style="style_1">What'd he say?</span></p>
+<p begin="5401666666t" end="5419333333t" region="region_1" xml:id="subtitle99"><span style="style_1">I couldn't catch a word.</span></p>
+<p begin="5503498000t" end="5528189334t" region="region_1" xml:id="subtitle100"><span style="style_1">I really don't like all this formality.</span></p>
+<p begin="5661333333t" end="5675333333t" region="region_1" xml:id="subtitle101"><span style="style_1">It's like potato salad.</span></p>
+<p begin="5691333333t" end="5720666666t" region="region_1" xml:id="subtitle102"><span style="style_1">I think he said crab sauce.</span></p>
+<p begin="5763666666t" end="5773666666t" region="region_1" xml:id="subtitle103"><span style="style_1">I was right.</span></p>
+<p begin="5797000000t" end="5822666666t" region="region_1" xml:id="subtitle104"><span style="style_1">Potato salad and crab sauce...</span></p>
+<p begin="5828823000t" end="5861188667t" region="region_1" xml:id="subtitle105"><span style="style_1">can be made at home.</span><br/><span style="style_1">No need to go out to a restaurant.</span></p>
+<p begin="5900333333t" end="5936333333t" region="region_1" xml:id="subtitle106"><span style="style_2">Today's soup is</span><br/><span style="style_2">a yellow bell pepper cold soup.</span></p>
+<p begin="5946666666t" end="5958333333t" region="region_1" xml:id="subtitle107"><span style="style_2">Enjoy.</span></p>
+<p begin="6002000000t" end="6015000000t" region="region_1" xml:id="subtitle108"><span style="style_1">What kind of soup?</span></p>
+<p begin="6028333333t" end="6061000000t" region="region_1" xml:id="subtitle109"><span style="style_1">I was distracted</span><br/><span style="style_1">by this UFO saucer of a plate...</span></p>
+<p begin="6068666666t" end="6083333333t" region="region_1" xml:id="subtitle110"><span style="style_1">and didn't hear a word.</span></p>
+<p begin="6117111000t" end="6130457667t" region="region_1" xml:id="subtitle111"><span style="style_1">I know the rules.</span></p>
+<p begin="6139133001t" end="6157151000t" region="region_1" xml:id="subtitle112"><span style="style_1">No noise allowed.</span></p>
+<p begin="6173834334t" end="6182843334t" region="region_1" xml:id="subtitle113"><span style="style_1">Oops.</span></p>
+<p begin="6323000000t" end="6333333333t" region="region_1" xml:id="subtitle114"><span style="style_1">This is good!</span></p>
+<p begin="6343670667t" end="6367361000t" region="region_1" xml:id="subtitle115"><span style="style_1">I don't know what it is, but it's great.</span></p>
+<p begin="6440000000t" end="6459000000t" region="region_1" xml:id="subtitle116"><span style="style_1">Eating too quickly is also rude.</span></p>
+<p begin="6475333333t" end="6518000000t" region="region_1" xml:id="subtitle117"><span style="style_1">I can't help it if I'm thought</span><br/><span style="style_1">to be a grown man who lacks...</span></p>
+<p begin="6526333333t" end="6546000000t" region="region_1" xml:id="subtitle118"><span style="style_1">refinement and manners.</span></p>
+<p begin="6599666666t" end="6616666666t" region="region_1" xml:id="subtitle119"><span style="style_1">This is wearing me out.</span></p>
+<p begin="6788448334t" end="6802128667t" region="region_1" xml:id="subtitle120"><span style="style_2">Apologies for the wait.</span></p>
+<p begin="6806000000t" end="6816666666t" region="region_1" xml:id="subtitle121"><span style="style_2">Here you are.</span></p>
+<p begin="6825333333t" end="6848333333t" region="region_1" xml:id="subtitle122"><span style="style_2">Vegetable and mozzarella spaghettini</span></p>
+<p begin="6849333333t" end="6861666666t" region="region_1" xml:id="subtitle123"><span style="style_2">with tomato sauce.</span></p>
+<p begin="6939666666t" end="6982000000t" region="region_1" xml:id="subtitle124"><span style="style_1">I need a tape recorder</span><br/><span style="style_1">to remember all that.</span></p>
+<p begin="7045705334t" end="7096756334t" region="region_1" xml:id="subtitle125"><span style="style_1">I'll definitely get thrown out</span><br/><span style="style_1">if I slurp these noodles.</span></p>
+<p begin="7214000000t" end="7249666666t" region="region_1" xml:id="subtitle126"><span style="style_1">Although, in Japan,</span><br/><span style="style_1">it's considered appropriate</span></p>
+<p begin="7250333333t" end="7268000000t" region="region_1" xml:id="subtitle127"><span style="style_1">to slurp noodles.</span></p>
+<p begin="7390666666t" end="7412333333t" region="region_1" xml:id="subtitle128"><span style="style_1">I'm bound up by all this etiquette.</span></p>
+<p begin="7417666666t" end="7431333333t" region="region_1" xml:id="subtitle129"><span style="style_1">I can't even move.</span></p>
+<p begin="7570333333t" end="7599666666t" region="region_1" xml:id="subtitle130"><span style="style_2">Sir, you must eat with proper manners.</span></p>
+<p begin="7617943667t" end="7626952667t" region="region_1" xml:id="subtitle131"><span style="style_2">What's this?</span></p>
+<p begin="7730666666t" end="7747333333t" region="region_1" xml:id="subtitle132"><span style="style_2">He's hopeless.</span></p>
+<p begin="7748000000t" end="7763000000t" region="region_1" xml:id="subtitle133"><span style="style_2">Truly disgusting.</span></p>
+<p begin="7834000000t" end="7846000000t" region="region_1" xml:id="subtitle134"><span style="style_2">Indeed, the food...</span></p>
+<p begin="7875000000t" end="7889000000t" region="region_1" xml:id="subtitle135"><span style="style_2">is delicious!</span></p>
+<p begin="7936595334t" end="7973298667t" region="region_1" xml:id="subtitle136"><span style="style_2">But you'll ruin the flavor with</span><br/><span style="style_2">all your petty talk.</span></p>
+<p begin="7981333333t" end="7989666666t" region="region_1" xml:id="subtitle137"><span style="style_2">No?</span></p>
+<p begin="8426666666t" end="8461333333t" region="region_1" xml:id="subtitle138"><span style="style_2">It's because you're always doing that!</span></p>
+<p begin="8551333333t" end="8561333333t" region="region_1" xml:id="subtitle139"><span style="style_2">Excuse me.</span></p>
+<p begin="8563666666t" end="8572000000t" region="region_1" xml:id="subtitle140"><span style="style_2">Yes?</span></p>
+<p begin="8598666666t" end="8610000000t" region="region_1" xml:id="subtitle141"><span style="style_2">Chopsticks, please.</span></p>
+<p begin="8610602000t" end="8631289334t" region="region_1" xml:id="subtitle142"><span style="style_2">-Yes, sir.</span><br/><span style="style_2">-And more bread, please.</span></p>
+<p begin="8631956667t" end="8641633000t" region="region_1" xml:id="subtitle143"><span style="style_2">Understood.</span></p>
+<p begin="8782333333t" end="8790666666t" region="region_1" xml:id="subtitle144"><span style="style_1">Delicious.</span></p>
+<p begin="8799000000t" end="8819333333t" region="region_1" xml:id="subtitle145"><span style="style_1">The tomato flavor is exquisite.</span></p>
+<p begin="8885333333t" end="8913333333t" region="region_1" xml:id="subtitle146"><span style="style_1">This is mozzarella cheese.</span></p>
+<p begin="8936594334t" end="8953945000t" region="region_1" xml:id="subtitle147"><span style="style_1">It goes good with the tomato.</span></p>
+<p begin="9154333333t" end="9181000000t" region="region_1" xml:id="subtitle148"><span style="style_1">Indeed, the food here is delicious.</span></p>
+<p begin="9199190000t" end="9227551667t" region="region_1" xml:id="subtitle149"><span style="style_1">If I can't eat the way I want,</span><br/><span style="style_1">what's the point?</span></p>
+<p begin="9241666666t" end="9284000000t" region="region_1" xml:id="subtitle150"><span style="style_1">I was about to ruining this great food.</span></p>
+<p begin="9309666666t" end="9320333333t" region="region_1" xml:id="subtitle151"><span style="style_1">In the end...</span></p>
+<p begin="9326650667t" end="9343334000t" region="region_1" xml:id="subtitle152"><span style="style_1">I was the one being paranoid</span></p>
+<p begin="9346000000t" end="9369666666t" region="region_1" xml:id="subtitle153"><span style="style_1">about everything.</span></p>
+<p begin="9499490000t" end="9512169334t" region="region_1" xml:id="subtitle154"><span style="style_1">It's a nice place.</span></p>
+<p begin="9524515000t" end="9535192334t" region="region_1" xml:id="subtitle155"><span style="style_1">Maybe next time...</span></p>
+<p begin="9541666666t" end="9557333333t" region="region_1" xml:id="subtitle156"><span style="style_1">I'll bring her here.</span></p>
+<p begin="9672333333t" end="9680666666t" region="region_1" xml:id="subtitle157"><span style="style_2">I'm back.</span></p>
+<p begin="9689000000t" end="9699666666t" region="region_1" xml:id="subtitle158"><span style="style_2">Welcome home.</span></p>
+<p begin="9732333333t" end="9742333333t" region="region_1" xml:id="subtitle159"><span style="style_2">That laugh!</span></p>
+<p begin="9749666666t" end="9758000000t" region="region_1" xml:id="subtitle160"><span style="style_2">What?</span></p>
+<p begin="9758666666t" end="9774000000t" region="region_1" xml:id="subtitle161"><span style="style_2">Before I left today,</span></p>
+<p begin="9775000000t" end="9792333333t" region="region_1" xml:id="subtitle162"><span style="style_2">you looked at me and said,</span></p>
+<p begin="9796333333t" end="9821000000t" region="region_1" xml:id="subtitle163"><span style="style_2">they look good, but you laughed.</span></p>
+<p begin="9821666666t" end="9836666666t" region="region_1" xml:id="subtitle164"><span style="style_2">So?</span></p>
+<p begin="9847170667t" end="9860183667t" region="region_1" xml:id="subtitle165"><span style="style_2">They really look good?</span></p>
+<p begin="9874000000t" end="9894000000t" region="region_1" xml:id="subtitle166"><span style="style_2">I told you. They look good on you.</span></p>
+<p begin="9911234667t" end="9928585334t" region="region_1" xml:id="subtitle167"><span style="style_2">You weren't making fun of me?</span></p>
+<p begin="9932666666t" end="9950333333t" region="region_1" xml:id="subtitle168"><span style="style_2">You're being paranoid.</span></p>
+<p begin="9960666666t" end="9969000000t" region="region_1" xml:id="subtitle169"><span style="style_2">Oh, okay.</span></p>
+<p begin="9974333333t" end="9985333333t" region="region_1" xml:id="subtitle170"><span style="style_2">It's just...</span></p>
+<p begin="9989666666t" end="10024333333t" region="region_1" xml:id="subtitle171"><span style="style_2">I thought you looked</span><br/><span style="style_2">like a friendly mobster.</span></p>
+<p begin="10058000000t" end="10081000000t" region="region_1" xml:id="subtitle172"><span style="style_2">So... is that good, or bad?</span></p>
+<p begin="11003993000t" end="11027016001t" region="region_1" xml:id="subtitle173"><span style="style_2">Subtitle translation by</span><br/><span style="style_2">Jeffrey Hales</span></p>
+</div>
+</body>
+</tt>

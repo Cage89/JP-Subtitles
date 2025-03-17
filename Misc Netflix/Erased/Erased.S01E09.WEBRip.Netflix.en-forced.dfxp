@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style_1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_2"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="228978750t" end="290707084t" region="region_1" xml:id="subtitle0"><span style="style_1">A red fire burns ablaze</span><br/><span style="style_1">Don't lose, stand up</span></p>
+<p begin="291541250t" end="309892917t" region="region_1" xml:id="subtitle1"><span style="style_2">AUGUST 7TH 2003</span></p>
+<p begin="310727082t" end="371204166t" region="region_1" xml:id="subtitle2"><span style="style_1">I promise to make the tears stop</span></p>
+<p begin="372038332t" end="403736666t" region="region_1" xml:id="subtitle3"><span style="style_1">Wonder, Wonder, such a kind heart</span></p>
+<p begin="404570832t" end="427927499t" region="region_1" xml:id="subtitle4"><span style="style_1">Wonder, Wonder</span></p>
+<p begin="428761666t" end="447530416t" region="region_1" xml:id="subtitle5"><span style="style_1">Embracing you</span></p>
+<p begin="448364582t" end="484233749t" region="region_1" xml:id="subtitle6"><span style="style_1">His loving heart is his weapon</span></p>
+<p begin="485067916t" end="505922082t" region="region_1" xml:id="subtitle7"><span style="style_1">A hero who protects--</span></p>
+<p begin="506756249t" end="527193332t" region="region_1" xml:id="subtitle8"><span style="style_1">A hero who protects--</span></p>
+<p begin="528027499t" end="548881666t" region="region_1" xml:id="subtitle9"><span style="style_1">A hero who protects--</span></p>
+<p begin="549715832t" end="570987082t" region="region_1" xml:id="subtitle10"><span style="style_1">A hero who protects--</span></p>
+<p begin="571821250t" end="588921666t" region="region_1" xml:id="subtitle11"><span style="style_1">A hero who protects--</span></p>
+<p begin="1824739582t" end="1851015832t" region="region_1" xml:id="subtitle12"><span style="style_2">HE'S UP.</span></p>
+<p begin="2201365832t" end="2240988750t" region="region_2" xml:id="subtitle13"><span style="style_2">AUGUST 21ST 2003 THURSDAY</span></p>
+<p begin="3032612916t" end="3072235832t" region="region_1" xml:id="subtitle14"><span style="style_2">AUGUST 25TH 2003 MONDAY</span></p>
+<p begin="10646469166t" end="10679418750t" region="region_1" xml:id="subtitle15"><span style="style_2">TO MY DEAR FRIEND, SATORU FUJINUMA</span></p>
+<p begin="14400219166t" end="14435254166t" region="region_2" xml:id="subtitle16"><span style="style_2">COURTESY OF THE NISHIFUNABASHI</span><br/><span style="style_2">CITY COUNCIL</span></p>
+<p begin="18488470000t" end="18505987500t" region="region_1" xml:id="subtitle17"><span style="style_2">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="bottom"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" xml:id="top"/>
+</layout>
+</head>
+<body region="bottom">
+<div xml:space="preserve">
+<p begin="149732916t" end="175175000t" style="normal" xml:id="subtitle0">-Misato's in the truck in front of us?<br/>-Yeah.</p>
+<p begin="201868332t" end="226476249t" style="normal" xml:id="subtitle1">Okay, why don't you drink<br/>some tea to relax.</p>
+<p begin="227310416t" end="235652082t" style="normal" xml:id="subtitle2">Thanks.</p>
+<p begin="374540832t" end="407490416t" style="normal" xml:id="subtitle3">If you can drive up next to it,<br/>I'll look in and check.</p>
+<p begin="412495416t" end="432515416t" style="normal" xml:id="subtitle4">If it's true, then this is serious.</p>
+<p begin="438354582t" end="455454999t" style="normal" xml:id="subtitle5">I'm sorry, Mr. Yashiro.</p>
+<p begin="456289166t" end="485484999t" style="normal" xml:id="subtitle6">I could just be wasting your time<br/>playing detective.</p>
+<p begin="492992499t" end="506339166t" style="normal" xml:id="subtitle7">What do you mean?</p>
+<p begin="518017499t" end="541791250t" style="normal" xml:id="subtitle8">We're pretending<br/>there's some kidnapper out there,</p>
+<p begin="542625416t" end="586002082t" style="normal" xml:id="subtitle9">so we've been making friends with any girl<br/>we see off by themselves.</p>
+<p begin="596429166t" end="628961666t" style="normal" xml:id="subtitle10">It's to prevent any potential kidnappings<br/>from happening.</p>
+<p begin="644810832t" end="666499166t" style="normal" xml:id="subtitle11">You're doing the right thing, then.</p>
+<p begin="674423750t" end="690272916t" style="normal" xml:id="subtitle12">It's an effective strategy.</p>
+<p begin="701534166t" end="744493750t" style="normal" xml:id="subtitle13">But as a result,<br/>I basically used Misato like bait.</p>
+<p begin="757423332t" end="801217082t" style="normal" xml:id="subtitle14">Satoru. I've come to really respect<br/>your proactiveness and mentality.</p>
+<p begin="815815000t" end="845010832t" style="normal" xml:id="subtitle15">Is that why you've suddenly become<br/>more outgoing?</p>
+<p begin="845844999t" end="884216666t" style="normal" xml:id="subtitle16">Yeah, I felt like I wanted<br/>to fill the void inside.</p>
+<p begin="892141249t" end="911744166t" style="normal" xml:id="subtitle17">Both in others and myself.</p>
+<p begin="937186249t" end="954703749t" style="normal" xml:id="subtitle18">I feel the same way, Satoru.</p>
+<p begin="960125832t" end="983899582t" style="normal" xml:id="subtitle19">It's my life philosophy.</p>
+<p begin="1004336666t" end="1012678332t" style="normal" xml:id="subtitle20"><span style="normal_1">Crap.</span></p>
+<p begin="1019351666t" end="1061894166t" style="normal" xml:id="subtitle21"><span style="normal_1">That's something Yashiro told us in the</span><br/><span style="normal_1">first timeline for our graduation.</span></p>
+<p begin="1104853750t" end="1113195416t" style="normal" xml:id="subtitle22">Hey, Satoru.</p>
+<p begin="1122788332t" end="1162828332t" style="normal" xml:id="subtitle23">There's no need for you to feel<br/>any guilt or shame right now.</p>
+<p begin="1174923750t" end="1216215000t" style="normal" xml:id="subtitle24">The reason people do anything<br/>is to compensate for their own faults.</p>
+<p begin="1224973750t" end="1251250000t" style="normal" xml:id="subtitle25">That goes for both good deeds<br/>and bad deeds.</p>
+<p begin="1257506250t" end="1272938332t" style="normal" xml:id="subtitle26">The motivation is the same.</p>
+<p begin="1290872916t" end="1313812500t" style="normal" xml:id="subtitle27"><span style="normal_1">That's a pretty extreme way of thinking.</span></p>
+<p begin="1375123750t" end="1383882500t" style="normal" xml:id="subtitle28">I've actually</p>
+<p begin="1388887500t" end="1428927500t" style="normal" xml:id="subtitle29">done a lot of things lately in order<br/>to get closer to a certain person.</p>
+<p begin="1438103332t" end="1455203750t" style="normal" xml:id="subtitle30">Sometimes I'd be direct,</p>
+<p begin="1461042916t" end="1486902082t" style="normal" xml:id="subtitle31">other times I'd use<br/>some really dirty tricks.</p>
+<p begin="1497329166t" end="1510258750t" style="normal" xml:id="subtitle32">It was really fun.</p>
+<p begin="1536535000t" end="1557806250t" style="normal" xml:id="subtitle33">Is it someone you have feelings for?</p>
+<p begin="1573238332t" end="1597429166t" style="normal" xml:id="subtitle34">I suppose you could compare it to romance.</p>
+<p begin="1608273332t" end="1635800832t" style="normal" xml:id="subtitle35">I mean, it's about filling a void<br/>in both cases.</p>
+<p begin="1682097082t" end="1696277916t" style="normal" xml:id="subtitle36">Want me to get you some candy?</p>
+<p begin="1727976249t" end="1755086666t" style="normal" xml:id="subtitle37">Thanks.<br/>But there isn't any candy in there.</p>
+<p begin="1773438332t" end="1800131666t" style="normal" xml:id="subtitle38">SLEEP AID</p>
+<p begin="1800965832t" end="1826824999t" style="normal" xml:id="subtitle39">LAXATIVE</p>
+<p begin="1834749582t" end="1844759582t" style="normal" xml:id="subtitle40">That's because...</p>
+<p begin="1860191666t" end="1876874999t" style="normal" xml:id="subtitle41">this isn't my car.</p>
+<p begin="1983648332t" end="1991989999t" style="normal" xml:id="subtitle42">Don't worry.</p>
+<p begin="2001582916t" end="2033281249t" style="normal" xml:id="subtitle43">Misato isn't in that truck.</p>
+<p begin="2168416250t" end="2186767916t" style="normal" xml:id="subtitle44">YAMOTO FARM</p>
+<p begin="2434932500t" end="2468299166t" style="normal" xml:id="subtitle45">Satoru, do you ever feel<br/>like your happiest moment</p>
+<p begin="2469133332t" end="2494158332t" style="normal" xml:id="subtitle46">is something that gets<br/>constantly renewed?</p>
+<p begin="2516263750t" end="2560057500t" style="normal" xml:id="subtitle47">You know, mine was just renewed today.</p>
+<p begin="3088085000t" end="3096426666t" style="normal" xml:id="subtitle48">Satoru.</p>
+<p begin="3116863750t" end="3135215416t" style="normal" xml:id="subtitle49">You lied to me about one thing.</p>
+<p begin="3156486666t" end="3195692500t" style="normal" xml:id="subtitle50">You were doing everything knowing<br/>there was a kidnapper in this town.</p>
+<p begin="3203200000t" end="3211958750t" style="normal" xml:id="subtitle51">Right?</p>
+<p begin="3241154582t" end="3257837916t" style="normal" xml:id="subtitle52">I didn't want to believe it.</p>
+<p begin="3267847916t" end="3294541250t" style="normal" xml:id="subtitle53">Someone that could anticipate<br/>my every action.</p>
+<p begin="3307470832t" end="3317897916t" style="normal" xml:id="subtitle54">But it was clear.</p>
+<p begin="3329159166t" end="3354601250t" style="normal" xml:id="subtitle55">The day I gave you and your mother a ride</p>
+<p begin="3355435416t" end="3384214166t" style="normal" xml:id="subtitle56">was the day I was going to<br/>put my plan into action.</p>
+<p begin="3583579999t" end="3621534582t" style="normal" xml:id="subtitle57">That was the second time you<br/>stopped a plan of mine after Kayo.</p>
+<p begin="3622368749t" end="3655318332t" style="normal" xml:id="subtitle58">That's when I began to think<br/>it wasn't just a coincidence.</p>
+<p begin="3659489166t" end="3685765416t" style="normal" xml:id="subtitle59">And so I decided to use Misato as bait.</p>
+<p begin="3692855832t" end="3739986249t" style="normal" xml:id="subtitle60">Satoru, if you showed up for Misato,<br/>my suspicion would turn to conviction.</p>
+<p begin="3753749999t" end="3767096666t" style="normal" xml:id="subtitle61">That you were my enemy.</p>
+<p begin="3849679166t" end="3863859999t" style="normal" xml:id="subtitle62">This can't be happening.</p>
+<p begin="3879292082t" end="3918914999t" style="normal" xml:id="subtitle63">This time, all of the pieces fell right<br/>into place, just as I planned.</p>
+<p begin="3940603332t" end="3963542916t" style="normal" xml:id="subtitle64">I gave Misato tea mixed with laxatives.</p>
+<p begin="3987316666t" end="4015261249t" style="normal" xml:id="subtitle65">Koichi! You don't get food if you lose!</p>
+<p begin="4016095416t" end="4031944582t" style="normal" xml:id="subtitle66"><span style="normal_1">I ordered lunches from the Shiratoris.</span></p>
+<p begin="4032778749t" end="4041120416t" style="normal" xml:id="subtitle67">SHIRATORI FOODS</p>
+<p begin="4130376249t" end="4138717916t" style="normal" xml:id="subtitle68">RESTROOM</p>
+<p begin="4139552082t" end="4150813332t" style="normal" xml:id="subtitle69">EMERGENCY EXIT</p>
+<p begin="4235064166t" end="4265511249t" style="normal" xml:id="subtitle70">-Satoru? What's up? The bathroom's--<br/>-Mr. Yashiro, great timing!</p>
+<p begin="4266345416t" end="4286782499t" style="normal" xml:id="subtitle71">There's something<br/>I have to check right now.</p>
+<p begin="4325154166t" end="4338917916t" style="normal" xml:id="subtitle72">And now you're here.</p>
+<p begin="4353932916t" end="4376038332t" style="normal" xml:id="subtitle73">This is me in my true form.</p>
+<p begin="4428590832t" end="4443188750t" style="normal" xml:id="subtitle74"><span style="normal_1">I'm such an idiot.</span></p>
+<p begin="4455284166t" end="4474470000t" style="normal" xml:id="subtitle75"><span style="normal_1">I didn't even suspect him at all.</span></p>
+<p begin="4487399582t" end="4502831666t" style="normal" xml:id="subtitle76"><span style="normal_1">By trusting Yashiro,</span></p>
+<p begin="4510756250t" end="4536198332t" style="normal" xml:id="subtitle77"><span style="normal_1">I was trying to</span><br/><span style="normal_1">eliminate him from suspicion.</span></p>
+<p begin="4545791250t" end="4554132916t" style="normal" xml:id="subtitle78"><span style="normal_1">But...</span></p>
+<p begin="4562891666t" end="4577072500t" style="normal" xml:id="subtitle79"><span style="normal_1">the real killer</span></p>
+<p begin="4585831250t" end="4598760832t" style="normal" xml:id="subtitle80"><span style="normal_1">is the man next to me.</span></p>
+<p begin="4605017082t" end="4615861250t" style="normal" xml:id="subtitle81"><span style="normal_1">Gaku Yashiro.</span></p>
+<p begin="4627956666t" end="4663825832t" style="normal" xml:id="subtitle82">Honestly, it was exhilarating<br/>to have my back against the wall.</p>
+<p begin="4673418750t" end="4712207500t" style="normal" xml:id="subtitle83">It's as if you've seen the future.</p>
+<p begin="4984980000t" end="4993321666t" style="normal" xml:id="subtitle84">Satoru.</p>
+<p begin="4999995000t" end="5033361666t" style="normal" xml:id="subtitle85">I had a brother<br/>who was two years older than me.</p>
+<p begin="5046291250t" end="5059637916t" style="normal" xml:id="subtitle86">He was a violent one.</p>
+<p begin="5065894166t" end="5083828750t" style="normal" xml:id="subtitle87">I got punched every day.</p>
+<p begin="5238983750t" end="5263591666t" style="normal" xml:id="subtitle88">It was because both of my parents<br/>doted on me.</p>
+<p begin="5276938332t" end="5305300000t" style="normal" xml:id="subtitle89">Parental neglect<br/>created a void inside him.</p>
+<p begin="5311973332t" end="5341169166t" style="normal" xml:id="subtitle90">And even as a child,<br/>I understood what he was doing</p>
+<p begin="5342003332t" end="5357435416t" style="normal" xml:id="subtitle91">was to try and fill that void.</p>
+<p begin="5428339582t" end="5457952500t" style="normal" xml:id="subtitle92"><span style="normal_1">Eventually, my brother replaced beating me</span></p>
+<p begin="5458786666t" end="5490902082t" style="normal" xml:id="subtitle93"><span style="normal_1">with sexually molesting young girls.</span></p>
+<p begin="5491736250t" end="5521766250t" style="normal" xml:id="subtitle94">-There's this really neat book.<br/>-Oh, really?</p>
+<p begin="5570565000t" end="5590585000t" style="normal" xml:id="subtitle95">Make sure you keep watch, Gaku.</p>
+<p begin="5606851250t" end="5618529582t" style="normal" xml:id="subtitle96">-Let's go.<br/>-Okay.</p>
+<p begin="5704031666t" end="5724051666t" style="normal" xml:id="subtitle97">THE SPIDER'S THREAD</p>
+<p begin="5814975832t" end="5835830000t" style="normal" xml:id="subtitle98"><span style="normal_1">Keeping them from talking</span><br/><span style="normal_1">was also my job.</span></p>
+<p begin="5836664166t" end="5851679166t" style="normal" xml:id="subtitle99">Here, this is for you.</p>
+<p begin="5852513332t" end="5869196666t" style="normal" xml:id="subtitle100"><span style="normal_1">I made sure to do a good job.</span></p>
+<p begin="5883377500t" end="5896307082t" style="normal" xml:id="subtitle101"><span style="normal_1">I did what I had to do.</span></p>
+<p begin="5958035416t" end="5978889582t" style="normal" xml:id="subtitle102">And when I was in seventh grade,</p>
+<p begin="5986397082t" end="5995990000t" style="normal" xml:id="subtitle103">it happened.</p>
+<p begin="6252496250t" end="6286280000t" style="normal" xml:id="subtitle104"><span style="normal_1">Until then, nobody had ever</span><br/><span style="normal_1">come near that building.</span></p>
+<p begin="6333410416t" end="6367611250t" style="normal" xml:id="subtitle105"><span style="normal_1">If someone got close,</span><br/><span style="normal_1">it was also part of my job</span></p>
+<p begin="6368445416t" end="6380957916t" style="normal" xml:id="subtitle106"><span style="normal_1">to let him know.</span></p>
+<p begin="6450193750t" end="6461455000t" style="normal" xml:id="subtitle107">Brother?</p>
+<p begin="6517344166t" end="6525685832t" style="normal" xml:id="subtitle108">Brother?!</p>
+<p begin="6610770832t" end="6619112500t" style="normal" xml:id="subtitle109">Brother...</p>
+<p begin="6626202916t" end="6637464166t" style="normal" xml:id="subtitle110">Is she...?</p>
+<p begin="6643303332t" end="6659569582t" style="normal" xml:id="subtitle111">I couldn't have her yelling.</p>
+<p begin="6665825832t" end="6679172500t" style="normal" xml:id="subtitle112">I didn't have a choice.</p>
+<p begin="6717127082t" end="6728388332t" style="normal" xml:id="subtitle113">This is your fault!</p>
+<p begin="6732976249t" end="6757584166t" style="normal" xml:id="subtitle114">This happened<br/>because you didn't keep watch!</p>
+<p begin="6788865416t" end="6808468332t" style="normal" xml:id="subtitle115">Come on, help me carry her.</p>
+<p begin="6859769582t" end="6868528332t" style="normal" xml:id="subtitle116">Hurry up!</p>
+<p begin="7041617916t" end="7076652916t" style="normal" xml:id="subtitle117"><span style="normal_1">In that moment,</span><br/><span style="normal_1">I realized what I had to do.</span></p>
+<p begin="7082074999t" end="7093336249t" style="normal" xml:id="subtitle118"><span style="normal_1">I made my decision.</span></p>
+<p begin="7094170416t" end="7111687916t" style="normal" xml:id="subtitle119">FORENSIC MEDICINE</p>
+<p begin="7338164166t" end="7380706666t" style="normal" xml:id="subtitle120"><span style="normal_1">Having killed a young girl, guilt</span><br/><span style="normal_1">tragically drove my brother to suicide.</span></p>
+<p begin="7388214166t" end="7433259166t" style="normal" xml:id="subtitle121"><span style="normal_1">Police forensics ruled out murder.</span></p>
+<p begin="7438681249t" end="7452862082t" style="normal" xml:id="subtitle122"><span style="normal_1">The case was closed.</span></p>
+<p begin="7498741249t" end="7514173332t" style="normal" xml:id="subtitle123">That's when I realized...</p>
+<p begin="7525851666t" end="7568394166t" style="normal" xml:id="subtitle124">that my brother was inside me, too.<br/>And that I was looking to fill my void.</p>
+<p begin="7583409166t" end="7605514582t" style="normal" xml:id="subtitle125">You know full well, don't you, Satoru?</p>
+<p begin="7614690416t" end="7644720416t" style="normal" xml:id="subtitle126">Just what that entails for me.</p>
+<p begin="7673082082t" end="7701860832t" style="normal" xml:id="subtitle127">But now it's game over, Satoru.</p>
+<p begin="7713539166t" end="7723132082t" style="normal" xml:id="subtitle128">For you.</p>
+<p begin="7733559166t" end="7741900832t" style="normal" xml:id="subtitle129">And for me.</p>
+<p begin="7878704166t" end="7901226666t" style="normal" xml:id="subtitle130">Your actions should be commended.</p>
+<p begin="7922080832t" end="7943352082t" style="normal" xml:id="subtitle131">My plan and preparation, too.</p>
+<p begin="7957532916t" end="7998824166t" style="normal" xml:id="subtitle132">We both deserve something<br/>for our hard work.</p>
+<p begin="8027602916t" end="8051376666t" style="normal" xml:id="subtitle133">What you will be getting<br/>is peace for this town.</p>
+<p begin="8062637916t" end="8080989582t" style="normal" xml:id="subtitle134">That's what you wanted, isn't it?</p>
+<p begin="8121029582t" end="8148557082t" style="normal" xml:id="subtitle135">And what I will be getting is a death</p>
+<p begin="8154813332t" end="8172747916t" style="normal" xml:id="subtitle136">by my hands, just for myself.</p>
+<p begin="8701192500t" end="8722880832t" style="normal" xml:id="subtitle137">I've decided to leave this town.</p>
+<p begin="8735393332t" end="8755830416t" style="normal" xml:id="subtitle138">That makes a happy ending for both of us.</p>
+<p begin="8767508750t" end="8789614166t" style="normal" xml:id="subtitle139">Isn't that right, Satoru?</p>
+<p begin="9224632082t" end="9235059166t" style="normal" xml:id="subtitle140">Satoru?!</p>
+<p begin="9508665832t" end="9517007500t" style="normal" xml:id="subtitle141">Kids.</p>
+<p begin="9524097916t" end="9541615416t" style="normal" xml:id="subtitle142">I have some very sad news.</p>
+<p begin="9578318750t" end="9586660416t" style="normal" xml:id="subtitle143">Last night,</p>
+<p begin="9594585000t" end="9633790832t" style="normal" xml:id="subtitle144">a car carrying Satoru Fujinuma<br/>was in an accident.</p>
+<p begin="9672579582t" end="9703860832t" style="normal" xml:id="subtitle145">Satoru is currently in critical condition.</p>
+<p begin="9715122082t" end="9739730000t" style="normal" xml:id="subtitle146">He's being treated in the hospital's ICU.</p>
+<p begin="9770594166t" end="9778935832t" style="normal" xml:id="subtitle147">Everyone,</p>
+<p begin="9790197082t" end="9808131666t" style="normal" xml:id="subtitle148">Satoru is coming back.</p>
+<p begin="9836493332t" end="9850257082t" style="normal" xml:id="subtitle149">Let's all pray...</p>
+<p begin="9871111250t" end="9886543332t" style="normal" xml:id="subtitle150">for his safe recovery.</p>
+<p begin="10045452082t" end="10073813750t" style="normal" xml:id="subtitle151">Why, Satoru?</p>
+<p begin="10132622500t" end="10141798332t" style="normal" xml:id="subtitle152">Why?</p>
+<p begin="10156396250t" end="10185592082t" style="normal" xml:id="subtitle153">MIKOTO ELEMENTARY</p>
+<p begin="10749071666t" end="10776599166t" style="normal" xml:id="subtitle154">Here is your cheeseburger set<br/>and croquette set.</p>
+<p begin="10777433332t" end="10790780000t" style="normal" xml:id="subtitle155">That will be 1100 yen.</p>
+<p begin="10791614166t" end="10804960832t" style="normal" xml:id="subtitle156">Out of 2000 yen.</p>
+<p begin="10815387916t" end="10837910416t" style="normal" xml:id="subtitle157">Here is 900 yen in change.<br/>Thank you.</p>
+<p begin="10865437916t" end="10877533332t" style="normal" xml:id="subtitle158">Welcome.</p>
+<p begin="10906729166t" end="10917156250t" style="normal" xml:id="subtitle159">Sawada...</p>
+<p begin="11072311250t" end="11096085000t" style="normal" xml:id="subtitle160">We could've talked back at my place.</p>
+<p begin="11118190416t" end="11140712916t" style="normal" xml:id="subtitle161">I wanted it to be just the two of us.</p>
+<p begin="11165320832t" end="11174496666t" style="normal" xml:id="subtitle162">So, what is it?</p>
+<p begin="11196602082t" end="11207863332t" style="normal" xml:id="subtitle163">Do you feel like...</p>
+<p begin="11218290416t" end="11241230000t" style="normal" xml:id="subtitle164">you're not allowed to enjoy yourself?</p>
+<p begin="11308797500t" end="11344666666t" style="normal" xml:id="subtitle165">Don't be so hard on yourself.<br/>You should go out and have fun.</p>
+<p begin="11384706666t" end="11400972916t" style="normal" xml:id="subtitle166">Do I look that bad?</p>
+<p begin="11405977916t" end="11422661250t" style="normal" xml:id="subtitle167">No, that's not what I meant.</p>
+<p begin="11440595832t" end="11451022916t" style="normal" xml:id="subtitle168">I'm just saying...</p>
+<p begin="11462701250t" end="11483972500t" style="normal" xml:id="subtitle169">you should let loose once in a while.</p>
+<p begin="11536942082t" end="11566555000t" region="top" style="normal" xml:id="subtitle170">THE WANDERERS EXHIBIT<br/>UENO ART MUSEUM</p>
+<p begin="11579067500t" end="11587409166t" style="normal" xml:id="subtitle171">It's in Ueno?</p>
+<p begin="11613685416t" end="11639961666t" style="normal" xml:id="subtitle172">Hey. I just want you to remember.</p>
+<p begin="11650388750t" end="11685423750t" style="normal" xml:id="subtitle173">You can actually...<br/>make it to Ueno on one train.</p>
+<p begin="11741730000t" end="11759247500t" style="normal" xml:id="subtitle174">What did he mean by that?</p>
+<p begin="11809297500t" end="11819724582t" style="normal" xml:id="subtitle175">Nothing.</p>
+<p begin="11862684166t" end="11896467916t" style="normal" xml:id="subtitle176">MANABU NISHIZONO</p>
+<p begin="12074979582t" end="12104592500t" style="normal" xml:id="subtitle177">You're the lawyer<br/>Takanari Kobayashi's son,</p>
+<p begin="12110848750t" end="12121692916t" style="normal" xml:id="subtitle178">Kenya, aren't you?</p>
+<p begin="12150054582t" end="12164652500t" style="normal" xml:id="subtitle179">I'm Sawada, a journalist.</p>
+<p begin="12171325832t" end="12214285416t" style="normal" xml:id="subtitle180">When you were in grade school,<br/>I worked for TV Ishikari's News Division.</p>
+<p begin="12234305416t" end="12265586666t" style="normal" xml:id="subtitle181">Then... you know about the incident.</p>
+<p begin="12272260000t" end="12288943332t" style="normal" xml:id="subtitle182">Come to my office with me,</p>
+<p begin="12295199582t" end="12304792500t" style="normal" xml:id="subtitle183">young Kobayashi.</p>
+<p begin="12615936666t" end="12663484166t" style="normal" xml:id="subtitle184">Today... is when the statute<br/>of limitations is up for the case</p>
+<p begin="12664318332t" end="12696433750t" style="normal" xml:id="subtitle185">your father took<br/>involving the murder of the little girl.</p>
+<p begin="12849503332t" end="12870774582t" style="normal" xml:id="subtitle186">We mostly narrowed down the suspects.</p>
+<p begin="12892462916t" end="12901221666t" style="normal" xml:id="subtitle187">But still...</p>
+<p begin="12912482916t" end="12936673750t" style="normal" xml:id="subtitle188">I couldn't find any conclusive evidence.</p>
+<p begin="12958779166t" end="12967537916t" style="normal" xml:id="subtitle189">It's because...</p>
+<p begin="13006326666t" end="13019256250t" style="normal" xml:id="subtitle190">I wasn't good enough.</p>
+<p begin="13068889166t" end="13088492082t" style="normal" xml:id="subtitle191">So, what are you going to do now?</p>
+<p begin="13111014582t" end="13127697916t" style="normal" xml:id="subtitle192">Are you going to give up?</p>
+<p begin="13141044582t" end="13166903750t" style="normal" xml:id="subtitle193">-I can't let things end here.<br/>-In that case...</p>
+<p begin="13179833332t" end="13206943750t" style="normal" xml:id="subtitle194">do you want to find<br/>the real killer with me?</p>
+<p begin="13818804999t" end="13827563749t" style="normal" xml:id="subtitle195">Okay.</p>
+<p begin="14034437082t" end="14046532499t" style="normal" xml:id="subtitle196">I'm home.</p>
+<p begin="14212948749t" end="14229632082t" style="normal" xml:id="subtitle197">It was hot again today, huh?</p>
+<p begin="14251737499t" end="14260079166t" style="normal" xml:id="subtitle198">Satoru.</p>
+<p begin="14609594999t" end="14629614999t" style="normal" xml:id="subtitle199">Subtitle translation by<br/>Zensho Yamamoto</p>
+</div>
+</body>
+</tt>

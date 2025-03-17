@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="977643332t" end="1001417082t" region="region_1" xml:id="subtitle0"><span style="style_1">MARCH 7TH MONDAY</span></p>
+<p begin="2860357500t" end="2887467916t" region="region_1" xml:id="subtitle1"><span style="style_1">WE ARE LOOKING FOR AYA NAKANISHI</span></p>
+<p begin="2888719166t" end="2912492916t" region="region_2" xml:id="subtitle2"><span style="style_1">AYA NAKANISHI (11)</span></p>
+<p begin="3821734582t" end="3844257082t" region="region_2" xml:id="subtitle3"><span style="style_1">KAYO HINAZUKI</span></p>
+<p begin="6659152500t" end="6694187500t" region="region_1" xml:id="subtitle4"><span style="style_1">JAPAN UNDERGROUND</span><br/><span style="style_1">BIG CRIMES FROM THE SHOWA PERIOD</span></p>
+<p begin="7177169999t" end="7209285416t" region="region_1" xml:id="subtitle5"><span style="style_1">MARCH 3RD</span></p>
+<p begin="8022597916t" end="8060969582t" region="region_1" xml:id="subtitle6"><span style="style_1">ASSEMBLY MEMBER MANABU NISHIZONO</span></p>
+<p begin="8419661249t" end="8474299166t" region="region_1" xml:id="subtitle7"><span style="style_1">I'LL BE HOME AFTER 5 - AIRI</span></p>
+<p begin="8553544999t" end="8588579999t" region="region_1" xml:id="subtitle8"><span style="style_1">PROTECT YOURSELF! SELF-DEFENSE</span></p>
+<p begin="8604429166t" end="8642383750t" region="region_1" xml:id="subtitle9"><span style="style_1">DEFENDING YOURSELF</span><br/><span style="style_1">WITH HOUSEHOLD OBJECTS</span></p>
+<p begin="8717875832t" end="8746237500t" region="region_1" xml:id="subtitle10"><span style="style_1">HOW TO MAKE A STUN GUN</span><br/><span style="style_1">FROM A DISPOSABLE CAMERA</span></p>
+<p begin="8900141250t" end="8929754166t" region="region_1" xml:id="subtitle11"><span style="style_1">YOUNG GIRL KIDNAPPINGS CHIBA</span></p>
+<p begin="8948522916t" end="8964372082t" region="region_1" xml:id="subtitle12"><span style="style_1">CRIMES AGAINST CHILDREN DATABASE</span></p>
+<p begin="12926663750t" end="12945849582t" region="region_1" xml:id="subtitle13"><span style="style_1">INBOX - FROM SACHIKO FUJINUMA</span></p>
+<p begin="12947100832t" end="12975879582t" region="region_1" xml:id="subtitle14"><span style="style_1">THIS IS SATORU. WAIT IN YOUR ROOM.</span><br/><span style="style_1">I'M COMING OVER NOW.</span></p>
+<p begin="16659142499t" end="16680830832t" region="region_1" xml:id="subtitle15"><span style="style_1">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>

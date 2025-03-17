@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="1709207500t" end="1742157084t" region="region_1" xml:id="subtitle0"><span style="style_1">Hope you don't mind,</span><br/><span style="style_1">I just included everything my son likes.</span></p>
+<p begin="1742991249t" end="1762594166t" region="region_1" xml:id="subtitle1"><span style="style_1">Sachiko Fujinuma</span></p>
+<p begin="2158823332t" end="2190104582t" region="region_1" xml:id="subtitle2"><span style="style_1">MARCH 4TH FRIDAY</span></p>
+<p begin="16656222916t" end="16677494166t" region="region_1" xml:id="subtitle3"><span style="style_1">CHIBA CITY - FATHER ARRESTED</span><br/><span style="style_1">FOR MURDERING DAUGHTER</span></p>
+<p begin="16678328332t" end="16707941249t" region="region_1" xml:id="subtitle4"><span style="style_1">SLEEPING PILLS FOUND IN STOMACH,</span><br/><span style="style_1">MURDERED WITH HOMEMADE COAL STOVE BURNER</span></p>
+<p begin="18289104166t" end="18307455832t" region="region_1" xml:id="subtitle5"><span style="style_1">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>

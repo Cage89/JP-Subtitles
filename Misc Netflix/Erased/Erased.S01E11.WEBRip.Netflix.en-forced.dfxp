@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="2264345416t" end="2292707082t" region="region_1" xml:id="subtitle0"><span style="style_1">SLEEPING PILLS</span></p>
+<p begin="7442852082t" end="7462872082t" region="region_2" xml:id="subtitle1"><span style="style_1">SASANQUA GET-TOGETHER</span></p>
+<p begin="9351425416t" end="9381455416t" region="region_2" xml:id="subtitle2"><span style="style_1">LET'S GO PICK SATORU UP.</span><br/><span style="style_1">COME TO BUNGALOW F AT 4:30 - SACHIKO</span></p>
+<p begin="9451525416t" end="9480721250t" region="region_2" xml:id="subtitle3"><span style="style_1">THIS IS SATORU. WAIT IN YOUR ROOM.</span><br/><span style="style_1">I'M COMING OVER NOW.</span></p>
+<p begin="12030768750t" end="12066220834t" region="region_2" xml:id="subtitle4"><span style="style_1">LET'S WATCH THE FIREWORKS TOGETHER WITH</span><br/><span style="style_1">THE MUSICIAN PAST THE SWAYING BRIDGE.</span></p>
+<p begin="12067055000t" end="12084155417t" region="region_1" xml:id="subtitle5"><span style="style_1">IT'LL BE OUR LITTLE SECRET!</span><br/><span style="style_1">SATORU</span></p>
+<p begin="12998819166t" end="13038025000t" region="region_2" xml:id="subtitle6"><span style="style_1">NEBARA ROPE BRIDGE</span></p>
+<p begin="14650469167t" end="14687589584t" region="region_2" xml:id="subtitle7"><span style="style_1">LET'S WATCH THE FIREWORKS TOGETHER WITH</span><br/><span style="style_1">THE MUSICIAN PAST THE SWAYING BRIDGE.</span></p>
+<p begin="14688423750t" end="14709277917t" region="region_1" xml:id="subtitle8"><span style="style_1">IT'LL BE OUR LITTLE SECRET!</span><br/><span style="style_1">SATORU</span></p>
+<p begin="14901553334t" end="14913648750t" region="region_2" xml:id="subtitle9"><span style="style_1">INBOX - SACHIKO FUJINUMA</span></p>
+<p begin="14914482917t" end="14951603334t" region="region_2" xml:id="subtitle10"><span style="style_1">SACHIKO FUJINUMA: I'LL BE WAITING FOR YOU</span><br/><span style="style_1">AT THE SWAYING BRIDGE</span></p>
+<p begin="16530680832t" end="16548198332t" region="region_2" xml:id="subtitle11"><span style="style_1">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>

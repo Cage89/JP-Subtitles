@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="bottom"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" xml:id="top"/>
+</layout>
+</head>
+<body region="bottom">
+<div xml:space="preserve">
+<p begin="69235832t" end="98848750t" style="normal" xml:id="subtitle0">NETFLIX - SERIAL ORYGINALNY</p>
+<p begin="150567082t" end="163913750t" style="normal" xml:id="subtitle1"><span style="normal_1">Hinazuki była nieobecna.</span></p>
+<p begin="176426250t" end="188938750t" style="normal" xml:id="subtitle2"><span style="normal_1">Miałem złe przeczucie.</span></p>
+<p begin="287787500t" end="314480832t" style="normal" xml:id="subtitle3">Hinazuki! Jest tu ktoś?</p>
+<p begin="737403332t" end="766182082t" style="normal" xml:id="subtitle4"><span style="normal_1">Trzeci marca 1988.</span></p>
+<p begin="788287500t" end="799548750t" style="normal" xml:id="subtitle5"><span style="normal_1">Kayo Hinazuki...</span></p>
+<p begin="810810000t" end="823739582t" style="normal" xml:id="subtitle6"><span style="normal_1">zaginęła.</span></p>
+<p begin="977643332t" end="985984999t" style="normal" xml:id="subtitle7">7 MARCA (PONIEDZIAŁEK)</p>
+<p begin="986819166t" end="997246249t" style="normal" xml:id="subtitle8">Kayo przeniosła się</p>
+<p begin="998080416t" end="1025190832t" style="normal" xml:id="subtitle9">do Sapporo, gdzie zamieszka z babcią.</p>
+<p begin="1026024999t" end="1047296249t" style="normal" xml:id="subtitle10">Przykro jej, że nie mogła się pożegnać.</p>
+<p begin="1056472082t" end="1097346250t" style="normal" xml:id="subtitle11">Wiem, że możecie być smutni,<br/>ale Kayo jest szczęśliwa w Sapporo.</p>
+<p begin="1098180416t" end="1126125000t" style="normal" xml:id="subtitle12">Nie ma powodów do smutku.</p>
+<p begin="1763428332t" end="1794292499t" style="normal" xml:id="subtitle13"><span style="normal_1">Nie dotrzymaliśmy ostatniej obietnicy,</span></p>
+<p begin="1808890416t" end="1821819999t" style="normal" xml:id="subtitle14"><span style="normal_1">którą sobie złożyliśmy.</span></p>
+<p begin="1936517916t" end="1946527916t" style="normal" xml:id="subtitle15">Już jestem.</p>
+<p begin="2084165416t" end="2092507082t" style="normal" xml:id="subtitle16">Satoru?</p>
+<p begin="2147979166t" end="2172587082t" style="normal" xml:id="subtitle17">Rozumiem, że martwisz się o Kayo,</p>
+<p begin="2181762916t" end="2201782916t" style="normal" xml:id="subtitle18">ale to nie twoja wina, że jej nie ma.</p>
+<p begin="2220551666t" end="2228893332t" style="normal" xml:id="subtitle19">Nie...</p>
+<p begin="2244325416t" end="2262677082t" style="normal" xml:id="subtitle20">Nie mogłem nic zrobić.</p>
+<p begin="2278526250t" end="2290621666t" style="normal" xml:id="subtitle21">Musiało być coś więcej.</p>
+<p begin="2301882916t" end="2322320000t" style="normal" xml:id="subtitle22">Coś więcej, co mógłbym zrobić.</p>
+<p begin="2391555832t" end="2414495416t" style="normal" xml:id="subtitle23">Jedna osoba nie zrobi wszystkiego.</p>
+<p begin="2424505416t" end="2456620832t" style="normal" xml:id="subtitle24">To zarozumiałe,<br/>że po wszystkim się obwiniasz.</p>
+<p begin="2507087916t" end="2523354166t" style="normal" xml:id="subtitle25">Zjedzmy teraz.</p>
+<p begin="2773604166t" end="2814061250t" style="normal" xml:id="subtitle26">Nie spodziewałem się,<br/>że drugie dziecko zaginie tak szybko.</p>
+<p begin="2867447916t" end="2888302082t" style="normal" xml:id="subtitle27">SZUKAMY AYI NAKANISHI</p>
+<p begin="2894141250t" end="2922085832t" style="normal" xml:id="subtitle28"><span style="normal_1">Osie czasu zaczynają się zbiegać.</span></p>
+<p begin="2922920000t" end="2941271666t" style="normal" xml:id="subtitle29">AYA NAKANISHI<br/>HIROMI SUGITA</p>
+<p begin="2969633332t" end="2982145832t" style="normal" xml:id="subtitle30"><span style="normal_1">Byłem obezwładniony</span></p>
+<p begin="2992572916t" end="3008839166t" style="normal" xml:id="subtitle31"><span style="normal_1">poczuciem bezsilności.</span></p>
+<p begin="3281611666t" end="3290787500t" style="normal" xml:id="subtitle32">Do zobaczenia!</p>
+<p begin="3822151666t" end="3862191666t" style="normal" xml:id="subtitle33">KAYO HINAZUKI</p>
+<p begin="3908487916t" end="3931427499t" style="normal" xml:id="subtitle34"><span style="normal_1">Minął tydzień od jej zaginięcia.</span></p>
+<p begin="3940186249t" end="3962291666t" style="normal" xml:id="subtitle35"><span style="normal_1">Nie wiadomo nawet, czy już nie żyje.</span></p>
+<p begin="4032361666t" end="4054049999t" style="normal" xml:id="subtitle36"><span style="normal_1">Przepraszam, Fujinuma...</span></p>
+<p begin="4059889166t" end="4094924166t" style="normal" xml:id="subtitle37">Nie zdążyłam ci zrobić prezentu.</p>
+<p begin="4103265832t" end="4127873749t" style="normal" xml:id="subtitle38">- Jutro dam ci prezent.<br/>- Dobrze.</p>
+<p begin="4132044582t" end="4142054582t" style="normal" xml:id="subtitle39">Obiecuję.</p>
+<p begin="4438600832t" end="4450279166t" style="normal" xml:id="subtitle40">Gdzie ja jestem?</p>
+<p begin="4534530000t" end="4556635416t" style="normal" xml:id="subtitle41">Z powrotem w 2006 roku?</p>
+<p begin="4895724166t" end="4909905000t" style="normal" xml:id="subtitle42"><span style="normal_1">Nie zrobiłem dość.</span></p>
+<p begin="4922834582t" end="4956618332t" style="normal" xml:id="subtitle43"><span style="normal_1">Dziesięcioletnie dziecko</span><br/><span style="normal_1">bez wiedzy i doświadczenia.</span></p>
+<p begin="4991653332t" end="5010422082t" style="normal" xml:id="subtitle44"><span style="normal_1">Powinienem zdać sobie z tego sprawę</span></p>
+<p begin="5011256250t" end="5040035000t" style="normal" xml:id="subtitle45"><span style="normal_1">i potraktować to,</span><br/><span style="normal_1">jakby na szali było moje życie.</span></p>
+<p begin="5083828750t" end="5099260832t" style="normal" xml:id="subtitle46">Już doszło do tego.</p>
+<p begin="5124285832t" end="5137215416t" style="normal" xml:id="subtitle47"><span style="normal_1">Czy powinienem wyjść</span></p>
+<p begin="5141803332t" end="5155567082t" style="normal" xml:id="subtitle48"><span style="normal_1">i powiedzieć im prawdę?</span></p>
+<p begin="5194355832t" end="5203531666t" style="normal" xml:id="subtitle49">Chwileczkę.</p>
+<p begin="5211456250t" end="5246491250t" style="normal" xml:id="subtitle50">Czarne włosy, 180 centymetrów,<br/>szczupły, biała koszula.</p>
+<p begin="5252330416t" end="5260672082t" style="normal" xml:id="subtitle51">Mam.</p>
+<p begin="5261506250t" end="5281526250t" style="normal" xml:id="subtitle52">- Co z czynszem?<br/>- Płacił w terminie.</p>
+<p begin="5282360416t" end="5301546250t" style="normal" xml:id="subtitle53">- Zgadza się?<br/>- Tak.</p>
+<p begin="5307385416t" end="5315727082t" style="normal" xml:id="subtitle54"><span style="normal_1">Nie.</span></p>
+<p begin="5321566250t" end="5353264582t" style="normal" xml:id="subtitle55"><span style="normal_1">Nikt mi nie uwierzy,</span><br/><span style="normal_1">a na pewno nie policja.</span></p>
+<p begin="5364108750t" end="5396641250t" style="normal" xml:id="subtitle56"><span style="normal_1">W takiej sytuacji</span><br/><span style="normal_1">sam muszę znaleźć mordercę.</span></p>
+<p begin="5506334166t" end="5546791250t" style="normal" xml:id="subtitle57">Zgłupiałeś? Telefon nie może być włączony.</p>
+<p begin="5563057500t" end="5595590000t" style="normal" xml:id="subtitle58">Namierzą cię przez GPS.</p>
+<p begin="5603097500t" end="5614358750t" style="normal" xml:id="subtitle59">Airi.</p>
+<p begin="5627705416t" end="5645640000t" style="normal" xml:id="subtitle60">Nazwałeś mnie po imieniu.</p>
+<p begin="5670665000t" end="5689433750t" style="normal" xml:id="subtitle61">Wszystko w porządku?</p>
+<p begin="5696941250t" end="5707785416t" style="normal" xml:id="subtitle62">Proszę.</p>
+<p begin="5715710000t" end="5724051666t" style="normal" xml:id="subtitle63">Satoru.</p>
+<p begin="5732393332t" end="5765342916t" style="normal" xml:id="subtitle64">Mieszkam blisko. Może pójdziesz ze mną?</p>
+<p begin="5790367916t" end="5802463332t" style="normal" xml:id="subtitle65">Okej?</p>
+<p begin="5862106250t" end="5877121250t" style="normal" xml:id="subtitle66">Poczekaj chwilę.</p>
+<p begin="5967628332t" end="5979306666t" style="normal" xml:id="subtitle67">Siadaj!</p>
+<p begin="5990985000t" end="6007668332t" style="normal" xml:id="subtitle68">Nie martw się, mieszkam sama.</p>
+<p begin="6023934582t" end="6051879166t" style="normal" xml:id="subtitle69">- Dobrze.<br/>- Rozgość się.</p>
+<p begin="6126537082t" end="6164074582t" style="normal" xml:id="subtitle70">Przeprowadziłam się ze wsi,<br/>bo chcę pójść do szkoły.</p>
+<p begin="6164908750t" end="6184511666t" style="normal" xml:id="subtitle71">Mieszkanie należy do cioci.</p>
+<p begin="6192436250t" end="6212456250t" style="normal" xml:id="subtitle72">Rozumiem.</p>
+<p begin="6298375416t" end="6317561250t" style="normal" xml:id="subtitle73">Jesteś pewna, że chcesz mnie gościć?</p>
+<p begin="6325902916t" end="6359686666t" style="normal" xml:id="subtitle74">Widząc twoje zachowanie,<br/>domyślam się, że wiesz o morderstwie.</p>
+<p begin="6364274582t" end="6398058332t" style="normal" xml:id="subtitle75">Tak. Policja przyszła do restauracji<br/>i pytali o ciebie.</p>
+<p begin="6402229166t" end="6428922500t" style="normal" xml:id="subtitle76">- Mówili też o tym w wiadomościach.<br/>- Więc czemu?</p>
+<p begin="6448525416t" end="6464791666t" style="normal" xml:id="subtitle77">Czy to nie oczywiste?</p>
+<p begin="6468128332t" end="6494821666t" style="normal" xml:id="subtitle78">Niemożliwe, żebyś zabił swoją matkę.</p>
+<p begin="6560720832t" end="6574484582t" style="normal" xml:id="subtitle79">Dziękuję.</p>
+<p begin="6612022082t" end="6623283332t" style="normal" xml:id="subtitle80">Przy okazji.</p>
+<p begin="6635378750t" end="6653313332t" style="normal" xml:id="subtitle81">Zapomniałeś tego.</p>
+<p begin="6663740416t" end="6694604582t" style="normal" xml:id="subtitle82">JAPOŃSKIE PODZIEMIE<br/>WIELKIE PRZESTĘPSTWA OKRESU SHOWA</p>
+<p begin="6748408332t" end="6763006249t" style="normal" xml:id="subtitle83">Mam coś twojego!</p>
+<p begin="6763840416t" end="6803880416t" region="top" style="normal" xml:id="subtitle84"><span style="normal_1">Myślałem, że dała mi wtedy książkę.</span></p>
+<p begin="6807217082t" end="6841000832t" style="normal" xml:id="subtitle85">Wygląda na to,<br/>że kłopoty same cię znajdują.</p>
+<p begin="6852679166t" end="6890216666t" style="normal" xml:id="subtitle86">Jak morderstwo Kayo Hinazuki<br/>w dzień święta Hina.</p>
+<p begin="6900643749t" end="6921914999t" style="normal" xml:id="subtitle87">To było w twoim rodzinnym miasteczku?</p>
+<p begin="6927754166t" end="6939849582t" style="normal" xml:id="subtitle88">Podczas święta Hina?</p>
+<p begin="6965291666t" end="6978638332t" style="normal" xml:id="subtitle89">Płakałam, czytając.</p>
+<p begin="7022014999t" end="7042869166t" style="normal" xml:id="subtitle90">Na pewno jesteś głodny!</p>
+<p begin="7049542499t" end="7071647916t" style="normal" xml:id="subtitle91">Wyjdę i coś ci kupię.</p>
+<p begin="7177587082t" end="7185928749t" style="normal" xml:id="subtitle92">TRZECIEGO MARCA</p>
+<p begin="7186762916t" end="7201360832t" style="normal" xml:id="subtitle93">Książka się zmieniła.</p>
+<p begin="7220963749t" end="7239732499t" style="normal" xml:id="subtitle94">Udało mi się odmienić historię?</p>
+<p begin="7298958332t" end="7313139166t" style="normal" xml:id="subtitle95">Udało mi się.</p>
+<p begin="7376535832t" end="7403229166t" style="normal" xml:id="subtitle96">Wróciłam.</p>
+<p begin="7656815832t" end="7691850832t" style="normal" xml:id="subtitle97">Jak mogą go ścigać,<br/>skoro najbardziej cierpi?</p>
+<p begin="7700192499t" end="7714373332t" style="normal" xml:id="subtitle98">To takie niesprawiedliwe.</p>
+<p begin="7817392916t" end="7832407916t" style="normal" xml:id="subtitle99"><span style="normal_1">W Funabashi w dzielnicy Chiba</span></p>
+<p begin="7833242082t" end="7868277082t" style="normal" xml:id="subtitle100"><span style="normal_1">52-letnia kobieta</span><br/><span style="normal_1">została zadźgana na śmierć,</span></p>
+<p begin="7869111249t" end="7894553332t" style="normal" xml:id="subtitle101"><span style="normal_1">policja uznała to za morderstwo.</span></p>
+<p begin="7895387499t" end="7925000416t" style="normal" xml:id="subtitle102"><span style="normal_1">Aktualnie poszukują syna ofiary,</span></p>
+<p begin="7925834582t" end="7951276666t" style="normal" xml:id="subtitle103"><span style="normal_1">Satoru Fujinumy,</span><br/><span style="normal_1">powiązanego z morderstwem.</span></p>
+<p begin="7957115832t" end="7985477499t" style="normal" xml:id="subtitle104"><span style="normal_1">Do zajścia doszło</span><br/><span style="normal_1">wczoraj około godziny 18.</span></p>
+<p begin="7988397082t" end="8010502499t" style="normal" xml:id="subtitle105"><span style="normal_1">W mieszkaniu w Funabashi</span></p>
+<p begin="8011336666t" end="8045120416t" style="normal" xml:id="subtitle106"><span style="normal_1">znaleziono ciało martwej kobiety,</span><br/><span style="normal_1">która zmarła w wyniku dźgnięć nożem.</span></p>
+<p begin="8045954582t" end="8054296249t" style="normal" xml:id="subtitle107">MANABU NISHIZONO</p>
+<p begin="8055130416t" end="8090999582t" style="normal" xml:id="subtitle108"><span style="normal_1">Policja wszczęła śledztwo</span><br/><span style="normal_1">w sprawie morderstwa,</span></p>
+<p begin="8096838749t" end="8135210416t" style="normal" xml:id="subtitle109"><span style="normal_1">a jej syn, Satoru Fujinuma,</span><br/><span style="normal_1">który także tam zamieszkiwał,</span></p>
+<p begin="8136044582t" end="8157315832t" style="normal" xml:id="subtitle110"><span style="normal_1">nie był widziany od czasu zajścia.</span></p>
+<p begin="8578152916t" end="8588579999t" style="normal" xml:id="subtitle111">BROŃ SIĘ!<br/>SAMOOBRONA</p>
+<p begin="8617775832t" end="8642800832t" style="normal" xml:id="subtitle112">SAMOOBRONA Z WYKORZYSTANIEM<br/>DOMOWYCH PRZEDMIOTÓW</p>
+<p begin="8718292916t" end="8746654582t" style="normal" xml:id="subtitle113">JAK ZROBIĆ PARALIZATOR<br/>Z JEDNORAZOWEGO APARATU</p>
+<p begin="8900141250t" end="8917241666t" style="normal" xml:id="subtitle114">PORWANIA MŁODYCH DZIEWCZĄT</p>
+<p begin="8918075832t" end="8948105832t" style="normal" xml:id="subtitle115">Próbę porwania.</p>
+<p begin="8954362082t" end="8964789166t" style="normal" xml:id="subtitle116">PORWANIA MŁODYCH DZIEWCZĄT, CHIBA</p>
+<p begin="9014422082t" end="9030688332t" style="normal" xml:id="subtitle117">BAZA PRZESTĘPSTW WOBEC DZIECI</p>
+<p begin="9042366666t" end="9084909166t" style="normal" xml:id="subtitle118"><span style="normal_1">Kluczowe słowo dotyczące mordercy matki</span><br/><span style="normal_1">to „porwania”.</span></p>
+<p begin="9085743332t" end="9105763332t" style="normal" xml:id="subtitle119"><span style="normal_1">Oraz „mężczyzna od 20 do 50 lat”.</span></p>
+<p begin="9186260416t" end="9207531666t" style="normal" xml:id="subtitle120">Trzy lata temu w tym mieście...</p>
+<p begin="9208365832t" end="9225049166t" style="normal" xml:id="subtitle121">Porwano młodą dziewczynę.</p>
+<p begin="9237978750t" end="9268008750t" style="normal" xml:id="subtitle122"><span style="normal_1">Chcę się temu przyjrzeć. To niebezpieczne,</span></p>
+<p begin="9272596666t" end="9299707082t" style="normal" xml:id="subtitle123"><span style="normal_1">ale im więcej mija czasu,</span><br/><span style="normal_1">tym mniej mam możliwości.</span></p>
+<p begin="9306797500t" end="9329737082t" style="normal" xml:id="subtitle124"><span style="normal_1">Im szybciej coś zrobię, tym lepiej.</span></p>
+<p begin="9366440416t" end="9394802082t" style="normal" xml:id="subtitle125">Bardzo dziękuję, panie Nishizono.</p>
+<p begin="9406063332t" end="9418992916t" style="normal" xml:id="subtitle126">Mój ojciec nie wierzy,</p>
+<p begin="9422329582t" end="9461952500t" style="normal" xml:id="subtitle127">jak bardzo może zmienić się biznes<br/>dzięki jednemu przejściu dla pieszych.</p>
+<p begin="9462786666t" end="9478218750t" style="normal" xml:id="subtitle128">Był bardzo wdzięczny.</p>
+<p begin="9486977500t" end="9513670832t" style="normal" xml:id="subtitle129">Twój ojciec zawsze był dla mnie dobry.</p>
+<p begin="9526183332t" end="9566223332t" style="normal" xml:id="subtitle130">Poza tym rada miejska<br/>już omówiła lokalizację.</p>
+<p begin="9569560000t" end="9577901666t" style="normal" xml:id="subtitle131">Szefie.</p>
+<p begin="9587077500t" end="9617107500t" style="normal" xml:id="subtitle132">Przepraszam. Katagiri kończy na dziś.</p>
+<p begin="9622946666t" end="9646720416t" style="normal" xml:id="subtitle133">Nie mów tylko,<br/>że znowu zapłaciłaś za pizzę.</p>
+<p begin="9650474166t" end="9688845832t" style="normal" xml:id="subtitle134">- Mogłaś ją wziąć za darmo.<br/>- Nie chcę żadnych przywilejów.</p>
+<p begin="9696770416t" end="9713453750t" style="normal" xml:id="subtitle135">Muszę już lecieć.</p>
+<p begin="9736393332t" end="9784357916t" style="normal" xml:id="subtitle136">To Katagiri, bardzo odpowiedzialna<br/>jak na dzieciaka w tym wieku.</p>
+<p begin="9789780000t" end="9826066250t" style="normal" xml:id="subtitle137">Może ma dopiero 17 lat,<br/>ale ma też głowę na karku.</p>
+<p begin="9981221250t" end="9999572916t" style="normal" xml:id="subtitle138">O co chodzi, szefie?</p>
+<p begin="10008331666t" end="10037944582t" style="normal" xml:id="subtitle139">Proszę. Zapomniałaś<br/>o dodatkach do darmowej pizzy.</p>
+<p begin="10065055000t" end="10093833750t" style="normal" xml:id="subtitle140">- Dziękuję. Nie musiał pan.<br/>- To nic.</p>
+<p begin="10099255832t" end="10126783332t" style="normal" xml:id="subtitle141">A co do Satoru...</p>
+<p begin="10133456666t" end="10141798332t" style="normal" xml:id="subtitle142">Tak?</p>
+<p begin="10145135000t" end="10183506666t" style="normal" xml:id="subtitle143">Wciąż nie wierzę,<br/>że mógł zrobić coś takiego.</p>
+<p begin="10195602082t" end="10206863332t" style="normal" xml:id="subtitle144">W pełni się zgadzam!</p>
+<p begin="10207697500t" end="10234807916t" style="normal" xml:id="subtitle145">Jeśli go spotkasz,</p>
+<p begin="10235642082t" end="10248571666t" style="normal" xml:id="subtitle146">proszę, pomóż mu.</p>
+<p begin="10255662082t" end="10284023750t" style="normal" xml:id="subtitle147">W razie czego do mnie zadzwoń,<br/>a ja zrobię, co mogę.</p>
+<p begin="10284857916t" end="10293199582t" style="normal" xml:id="subtitle148">Dobrze!</p>
+<p begin="10294033750t" end="10312802500t" style="normal" xml:id="subtitle149">Powiem mu, jeśli go spotkam.</p>
+<p begin="10319058750t" end="10336159166t" style="normal" xml:id="subtitle150">Do widzenia.</p>
+<p begin="10621444166t" end="10636042082t" style="normal" xml:id="subtitle151"><span style="normal_1">Na pierwszym przesłuchaniu</span></p>
+<p begin="10639378750t" end="10666489166t" style="normal" xml:id="subtitle152"><span style="normal_1">oskarżony został skazany</span><br/><span style="normal_1">na życie w więzieniu,</span></p>
+<p begin="10667323332t" end="10686509166t" style="normal" xml:id="subtitle153"><span style="normal_1">ale utrzymywał, że jest niewinny.</span></p>
+<p begin="10723629582t" end="10741147082t" style="normal" xml:id="subtitle154"><span style="normal_1">Coś tu nie pasuje.</span></p>
+<p begin="10980552916t" end="10994733750t" style="normal" xml:id="subtitle155">Detektyw Watanabe?</p>
+<p begin="11017256250t" end="11036025000t" style="normal" xml:id="subtitle156">Co chciał pan mu powiedzieć?</p>
+<p begin="11036859166t" end="11060215832t" style="normal" xml:id="subtitle157">Martwię się o ciebie.</p>
+<p begin="11066889166t" end="11086492082t" style="normal" xml:id="subtitle158">Satoru jest oskarżony o morderstwo...</p>
+<p begin="11092748332t" end="11119858750t" style="normal" xml:id="subtitle159">Czemu od razu pan nie powiedział?</p>
+<p begin="11129868750t" end="11146552082t" style="normal" xml:id="subtitle160">Mówił pan, żebym mu pomogła.</p>
+<p begin="11153642500t" end="11170325832t" style="normal" xml:id="subtitle161">Że sam pan pomoże!</p>
+<p begin="11259998750t" end="11287526250t" style="normal" xml:id="subtitle162">Chciałam panu zaufać...</p>
+<p begin="11355093750t" end="11367189166t" style="normal" xml:id="subtitle163">Przykro mi, Satoru.</p>
+<p begin="11379701666t" end="11397636250t" style="normal" xml:id="subtitle164">Mój pokój nie jest już bezpieczny.</p>
+<p begin="11405143750t" end="11418073332t" style="normal" xml:id="subtitle165">Nasz szef się dowiedział.</p>
+<p begin="11433505416t" end="11441847082t" style="normal" xml:id="subtitle166">To nic.</p>
+<p begin="11444766666t" end="11467706250t" style="normal" xml:id="subtitle167">Pomogłaś mi,<br/>gdy potrzebowałem wytchnienia.</p>
+<p begin="11485640832t" end="11493982500t" style="normal" xml:id="subtitle168">Dziękuję.</p>
+<p begin="11541530000t" end="11555293750t" style="normal" xml:id="subtitle169">Mogę o coś zapytać?</p>
+<p begin="11569891666t" end="11602424166t" style="normal" xml:id="subtitle170">Dlaczego tak mi wierzysz?</p>
+<p begin="11628283332t" end="11669574582t" style="normal" xml:id="subtitle171">Nie dlatego, że ci ufam,<br/>ale dlatego, że chcę ci ufać.</p>
+<p begin="11693765416t" end="11717956250t" style="normal" xml:id="subtitle172">Chcę ci ufać dla siebie.</p>
+<p begin="11727132082t" end="11755910832t" style="normal" xml:id="subtitle173">Bo chcę, by inni też mi ufali.</p>
+<p begin="11809714582t" end="11824729582t" style="normal" xml:id="subtitle174">To mi wystarczy.</p>
+<p begin="11850171666t" end="11868523332t" style="normal" xml:id="subtitle175">Powinnaś wracać do domu.</p>
+<p begin="11869357500t" end="11893965416t" style="normal" xml:id="subtitle176">Powiedz policji, że ci groziłem.</p>
+<p begin="11894799582t" end="11918573332t" style="normal" xml:id="subtitle177">Zgłupiałeś? Nigdy bym tak nie powiedziała.</p>
+<p begin="11937342082t" end="11960281666t" style="normal" xml:id="subtitle178">Poza tym nie poradzisz sobie sam.</p>
+<p begin="11969040416t" end="11979050416t" style="normal" xml:id="subtitle179">Ale...</p>
+<p begin="11984889582t" end="12007829166t" style="normal" xml:id="subtitle180">Dam ci chociaż trochę pieniędzy.</p>
+<p begin="12053291250t" end="12083738332t" style="normal" xml:id="subtitle181">Proszę, pod jedynką jest mój numer domowy.</p>
+<p begin="12088326250t" end="12105426666t" style="normal" xml:id="subtitle182">Zadzwoń, jeśli coś się stanie.</p>
+<p begin="12167155000t" end="12175913750t" style="normal" xml:id="subtitle183">Dzięki.</p>
+<p begin="12198019166t" end="12224295416t" style="normal" xml:id="subtitle184">Wrócę. Proszę, czekaj na mnie.</p>
+<p begin="12516670832t" end="12544615416t" style="normal" xml:id="subtitle185">To niezbyt wiele, ale pomoże, prawda?</p>
+<p begin="12674328332t" end="12707277916t" style="normal" xml:id="subtitle186"><span style="normal_1">Powinienem odciąć się</span><br/><span style="normal_1">od Airi dla jej dobra.</span></p>
+<p begin="12808212082t" end="12829900416t" style="normal" xml:id="subtitle187">WIADOMOŚĆ PRZYCHODZĄCA</p>
+<p begin="12830734582t" end="12841578750t" style="normal" xml:id="subtitle188">SKRZYNKA POCZTOWA<br/>MASZ NOWĄ WIADOMOŚĆ</p>
+<p begin="12842412916t" end="12854508332t" style="normal" xml:id="subtitle189"><span style="normal_1">Masz wiadomość.</span></p>
+<p begin="12927080832t" end="12946266666t" style="normal" xml:id="subtitle190">ODEBRANE<br/>OD SACHIKO FUJINUMA.</p>
+<p begin="12947100832t" end="12976296666t" style="normal" xml:id="subtitle191">TU SATORU. ZACZEKAJ W POKOJU.<br/>IDĘ DO CIEBIE.</p>
+<p begin="12979216250t" end="12987557916t" style="normal" xml:id="subtitle192"><span style="normal_1">Nie wierzę.</span></p>
+<p begin="12996316666t" end="13015919582t" style="normal" xml:id="subtitle193"><span style="normal_1">Ten, kto posiada telefon mamy,</span></p>
+<p begin="13029266250t" end="13040944582t" style="normal" xml:id="subtitle194"><span style="normal_1">jest jej zabójcą!</span></p>
+<p begin="13267003750t" end="13283270000t" style="normal" xml:id="subtitle195">Czy to wystarczy?</p>
+<p begin="13391711666t" end="13405475416t" style="normal" xml:id="subtitle196">Wyłączyli prąd?</p>
+<p begin="13414651250t" end="13426329582t" style="normal" xml:id="subtitle197">Co to było?</p>
+<p begin="13438425000t" end="13449269166t" style="normal" xml:id="subtitle198">Kto tam jest?</p>
+<p begin="14137456666t" end="14149134999t" style="normal" xml:id="subtitle199">Airi!</p>
+<p begin="14316385416t" end="14329732082t" style="normal" xml:id="subtitle200">Airi...</p>
+<p begin="14379364999t" end="14388123749t" style="normal" xml:id="subtitle201">Airi!</p>
+<p begin="14417319582t" end="14428997916t" style="normal" xml:id="subtitle202">Airi!</p>
+<p begin="14449434999t" end="14458610832t" style="normal" xml:id="subtitle203">Nie dotykaj jej!</p>
+<p begin="14478213749t" end="14505324166t" style="normal" xml:id="subtitle204">Musimy ją unieruchomić<br/>i wezwać karetkę.</p>
+<p begin="14506158332t" end="14525344166t" style="normal" xml:id="subtitle205">Satoru, idź. Zostaw to mnie.</p>
+<p begin="14526178332t" end="14545781249t" style="normal" xml:id="subtitle206">- Ale...<br/>- Wystarczająco ją wplątałeś.</p>
+<p begin="14642544582t" end="14650886249t" style="normal" xml:id="subtitle207">Halo?</p>
+<p begin="14659227916t" end="14690509166t" style="normal" xml:id="subtitle208">Dziewczyna wypadła z drugiego piętra.</p>
+<p begin="14696348332t" end="14706775416t" style="normal" xml:id="subtitle209">Jest nieprzytomna.</p>
+<p begin="14925327082t" end="14949934999t" style="normal" xml:id="subtitle210"><span style="normal_1">Zabójca wiedział, gdzie mieszka Airi.</span></p>
+<p begin="14968703749t" end="14977879582t" style="normal" xml:id="subtitle211"><span style="normal_1">Śledził ją.</span></p>
+<p begin="14993311666t" end="15024592916t" style="normal" xml:id="subtitle212"><span style="normal_1">Jest bliżej niż sądziłem.</span></p>
+<p begin="15334902916t" end="15354922916t" style="normal" xml:id="subtitle213">Napisy:<br/>Inez Girek</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style_2"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="169666666t" end="190666666t" region="region_1" xml:id="subtitle0"><span style="style_2">It was an age of war.</span></p>
+<p begin="200666666t" end="220666666t" region="region_1" xml:id="subtitle1"><span style="style_2">Relying only on his own skill,</span></p>
+<p begin="223333333t" end="255333333t" region="region_1" xml:id="subtitle2"><span style="style_2">one man wandered the land.</span></p>
+<p begin="285333333t" end="303666666t" region="region_1" xml:id="subtitle3"><span style="style_2">A samurai.</span></p>
+<p begin="415000000t" end="469000000t" region="region_1" xml:id="subtitle4"><span style="style_2">This man</span><br/><span style="style_2">is not a wandering samurai of today.</span></p>
+<p begin="539333333t" end="558333333t" region="region_1" xml:id="subtitle5"><span style="style_2">Conditioner and treatment.</span></p>
+<p begin="564564000t" end="577577000t" region="region_1" xml:id="subtitle6"><span style="style_2">What's the difference?</span></p>
+<p begin="588254334t" end="604270334t" region="region_1" xml:id="subtitle7"><span style="style_2">Isn't rinsing enough?</span></p>
+<p begin="624666666t" end="641666666t" region="region_1" xml:id="subtitle8"><span style="style_1">Can I help you?</span></p>
+<p begin="649666666t" end="658000000t" region="region_1" xml:id="subtitle9"><span style="style_1">Sorry.</span></p>
+<p begin="669000000t" end="688666666t" region="region_1" xml:id="subtitle10"><span style="style_1">My wife asked me to buy this.</span></p>
+<p begin="689333333t" end="701000000t" region="region_1" xml:id="subtitle11"><span style="style_1">CONDITIONER</span><br/><span style="style_1">TREATMENT</span></p>
+<p begin="707666666t" end="724000000t" region="region_1" xml:id="subtitle12"><span style="style_1">Yes, this is the product.</span></p>
+<p begin="727666666t" end="749666666t" region="region_1" xml:id="subtitle13"><span style="style_1">-Then I'll take these.</span><br/><span style="style_1">-Yes, sir.</span></p>
+<p begin="777666666t" end="800666666t" region="region_1" xml:id="subtitle14"><span style="style_1">-Our men's care is popular, too.</span><br/><span style="style_1">-I'm fine.</span></p>
+<p begin="801333333t" end="816333333t" region="region_1" xml:id="subtitle15"><span style="style_2">Quick, retreat.</span></p>
+<p begin="961666666t" end="981666666t" region="region_1" xml:id="subtitle16"><span style="style_2">I'm going to take a detour.</span></p>
+<p begin="1103333333t" end="1126000000t" region="region_1" xml:id="subtitle17"><span style="style_1">MARUNI PRODUCE NAKANOBU STORE</span></p>
+<p begin="1340333333t" end="1361000000t" region="region_1" xml:id="subtitle18"><span style="style_1">-Pork, please, 400 grams.</span><br/><span style="style_1">-Yes.</span></p>
+<p begin="1362666666t" end="1394000000t" region="region_1" xml:id="subtitle19"><span style="style_1">-Three hundred grams of fried chicken...</span><br/><span style="style_1">-Sure.</span></p>
+<p begin="1394393000t" end="1417082334t" region="region_1" xml:id="subtitle20"><span style="style_1">-and 200 grams of ground chicken.</span><br/><span style="style_1">-OK.</span></p>
+<p begin="1430666666t" end="1455666666t" region="region_1" xml:id="subtitle21"><span style="style_2">A smell that reminds me of the old days.</span></p>
+<p begin="1499333333t" end="1514333333t" region="region_1" xml:id="subtitle22"><span style="style_2">What could it be?</span></p>
+<p begin="1554000000t" end="1565333333t" region="region_1" xml:id="subtitle23"><span style="style_2">Croquettes!</span></p>
+<p begin="1634666666t" end="1673333333t" region="region_1" xml:id="subtitle24"><span style="style_2">After retiring,</span><br/><span style="style_2">he lost his title as a corporate employee</span></p>
+<p begin="1675000000t" end="1708333333t" region="region_1" xml:id="subtitle25"><span style="style_2">and the support of his company.</span></p>
+<p begin="1716715000t" end="1738403334t" region="region_1" xml:id="subtitle26"><span style="style_2">Takeshi Kasumi, 60 years old.</span></p>
+<p begin="1762761001t" end="1803134667t" region="region_1" xml:id="subtitle27"><span style="style_2">This story is about</span><br/><span style="style_2">a normal 60-year-old man</span></p>
+<p begin="1808000000t" end="1826666666t" region="region_1" xml:id="subtitle28"><span style="style_2">who is helped by a masterless samurai,</span></p>
+<p begin="1830666666t" end="1853333333t" region="region_1" xml:id="subtitle29"><span style="style_2">eating freely without being held back.</span></p>
+<p begin="1864195667t" end="1883548334t" region="region_1" xml:id="subtitle30"><span style="style_2">A gourmet fantasy.</span></p>
+<p begin="2059666666t" end="2122666666t" region="region_2" xml:id="subtitle31"><span style="style_1">CROQUETTES OF THE HEART</span></p>
+<p begin="2248000000t" end="2263666666t" region="region_1" xml:id="subtitle32"><span style="style_2">Back in middle school...</span></p>
+<p begin="2271000000t" end="2284000000t" region="region_1" xml:id="subtitle33"><span style="style_2">there was a butcher...</span></p>
+<p begin="2289333333t" end="2311000000t" region="region_1" xml:id="subtitle34"><span style="style_2">called Tochigiya near my school.</span></p>
+<p begin="2319650667t" end="2342673667t" region="region_1" xml:id="subtitle35"><span style="style_2">-My very first croquette...</span><br/><span style="style_1">-Excuse me.</span></p>
+<p begin="2344342000t" end="2357355000t" region="region_1" xml:id="subtitle36"><span style="style_2">cost  20 cents.</span></p>
+<p begin="2360666666t" end="2379666666t" region="region_1" xml:id="subtitle37"><span style="style_2">No, 15 cents.</span></p>
+<p begin="2380333333t" end="2398333333t" region="region_1" xml:id="subtitle38"><span style="style_1">-Exact change.</span><br/><span style="style_1">-Yes.</span></p>
+<p begin="2409333333t" end="2445333333t" region="region_1" xml:id="subtitle39"><span style="style_1">-</span><span style="style_2">Senpai</span><span style="style_1">. Thanks for treating us.</span><br/><span style="style_1">-Thanks for treating us.</span></p>
+<p begin="2446000000t" end="2460666666t" region="region_1" xml:id="subtitle40"><span style="style_1">Go stand guard, Kasumi.</span></p>
+<p begin="2461333333t" end="2475333333t" region="region_1" xml:id="subtitle41"><span style="style_1">-Yes.</span><br/><span style="style_1">-Hurry up.</span></p>
+<p begin="2482000000t" end="2505666666t" region="region_1" xml:id="subtitle42"><span style="style_2">We'd be in trouble</span><br/><span style="style_2">if we got caught,</span></p>
+<p begin="2506333333t" end="2534666666t" region="region_1" xml:id="subtitle43"><span style="style_2">so we stood guard</span><br/><span style="style_2">and bought them quickly.</span></p>
+<p begin="2542666666t" end="2566666666t" region="region_1" xml:id="subtitle44"><span style="style_1">-Kasumi, that's enough.</span><br/><span style="style_1">-Yes.</span></p>
+<p begin="2583000000t" end="2600333333t" region="region_1" xml:id="subtitle45"><span style="style_1">-Two croquettes.</span><br/><span style="style_1">-Thank you.</span></p>
+<p begin="2601000000t" end="2621333333t" region="region_1" xml:id="subtitle46"><span style="style_1">-Four croquettes.</span><br/><span style="style_1">-Four, okay.</span></p>
+<p begin="2622286334t" end="2645643000t" region="region_1" xml:id="subtitle47"><span style="style_1">One croquette and one fried meat cake.</span></p>
+<p begin="2646333333t" end="2668333333t" region="region_1" xml:id="subtitle48"><span style="style_1">Yes, yes. Please, wait in line.</span></p>
+<p begin="2669000000t" end="2688666666t" region="region_1" xml:id="subtitle49"><span style="style_1">So, two for the first order?</span></p>
+<p begin="2689353334t" end="2707371334t" region="region_1" xml:id="subtitle50"><span style="style_1">-Yes.</span><br/><span style="style_1">-They look so delicious.</span></p>
+<p begin="2710000000t" end="2723000000t" region="region_1" xml:id="subtitle51"><span style="style_2">The man at Tochigiya...</span></p>
+<p begin="2730060667t" end="2754084667t" region="region_1" xml:id="subtitle52"><span style="style_2">knew we weren't allowed</span><br/><span style="style_2">to eat on the way home.</span></p>
+<p begin="2755000000t" end="2787333333t" region="region_1" xml:id="subtitle53"><span style="style_2">So, he wrapped them in paper</span><br/><span style="style_2">so no one would find out.</span></p>
+<p begin="2788452334t" end="2801131667t" region="region_1" xml:id="subtitle54"><span style="style_1">Thanks, as always.</span></p>
+<p begin="2816333333t" end="2832000000t" region="region_1" xml:id="subtitle55"><span style="style_2">So we can eat right away,</span></p>
+<p begin="2836333333t" end="2864666666t" region="region_1" xml:id="subtitle56"><span style="style_2">there was a bottle of sauce</span><br/><span style="style_2">on the counter.</span></p>
+<p begin="2875666666t" end="2899000000t" region="region_1" xml:id="subtitle57"><span style="style_2">We put on as much sauce as we wanted...</span></p>
+<p begin="2908333333t" end="2934666666t" region="region_1" xml:id="subtitle58"><span style="style_2">and bit into the hot croquettes.</span></p>
+<p begin="2950000000t" end="2980666666t" region="region_1" xml:id="subtitle59"><span style="style_2">After our club activities, we were hungry.</span></p>
+<p begin="2985666666t" end="3017666666t" region="region_1" xml:id="subtitle60"><span style="style_2">We also felt excited doing something</span><br/><span style="style_2">we weren't supposed to do.</span></p>
+<p begin="3044666666t" end="3072000000t" region="region_1" xml:id="subtitle61"><span style="style_2">I'll never forget how delicious they were.</span></p>
+<p begin="3108000000t" end="3135000000t" region="region_1" xml:id="subtitle62"><span style="style_2">All right. I'm going to do it again</span><br/><span style="style_2">after all these years.</span></p>
+<p begin="3138135001t" end="3154151000t" region="region_1" xml:id="subtitle63"><span style="style_2">Croquettes on the way home.</span></p>
+<p begin="3191333333t" end="3208333333t" region="region_2" xml:id="subtitle64"><span style="style_1">CHEESE</span><br/><span style="style_1">CRAB CREAM</span></p>
+<p begin="3209000000t" end="3218333333t" region="region_2" xml:id="subtitle65"><span style="style_2">Not this one.</span></p>
+<p begin="3221000000t" end="3233666666t" region="region_2" xml:id="subtitle66"><span style="style_1">MATSUZAKA BEEF CUTLET</span></p>
+<p begin="3234333333t" end="3250333333t" region="region_2" xml:id="subtitle67"><span style="style_2">Looks good, but pricey.</span></p>
+<p begin="3307666666t" end="3320000000t" region="region_2" xml:id="subtitle68"><span style="style_1">CROQUETTE</span></p>
+<p begin="3324666666t" end="3333000000t" region="region_1" xml:id="subtitle69"><span style="style_2">This is it.</span></p>
+<p begin="3335666666t" end="3359000000t" region="region_1" xml:id="subtitle70"><span style="style_1">-Excuse me.</span><br/><span style="style_1">-Yes. What would you like?</span></p>
+<p begin="3360023334t" end="3390387000t" region="region_1" xml:id="subtitle71"><span style="style_1">-The one dollar croquette, please.</span><br/><span style="style_1">-How many?</span></p>
+<p begin="3398333333t" end="3442666666t" region="region_1" xml:id="subtitle72"><span style="style_2">If I say only one</span><br/><span style="style_2">she might think I'm a stingy guy.</span></p>
+<p begin="3503000000t" end="3530666666t" region="region_1" xml:id="subtitle73"><span style="style_1">-Two, please.</span><br/><span style="style_1">-Yes, two.</span></p>
+<p begin="3556333333t" end="3577000000t" region="region_1" xml:id="subtitle74"><span style="style_2">I showed off for no reason.</span></p>
+<p begin="3687684000t" end="3707036667t" region="region_1" xml:id="subtitle75"><span style="style_1">Okay, that will be two dollars.</span></p>
+<p begin="3708000000t" end="3724000000t" region="region_1" xml:id="subtitle76"><span style="style_1">-Okay.</span><br/><span style="style_1">-Do you have sauce?</span></p>
+<p begin="3724666666t" end="3733333333t" region="region_1" xml:id="subtitle77"><span style="style_1">Yes, we do.</span></p>
+<p begin="3734063667t" end="3746075667t" region="region_1" xml:id="subtitle78"><span style="style_1">20 CENTS</span></p>
+<p begin="3747076667t" end="3767764000t" region="region_1" xml:id="subtitle79"><span style="style_1">-Is this it? I'll take one.</span><br/><span style="style_1">-Sure.</span></p>
+<p begin="3769000000t" end="3795333333t" region="region_1" xml:id="subtitle80"><span style="style_1">Two croquettes and a sauce.</span><br/><span style="style_1">Two dollars twenty cents.</span></p>
+<p begin="3800333333t" end="3820666666t" region="region_1" xml:id="subtitle81"><span style="style_1">-Exact change. Thank you.</span><br/><span style="style_1">-So hot!</span></p>
+<p begin="3830333333t" end="3856000000t" region="region_1" xml:id="subtitle82"><span style="style_1">Don't burn yourself. Thank you very much.</span></p>
+<p begin="3856666666t" end="3882666666t" region="region_1" xml:id="subtitle83"><span style="style_1">-Thanks.</span><br/><span style="style_1">-Thanks! Please, come again!</span></p>
+<p begin="3983000000t" end="4002000000t" region="region_1" xml:id="subtitle84"><span style="style_2">Fresh croquettes and beer.</span></p>
+<p begin="4012333333t" end="4023666666t" region="region_1" xml:id="subtitle85"><span style="style_2">Not bad.</span></p>
+<p begin="4027333333t" end="4055666666t" region="region_1" xml:id="subtitle86"><span style="style_2">No. I mean, that's great.</span></p>
+<p begin="4074070000t" end="4094090000t" region="region_1" xml:id="subtitle87"><span style="style_2">But beer in the middle of the day?</span></p>
+<p begin="4098333333t" end="4119666666t" region="region_1" xml:id="subtitle88"><span style="style_2">Why do I feel so guilty?</span></p>
+<p begin="4195666666t" end="4209000000t" region="region_1" xml:id="subtitle89"><span style="style_1">It's ice cold!</span></p>
+<p begin="4233333333t" end="4243666666t" region="region_1" xml:id="subtitle90"><span style="style_2">Okay...</span></p>
+<p begin="4251666666t" end="4271333333t" region="region_1" xml:id="subtitle91"><span style="style_2">where should I eat them?</span></p>
+<p begin="4335331000t" end="4349678667t" region="region_1" xml:id="subtitle92"><span style="style_1">What are you guys doing?</span></p>
+<p begin="4388000000t" end="4404666666t" region="region_1" xml:id="subtitle93"><span style="style_1">-Run!</span><br/><span style="style_1">-Run!</span></p>
+<p begin="4412333333t" end="4425666666t" region="region_1" xml:id="subtitle94"><span style="style_1">Wait right there!</span></p>
+<p begin="4426333333t" end="4440333333t" region="region_1" xml:id="subtitle95"><span style="style_1">-The usual place!</span><br/><span style="style_1">-OK!</span></p>
+<p begin="4441000000t" end="4470333333t" region="region_1" xml:id="subtitle96"><span style="style_2">The roof of a building near the school.</span></p>
+<p begin="4480000000t" end="4501666666t" region="region_1" xml:id="subtitle97"><span style="style_2">That was our hiding spot.</span></p>
+<p begin="4521000000t" end="4530333333t" region="region_1" xml:id="subtitle98"><span style="style_2">That's right!</span></p>
+<p begin="4670666000t" end="4687349334t" region="region_1" xml:id="subtitle99"><span style="style_2">Enjoying croquettes and beer</span></p>
+<p begin="4689666666t" end="4718666666t" region="region_1" xml:id="subtitle100"><span style="style_2">with a good view</span><br/><span style="style_2">while it's still light outside.</span></p>
+<p begin="4728666666t" end="4768000000t" region="region_1" xml:id="subtitle101"><span style="style_2">This is something that</span><br/><span style="style_2">a middle-school student can't do.</span></p>
+<p begin="4823666666t" end="4845000000t" region="region_1" xml:id="subtitle102"><span style="style_2">There were many places like this...</span></p>
+<p begin="4852333333t" end="4861666666t" region="region_1" xml:id="subtitle103"><span style="style_2">when I was a kid.</span></p>
+<p begin="4882000000t" end="4905333333t" region="region_1" xml:id="subtitle104"><span style="style_1">If no one stops it,</span><br/><span style="style_1">everyone's heart will turn bad.</span></p>
+<p begin="4906000000t" end="4915666666t" region="region_1" xml:id="subtitle105"><span style="style_1">Okay.</span></p>
+<p begin="4916578334t" end="4930926000t" region="region_1" xml:id="subtitle106"><span style="style_1">Let's call Heart Ranger!</span></p>
+<p begin="4931666666t" end="4942666666t" region="region_1" xml:id="subtitle107"><span style="style_1">One, two...</span></p>
+<p begin="4944000000t" end="4970666666t" region="region_1" xml:id="subtitle108"><span style="style_1">Heart Ranger!</span></p>
+<p begin="5088666666t" end="5114000000t" region="region_1" xml:id="subtitle109"><span style="style_1">That's the Ferris wheel.</span><br/><span style="style_1">Want to ride it?</span></p>
+<p begin="5121000000t" end="5152999999t" region="region_1" xml:id="subtitle110"><span style="style_1">Do you want to eat</span><br/><span style="style_1">before we go on the rides?</span></p>
+<p begin="5156000000t" end="5169666666t" region="region_1" xml:id="subtitle111"><span style="style_1">Or the rides first?</span></p>
+<p begin="5170498667t" end="5195523667t" region="region_1" xml:id="subtitle112"><span style="style_1">Let's go on the Ferris wheel first.</span></p>
+<p begin="5205666666t" end="5218666666t" region="region_1" xml:id="subtitle113"><span style="style_1">Pick a color.</span></p>
+<p begin="5222000000t" end="5242000000t" region="region_1" xml:id="subtitle114"><span style="style_2">Is this a bit inappropriate?</span></p>
+<p begin="5248576667t" end="5277939334t" region="region_1" xml:id="subtitle115"><span style="style_2">But if I just wait,</span><br/><span style="style_2">the beer will get warm.</span></p>
+<p begin="5288333333t" end="5315000000t" region="region_1" xml:id="subtitle116"><span style="style_2">The fresh croquettes will get cold, too.</span></p>
+<p begin="5385000000t" end="5410666666t" region="region_1" xml:id="subtitle117"><span style="style_2">Oh well.</span><br/><span style="style_2">Guess I'll give up on eating here.</span></p>
+<p begin="5421666666t" end="5441333333t" region="region_1" xml:id="subtitle118"><span style="style_1">Delicious!</span></p>
+<p begin="5580000000t" end="5603333333t" region="region_1" xml:id="subtitle119"><span style="style_1">Delicious!</span></p>
+<p begin="5689333333t" end="5705000000t" region="region_1" xml:id="subtitle120"><span style="style_1">-Hey, kid.</span><br/><span style="style_1">-Don't look!</span></p>
+<p begin="5706000000t" end="5714333333t" region="region_1" xml:id="subtitle121"><span style="style_1">Want some?</span></p>
+<p begin="5846666666t" end="5860000000t" region="region_1" xml:id="subtitle122"><span style="style_1">Delicious!</span></p>
+<p begin="5982000000t" end="5992666666t" region="region_1" xml:id="subtitle123"><span style="style_1">Delicious.</span></p>
+<p begin="6003333333t" end="6025666666t" region="region_1" xml:id="subtitle124"><span style="style_1">Here we go. Oh, I'm full.</span></p>
+<p begin="6035333333t" end="6044000000t" region="region_1" xml:id="subtitle125"><span style="style_1">Here we go.</span></p>
+<p begin="6106666666t" end="6116333333t" region="region_1" xml:id="subtitle126"><span style="style_1">Here we go.</span></p>
+<p begin="6139000000t" end="6180000000t" region="region_1" xml:id="subtitle127"><span style="style_2">A samurai wouldn't worry</span><br/><span style="style_2">if he's being inappropriate or not.</span></p>
+<p begin="6274666666t" end="6283000000t" region="region_1" xml:id="subtitle128"><span style="style_2">Speaking of...</span></p>
+<p begin="6296666666t" end="6310333333t" region="region_1" xml:id="subtitle129"><span style="style_2">Us, too, back then...</span></p>
+<p begin="6317978334t" end="6336663667t" region="region_1" xml:id="subtitle130"><span style="style_2">never cared about that either.</span></p>
+<p begin="6481475000t" end="6496823667t" region="region_1" xml:id="subtitle131"><span style="style_2">For eating delicious food,</span></p>
+<p begin="6501495000t" end="6524518001t" region="region_1" xml:id="subtitle132"><span style="style_2">it doesn't matter</span><br/><span style="style_2">if I'm inside or out.</span></p>
+<p begin="6534333333t" end="6572000000t" region="region_1" xml:id="subtitle133"><span style="style_2">Eating when I want, where I want,</span><br/><span style="style_2">what I want!</span></p>
+<p begin="6611271334t" end="6634961667t" region="region_1" xml:id="subtitle134"><span style="style_2">Sauce is a must for croquettes.</span></p>
+<p begin="6711666666t" end="6748000000t" region="region_1" xml:id="subtitle135"><span style="style_2">This is it! This! The best combination!</span></p>
+<p begin="6778333333t" end="6787333333t" region="region_1" xml:id="subtitle136"><span style="style_2">It's delicious!</span></p>
+<p begin="6801000000t" end="6825333333t" region="region_1" xml:id="subtitle137"><span style="style_2">I'll finish it all before I even know it.</span></p>
+<p begin="7081333333t" end="7094000000t" region="region_1" xml:id="subtitle138"><span style="style_2">When I was working...</span></p>
+<p begin="7100666666t" end="7118666666t" region="region_1" xml:id="subtitle139"><span style="style_2">I always carried a heavy bag.</span></p>
+<p begin="7129333333t" end="7144000000t" region="region_1" xml:id="subtitle140"><span style="style_2">I was too busy working</span></p>
+<p begin="7147000000t" end="7169000000t" region="region_1" xml:id="subtitle141"><span style="style_2">to notice it was dark out every day.</span></p>
+<p begin="7181000000t" end="7192333333t" region="region_1" xml:id="subtitle142"><span style="style_2">But, now...</span></p>
+<p begin="7295288000t" end="7315975334t" region="region_1" xml:id="subtitle143"><span style="style_1">The grown-up version of eating out.</span></p>
+<p begin="7333333333t" end="7359666666t" region="region_1" xml:id="subtitle144"><span style="style_1">Banzai!</span></p>
+<p begin="7648641000t" end="7672331334t" region="region_1" xml:id="subtitle145"><span style="style_1">SHIZUKO</span></p>
+<p begin="7690000000t" end="7700000000t" region="region_1" xml:id="subtitle146"><span style="style_1">Hello.</span></p>
+<p begin="7702000000t" end="7713666666t" region="region_1" xml:id="subtitle147"><span style="style_1">Hello.</span></p>
+<p begin="7718000000t" end="7736666666t" region="region_1" xml:id="subtitle148"><span style="style_1">Are you still shopping?</span></p>
+<p begin="7742666666t" end="7751000000t" region="region_1" xml:id="subtitle149"><span style="style_1">Shopping?</span></p>
+<p begin="7752411334t" end="7790783000t" region="region_1" xml:id="subtitle150"><span style="style_1">Conditioner and treatment.</span><br/><span style="style_1">I asked you to get them.</span></p>
+<p begin="7799333333t" end="7835666666t" region="region_1" xml:id="subtitle151"><span style="style_1">I bought them.</span><br/><span style="style_1">I've never been inside a salon.</span></p>
+<p begin="7839666666t" end="7858666666t" region="region_1" xml:id="subtitle152"><span style="style_2">I got a bit self-conscious.</span></p>
+<p begin="7866333333t" end="7897000000t" region="region_1" xml:id="subtitle153"><span style="style_1">Are you still near the shopping arcade?</span></p>
+<p begin="7907000000t" end="7918333333t" region="region_1" xml:id="subtitle154"><span style="style_1">Yes, I'm there.</span></p>
+<p begin="7919244667t" end="7946605334t" region="region_1" xml:id="subtitle155"><span style="style_1">I feel bad asking,</span></p>
+<p begin="7950333333t" end="7979333333t" region="region_1" xml:id="subtitle156"><span style="style_1">but did you get chicken thigh</span><br/><span style="style_1">at the butcher?</span></p>
+<p begin="7980000000t" end="7992333333t" region="region_1" xml:id="subtitle157"><span style="style_1">About 300 grams.</span></p>
+<p begin="7997666666t" end="8030666666t" region="region_1" xml:id="subtitle158"><span style="style_1">-Butcher shop?</span><br/><span style="style_1">-I'm going to cook it tonight. Thanks.</span></p>
+<p begin="8031690334t" end="8040032000t" region="region_1" xml:id="subtitle159"><span style="style_1">I got it.</span></p>
+<p begin="8099666666t" end="8109666666t" region="region_1" xml:id="subtitle160"><span style="style_1">All right...</span></p>
+<p begin="8118333333t" end="8126666666t" region="region_1" xml:id="subtitle161"><span style="style_1">I'm going.</span></p>
+<p begin="8156000000t" end="8164333333t" region="region_1" xml:id="subtitle162"><span style="style_1">Here we go.</span></p>
+<p begin="8235666666t" end="8259333333t" region="region_1" xml:id="subtitle163"><span style="style_1">Chicken thigh, 300 grams.</span><br/><span style="style_1">Thanks.</span></p>
+<p begin="8260000000t" end="8270000000t" region="region_1" xml:id="subtitle164"><span style="style_1">Thank you.</span></p>
+<p begin="8285666666t" end="8305666666t" region="region_1" xml:id="subtitle165"><span style="style_1">Fifty percent off starting now!</span></p>
+<p begin="8306631667t" end="8328987334t" region="region_1" xml:id="subtitle166"><span style="style_1">All items 50 percent off! Try some!</span></p>
+<p begin="8329988334t" end="8358350000t" region="region_1" xml:id="subtitle167"><span style="style_1">All items 50 percent off! Try some!</span></p>
+<p begin="8359000000t" end="8377666666t" region="region_1" xml:id="subtitle168"><span style="style_1">-Welcome!</span><br/><span style="style_1">-Welcome!</span></p>
+<p begin="8382333333t" end="8400666666t" region="region_2" xml:id="subtitle169"><span style="style_2">Maybe I should take this chance</span></p>
+<p begin="8401333333t" end="8424333333t" region="region_2" xml:id="subtitle170"><span style="style_2">and buy the Matsuzaka fried meat cakes.</span></p>
+<p begin="8426000000t" end="8442333333t" region="region_1" xml:id="subtitle171"><span style="style_1">Welcome!</span></p>
+<p begin="8442767667t" end="8464789667t" region="region_1" xml:id="subtitle172"><span style="style_2">-Matsuzaka beef.</span><br/><span style="style_1">-All items half off.</span></p>
+<p begin="8469000000t" end="8494666666t" region="region_1" xml:id="subtitle173"><span style="style_2">The middle-school me would</span><br/><span style="style_2">have loved it.</span></p>
+<p begin="8501333333t" end="8523333333t" region="region_1" xml:id="subtitle174"><span style="style_1">Welcome. What would you like?</span></p>
+<p begin="8728666666t" end="8760000000t" region="region_1" xml:id="subtitle175"><span style="style_2">I ended up buying</span><br/><span style="style_2">more normal croquettes.</span></p>
+<p begin="8775666666t" end="8792000000t" region="region_1" xml:id="subtitle176"><span style="style_2">But that's okay.</span></p>
+<p begin="8799666666t" end="8816333333t" region="region_1" xml:id="subtitle177"><span style="style_2">This is what I wanted.</span></p>
+<p begin="8830333333t" end="8849000000t" region="region_1" xml:id="subtitle178"><span style="style_2">They may look and taste simple,</span></p>
+<p begin="8855000000t" end="8883666666t" region="region_1" xml:id="subtitle179"><span style="style_2">but they are still special</span><br/><span style="style_2">and full of memories.</span></p>
+<p begin="8889666666t" end="8911333333t" region="region_1" xml:id="subtitle180"><span style="style_2">I'm sure there's a food for everyone...</span></p>
+<p begin="8925666666t" end="8944666666t" region="region_1" xml:id="subtitle181"><span style="style_2">that's like what this croquette is to me.</span></p>
+<p begin="9871528334t" end="9893884000t" region="region_1" xml:id="subtitle182"><span style="style_1">Subtitle translation by</span><br/><span style="style_1">Hoday Stearns</span></p>
+</div>
+</body>
+</tt>

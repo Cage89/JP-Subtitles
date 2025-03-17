@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="7229305417t" end="7252245000t" region="region_1" xml:id="subtitle0"><span style="style_1">JAPAN UNDERGROUND</span><br/><span style="style_1">BIG CRIMES FROM THE SHOWA PERIOD</span></p>
+<p begin="7351093750t" end="7372365000t" region="region_1" xml:id="subtitle1"><span style="style_1">HOKKAIDO ELEMENTARY</span><br/><span style="style_1">SERIAL KIDNAPPING MURDERS</span></p>
+<p begin="7392384999t" end="7419912499t" region="region_2" xml:id="subtitle2"><span style="style_1">HIROMI SUGITA (11)</span><br/><span style="style_1">KAYO HINAZUKI (10)</span></p>
+<p begin="7449525416t" end="7473299166t" region="region_1" xml:id="subtitle3"><span style="style_1">JUN SHIRATORI ON DEATH ROW</span></p>
+<p begin="14640876249t" end="14679247916t" region="region_1" xml:id="subtitle4"><span style="style_1">SHOWA 63 1988</span></p>
+<p begin="14748900832t" end="14778096666t" region="region_1" xml:id="subtitle5"><span style="style_1">MIKOTO ELEMENTARY</span></p>
+<p begin="16230797916t" end="16248732499t" region="region_1" xml:id="subtitle6"><span style="style_1">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>

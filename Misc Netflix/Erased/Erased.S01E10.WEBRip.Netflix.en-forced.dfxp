@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style_2"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="2602600000t" end="2656820832t" region="region_1" xml:id="subtitle0"><span style="style_1">JULY 5TH 2005 THURSDAY</span></p>
+<p begin="5368279582t" end="5404982916t" region="region_2" xml:id="subtitle1"><span style="style_1">COURTESY OF THE NISHIFUNABASHI</span><br/><span style="style_1">CITY COUNCIL</span></p>
+<p begin="5420832082t" end="5454198750t" region="region_1" xml:id="subtitle2"><span style="style_1">CHIBA CENTRAL HOSPITAL</span></p>
+<p begin="11989894582t" end="12030351666t" region="region_1" xml:id="subtitle3"><span style="style_1">SASANQUA GET TOGETHER</span></p>
+<p begin="13003407082t" end="13040110416t" region="region_1" xml:id="subtitle4"><span style="style_2">Let's all go past the hill</span></p>
+<p begin="13040944582t" end="13078899166t" region="region_1" xml:id="subtitle5"><span style="style_2">Whistling all the way</span></p>
+<p begin="13079733332t" end="13116436666t" region="region_1" xml:id="subtitle6"><span style="style_2">The sky is blue and clear</span></p>
+<p begin="13117270832t" end="13148135000t" region="region_1" xml:id="subtitle7"><span style="style_2">Guiding us to the farm</span></p>
+<p begin="13148969166t" end="13170240416t" region="region_1" xml:id="subtitle8"><span style="style_2">Let's all sing</span></p>
+<p begin="13171074582t" end="13190677500t" region="region_1" xml:id="subtitle9"><span style="style_2">A cheerful melody</span></p>
+<p begin="15378696666t" end="15396214166t" region="region_1" xml:id="subtitle10"><span style="style_1">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>

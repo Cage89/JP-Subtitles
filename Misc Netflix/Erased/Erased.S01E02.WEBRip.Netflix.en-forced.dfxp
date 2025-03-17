@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="163079582t" end="209375832t" region="region_1" xml:id="subtitle0"><span style="style_1">MIKOTO ELEMENTARY</span></p>
+<p begin="1326742082t" end="1352601250t" region="region_1" xml:id="subtitle1"><span style="style_1">FIFTH GRADE, CLASS 4</span></p>
+<p begin="1378460416t" end="1411410000t" region="region_1" xml:id="subtitle2"><span style="style_1">FEBRUARY 15TH MONDAY</span></p>
+<p begin="5375370000t" end="5411239166t" region="region_1" xml:id="subtitle3"><span style="style_1">FEBRUARY 16TH TUESDAY</span></p>
+<p begin="9738061666t" end="9768925832t" region="region_1" xml:id="subtitle4"><span style="style_1">BIRTHDAY INVITATION</span></p>
+<p begin="10754076666t" end="10779101666t" region="region_2" xml:id="subtitle5"><span style="style_1">KAYO HINAZUKI (10)</span></p>
+<p begin="11027683332t" end="11052291250t" region="region_1" xml:id="subtitle6"><span style="style_1">FEBRUARY 20TH SATURDAY</span></p>
+<p begin="15588072499t" end="15611429166t" region="region_1" xml:id="subtitle7"><span style="style_1">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>

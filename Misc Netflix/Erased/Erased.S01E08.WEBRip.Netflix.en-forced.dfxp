@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="1773438332t" end="1799714582t" region="region_1" xml:id="subtitle0"><span style="style_1">SLEEP AID</span></p>
+<p begin="2165913750t" end="2186350832t" region="region_1" xml:id="subtitle1"><span style="style_1">YAMOTO FARM</span></p>
+<p begin="4007753749t" end="4040703332t" region="region_2" xml:id="subtitle2"><span style="style_1">SHIRATORI FOODS</span></p>
+<p begin="4126205416t" end="4138300832t" region="region_2" xml:id="subtitle3"><span style="style_1">RESTROOM</span></p>
+<p begin="4139134999t" end="4150396249t" region="region_2" xml:id="subtitle4"><span style="style_1">EMERGENCY EXIT</span></p>
+<p begin="5703614582t" end="5732810416t" region="region_2" xml:id="subtitle5"><span style="style_1">THE SPIDER'S THREAD</span></p>
+<p begin="7110019582t" end="7142552082t" region="region_1" xml:id="subtitle6"><span style="style_1">BOOK OF FORENSIC MEDICINE</span></p>
+<p begin="11537776250t" end="11567389166t" region="region_1" xml:id="subtitle7"><span style="style_1">THE WANDERERS EXHIBIT</span><br/><span style="style_1">UENO ART MUSEUM</span></p>
+<p begin="15949683749t" end="15967201249t" region="region_2" xml:id="subtitle8"><span style="style_1">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>

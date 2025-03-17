@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="8681172500t" end="8713705000t" region="region_1" xml:id="subtitle0"><span style="style_1">CHIBA SERIAL MURDERS</span></p>
+<p begin="8728720000t" end="8758332916t" region="region_1" xml:id="subtitle1"><span style="style_1">NISHIZONO SENTENCED TO DEATH</span></p>
+<p begin="10414570832t" end="10438344582t" region="region_1" xml:id="subtitle2"><span style="style_1">MIKOTO ELEMENTARY ESSAYS</span></p>
+<p begin="10527183332t" end="10553042500t" region="region_1" xml:id="subtitle3"><span style="style_1">RESOLVE - BY KENYA KOBAYASHI</span></p>
+<p begin="10565137916t" end="10597670416t" region="region_1" xml:id="subtitle4"><span style="style_1">I'M GOING TO SAVE THE PEOPLE</span><br/><span style="style_1">I WASN'T ABLE TO,</span></p>
+<p begin="10598504582t" end="10616439166t" region="region_1" xml:id="subtitle5"><span style="style_1">TOGETHER WITH MY FRIENDS.</span></p>
+<p begin="10617273332t" end="10634790832t" region="region_1" xml:id="subtitle6"><span style="style_1">THAT'S WHAT I RESOLVE.</span></p>
+<p begin="11390128750t" end="11417656250t" region="region_1" xml:id="subtitle7"><span style="style_1">A CITY WHERE ONLY I AM GONE.</span></p>
+<p begin="11418490416t" end="11447686250t" region="region_1" xml:id="subtitle8"><span style="style_1">MY HERO</span></p>
+<p begin="11450188750t" end="11487726250t" region="region_1" xml:id="subtitle9"><span style="style_1">BY SATORU FUJINUMA</span></p>
+<p begin="12532520000t" end="12556710832t" region="region_1" xml:id="subtitle10"><span style="style_1">THE WORLD KING OF FLAMES</span><br/><span style="style_1">BY SATORU FUJINUMA</span></p>
+<p begin="12557545000t" end="12581735832t" region="region_2" xml:id="subtitle11"><span style="style_1">SATORU FUJINUMA</span><br/><span style="style_1">"NEO CENTURY YUKI"</span></p>
+<p begin="18628192916t" end="18645710416t" region="region_1" xml:id="subtitle12"><span style="style_1">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="bottom"/>
+</layout>
+</head>
+<body region="bottom">
+<div xml:space="preserve">
+<p begin="65064999t" end="108441666t" style="normal" xml:id="subtitle0">NETFLIX - SERIAL ORYGINALNY</p>
+<p begin="141808332t" end="154737916t" style="normal" xml:id="subtitle1">Spokojnie.</p>
+<p begin="178511666t" end="190190000t" style="normal" xml:id="subtitle2">Bez pośpiechu.</p>
+<p begin="236069166t" end="248998749t" style="normal" xml:id="subtitle3">Dotarliśmy.</p>
+<p begin="260259999t" end="274440832t" style="normal" xml:id="subtitle4">W końcu tu jesteśmy.</p>
+<p begin="316566250t" end="325325000t" style="normal" xml:id="subtitle5">Proszę.</p>
+<p begin="632298332t" end="641891250t" style="normal" xml:id="subtitle6">Kto to był?</p>
+<p begin="689021666t" end="711961250t" style="normal" xml:id="subtitle7">Patrzcie.</p>
+<p begin="712795416t" end="723222500t" style="normal" xml:id="subtitle8">Ale pięknie!</p>
+<p begin="753669582t" end="764513750t" style="normal" xml:id="subtitle9">Cudownie.</p>
+<p begin="779111666t" end="802051250t" style="normal" xml:id="subtitle10">To ładne miejsce, prawda?</p>
+<p begin="812895416t" end="826659166t" style="normal" xml:id="subtitle11">Powietrze jest rześkie.</p>
+<p begin="847930416t" end="872955416t" style="normal" xml:id="subtitle12">Czy wszystkie dzieci<br/>mogą zebrać się wokół mnie?</p>
+<p begin="873789582t" end="893809582t" style="normal" xml:id="subtitle13">Omówimy środki ostrożności.</p>
+<p begin="894643749t" end="918417499t" style="normal" xml:id="subtitle14">- Zaraz wrócę.<br/>- Dobrze.</p>
+<p begin="933849582t" end="949698749t" style="normal" xml:id="subtitle15">Zbierzcie się wszyscy!</p>
+<p begin="950532916t" end="961377082t" style="normal" xml:id="subtitle16">Ostrożnie.</p>
+<p begin="962211249t" end="971804166t" style="normal" xml:id="subtitle17">Uważajcie!</p>
+<p begin="1038954582t" end="1077326250t" style="normal" xml:id="subtitle18">Najpierw będziemy przygotowywać grilla.</p>
+<p begin="1078160416t" end="1103185416t" style="normal" xml:id="subtitle19">Możecie używać noża</p>
+<p begin="1104019582t" end="1141974166t" style="normal" xml:id="subtitle20">tylko w obecności dorosłego opiekuna.</p>
+<p begin="1142808332t" end="1179094582t" style="normal" xml:id="subtitle21">Gdy skończy się grill,<br/>posegregujemy śmieci</p>
+<p begin="1179928750t" end="1197863332t" style="normal" xml:id="subtitle22">i przyniesiemy je tutaj.</p>
+<p begin="1198697500t" end="1219134582t" style="normal" xml:id="subtitle23">- Wszyscy zrozumieli?<br/>- Tak!</p>
+<p begin="1219968750t" end="1229561666t" style="normal" xml:id="subtitle24">Dobra odpowiedź!</p>
+<p begin="1233732500t" end="1265847916t" style="normal" xml:id="subtitle25">Niech ten obóz będzie<br/>bezpieczną zabawą.</p>
+<p begin="1607022082t" end="1617032082t" style="normal" xml:id="subtitle26">Dziękuję.</p>
+<p begin="1835166666t" end="1843508332t" style="normal" xml:id="subtitle27">Mamo?</p>
+<p begin="1862694166t" end="1875206666t" style="normal" xml:id="subtitle28">Coś się stało?</p>
+<p begin="1888970416t" end="1916914999t" style="normal" xml:id="subtitle29">Jednym z wolontariuszy jest pan Yashiro.</p>
+<p begin="1957372082t" end="1977809166t" style="normal" xml:id="subtitle30">Oczywiście żartuję!</p>
+<p begin="1984065416t" end="2002417082t" style="normal" xml:id="subtitle31">Kumi, pokrój papryki.</p>
+<p begin="2004919582t" end="2017014999t" style="normal" xml:id="subtitle32">- Dobrze.<br/>- Potrafisz?</p>
+<p begin="2017849166t" end="2039537499t" style="normal" xml:id="subtitle33">- Dam sobie radę.<br/>- Naprawdę?</p>
+<p begin="2040371666t" end="2053301249t" style="normal" xml:id="subtitle34">Naprawdę.</p>
+<p begin="2069567499t" end="2092507082t" style="normal" xml:id="subtitle35">- Bardzo dobrze.<br/>- Tak może być?</p>
+<p begin="2271018750t" end="2293124166t" style="normal" xml:id="subtitle36">TABLETKI NASENNE</p>
+<p begin="2479143332t" end="2502917082t" style="normal" xml:id="subtitle37">Jedzenie na zewnątrz tak dobrze smakuje!</p>
+<p begin="2519183332t" end="2548796250t" style="normal" xml:id="subtitle38">To mój pierwszy grill od podstawówki.</p>
+<p begin="2549630416t" end="2567147916t" style="normal" xml:id="subtitle39">Oczywiście.</p>
+<p begin="2573404166t" end="2590921666t" style="normal" xml:id="subtitle40">Przez cały ten czas spałeś!</p>
+<p begin="2595926666t" end="2626373750t" style="normal" xml:id="subtitle41">- Trochę mięsa dla was.<br/>- Pysznie wygląda!</p>
+<p begin="2632212916t" end="2654318332t" style="normal" xml:id="subtitle42">A wieczorem będą fajerwerki.</p>
+<p begin="2655152500t" end="2681428750t" style="normal" xml:id="subtitle43">Zaplanowali dużo atrakcji.</p>
+<p begin="2682262916t" end="2707287916t" style="normal" xml:id="subtitle44">Będzie jeszcze poszukiwanie pieczątek.</p>
+<p begin="2713544166t" end="2734815416t" style="normal" xml:id="subtitle45">Za pierwsze miejsce jest nagroda!</p>
+<p begin="2743157082t" end="2776940832t" style="normal" xml:id="subtitle46">Będziemy pierwsi, zrozumiałeś?</p>
+<p begin="2805302500t" end="2831161666t" style="normal" xml:id="subtitle47">Kumi, zanim pójdziesz, napełnij manierkę.</p>
+<p begin="2831995832t" end="2840337500t" style="normal" xml:id="subtitle48">Dobrze!</p>
+<p begin="2850347500t" end="2862442916t" style="normal" xml:id="subtitle49">Zrobię to teraz.</p>
+<p begin="2933764166t" end="2944608332t" style="normal" xml:id="subtitle50">Co to jest?</p>
+<p begin="3250330416t" end="3265345416t" style="normal" xml:id="subtitle51">Dasz radę!</p>
+<p begin="3473052916t" end="3488067916t" style="normal" xml:id="subtitle52">Mam pieczątkę!</p>
+<p begin="3517263749t" end="3539786249t" style="normal" xml:id="subtitle53">Wskazówka mówi, że w kolejnym miejscu</p>
+<p begin="3545208332t" end="3585248332t" style="normal" xml:id="subtitle54">jest wesoły muzykant<br/>za rozkołysaną ziemią.</p>
+<p begin="3609022082t" end="3628207916t" style="normal" xml:id="subtitle55">Rozkołysana ziemia...</p>
+<p begin="3634881249t" end="3643639999t" style="normal" xml:id="subtitle56">Łódź?</p>
+<p begin="3658237916t" end="3672418749t" style="normal" xml:id="subtitle57">Spójrzmy na mapę.</p>
+<p begin="3722051666t" end="3749162082t" style="normal" xml:id="subtitle58">Już wiem!</p>
+<p begin="3754584166t" end="3776689582t" style="normal" xml:id="subtitle59">Rozkołysana ziemia to most linowy!</p>
+<p begin="3781694582t" end="3800046249t" style="normal" xml:id="subtitle60">A tu jest wesoły muzykant!</p>
+<p begin="3819649166t" end="3830493332t" style="normal" xml:id="subtitle61">Dlaczego?</p>
+<p begin="3831327499t" end="3858437916t" style="normal" xml:id="subtitle62">Bo tanuki gra na swoim brzuszku<br/>jak na bębenku.</p>
+<p begin="3883879999t" end="3903899999t" style="normal" xml:id="subtitle63">Chodźmy więc!</p>
+<p begin="4066145416t" end="4087416666t" style="normal" xml:id="subtitle64">Wiedziałam, że to rozkołysana ziemia.</p>
+<p begin="4112024582t" end="4127039582t" style="normal" xml:id="subtitle65">Miałam rację!</p>
+<p begin="4136632499t" end="4159154999t" style="normal" xml:id="subtitle66">Nie kołysz tak mocno.</p>
+<p begin="4160823332t" end="4169164999t" style="normal" xml:id="subtitle67">Przepraszam.</p>
+<p begin="4211290416t" end="4222551666t" style="normal" xml:id="subtitle68">Ale tu strasznie!</p>
+<p begin="4309305000t" end="4322234582t" style="normal" xml:id="subtitle69">Wszystko w porządku?</p>
+<p begin="4507419582t" end="4522017500t" style="normal" xml:id="subtitle70">Dasz radę!</p>
+<p begin="4524937082t" end="4534530000t" style="normal" xml:id="subtitle71">Tak.</p>
+<p begin="4543288750t" end="4561640416t" style="normal" xml:id="subtitle72">Zaraz będziemy przy drugim.</p>
+<p begin="4679257916t" end="4694272916t" style="normal" xml:id="subtitle73">Mam drugi!</p>
+<p begin="4715544166t" end="4728056666t" style="normal" xml:id="subtitle74">Następny jest...</p>
+<p begin="4737649582t" end="4745991250t" style="normal" xml:id="subtitle75">Wiem!</p>
+<p begin="4772267500t" end="4789367916t" style="normal" xml:id="subtitle76">Możemy zrobić krótką przerwę?</p>
+<p begin="4805634166t" end="4826905416t" style="normal" xml:id="subtitle77">Jeszcze nie doszedłeś do siebie.</p>
+<p begin="4898226666t" end="4936181250t" style="normal" xml:id="subtitle78">Stąd na pewno<br/>dobrze widać fajerwerki. Idealne miejsce!</p>
+<p begin="4954950000t" end="4979140832t" style="normal" xml:id="subtitle79">- Co powiedziałaś?<br/>- Nic.</p>
+<p begin="4984980000t" end="5017929582t" style="normal" xml:id="subtitle80">Chodźmy do kolejnego punktu.</p>
+<p begin="5116778332t" end="5125120000t" style="normal" xml:id="subtitle81">Idziemy.</p>
+<p begin="5200612082t" end="5216461250t" style="normal" xml:id="subtitle82">Witamy z powrotem!</p>
+<p begin="5217295416t" end="5251079166t" style="normal" xml:id="subtitle83">Wygląda na to,<br/>że razem z Fujinumą zajęliście 12 miejsce.</p>
+<p begin="5251913332t" end="5265260000t" style="normal" xml:id="subtitle84">Dobrze się spisaliście.</p>
+<p begin="5266094166t" end="5279857916t" style="normal" xml:id="subtitle85">- Dobra robota!<br/>- Witamy.</p>
+<p begin="5280692082t" end="5295290000t" style="normal" xml:id="subtitle86">- Dobra robota.<br/>- Witamy.</p>
+<p begin="5296124166t" end="5313641666t" style="normal" xml:id="subtitle87">Zajęliście 13 miejsce.</p>
+<p begin="5314475832t" end="5332827500t" style="normal" xml:id="subtitle88">Dobrze się spisaliście.</p>
+<p begin="5333661666t" end="5353264582t" style="normal" xml:id="subtitle89">Witamy z powrotem.</p>
+<p begin="5373284582t" end="5386631250t" style="normal" xml:id="subtitle90">Witaj z powrotem, Kumi!</p>
+<p begin="5394972916t" end="5431259166t" style="normal" xml:id="subtitle91">Nie wygraliśmy,<br/>bo Satoru był zbyt powolny!</p>
+<p begin="5442520416t" end="5456284166t" style="normal" xml:id="subtitle92">Przykro mi to słyszeć.</p>
+<p begin="5462957500t" end="5478806666t" style="normal" xml:id="subtitle93">Satoru.</p>
+<p begin="5486314166t" end="5501329166t" style="normal" xml:id="subtitle94">Mogę pożyczyć twój zegarek?</p>
+<p begin="5514675832t" end="5549710832t" style="normal" xml:id="subtitle95">Chyba zapomniałam telefonu<br/>i nie wiem, która godzina.</p>
+<p begin="5553047500t" end="5566811250t" style="normal" xml:id="subtitle96">Dobrze.</p>
+<p begin="5626454166t" end="5643971666t" style="normal" xml:id="subtitle97">Już szesnasta?</p>
+<p begin="5655232916t" end="5674001666t" style="normal" xml:id="subtitle98">Muszę zrobić obiad.</p>
+<p begin="5681926250t" end="5709870832t" style="normal" xml:id="subtitle99">Ja pomogę przygotować fajerwerki.</p>
+<p begin="5719046666t" end="5733227500t" style="normal" xml:id="subtitle100">A ty, Satoru?</p>
+<p begin="5734061666t" end="5759503750t" style="normal" xml:id="subtitle101">Rozejrzę się trochę, a potem odpocznę.</p>
+<p begin="5760337916t" end="5795372916t" style="normal" xml:id="subtitle102">Jeśli się spóźnisz,<br/>będziesz czekał w kolejce po obiad.</p>
+<p begin="5796207082t" end="5808302500t" style="normal" xml:id="subtitle103">Pospieszę się.</p>
+<p begin="5817478332t" end="5842920416t" style="normal" xml:id="subtitle104">Do zobaczenia na fajerwerkach.</p>
+<p begin="5928005416t" end="5943020416t" style="normal" xml:id="subtitle105">Wiesz...</p>
+<p begin="5954281666t" end="5983477500t" style="normal" xml:id="subtitle106">wyglądasz na zadowoloną,<br/>pomimo tego, że nie wygrałaś.</p>
+<p begin="6021432082t" end="6058552500t" style="normal" xml:id="subtitle107">Chyba powinnam powiedzieć chociaż pani.</p>
+<p begin="6071482082t" end="6094004582t" style="normal" xml:id="subtitle108">Nie chcę nikogo martwić.</p>
+<p begin="6276687082t" end="6324651666t" style="normal" xml:id="subtitle109">Kenya? Rozdzieliłem się z Kumi.<br/>Przez jakiś czas będę sam.</p>
+<p begin="6330490832t" end="6361772082t" style="normal" xml:id="subtitle110">Będę miał ją na oku.</p>
+<p begin="6374701666t" end="6402229166t" style="normal" xml:id="subtitle111">Nie chcę, żeby Yashiro podejrzewał,<br/>że o nim wiemy.</p>
+<p begin="6408902500t" end="6433927500t" style="normal" xml:id="subtitle112">Zadbaj o to, by cię nie zobaczył.</p>
+<p begin="6439349582t" end="6453947500t" style="normal" xml:id="subtitle113">Dobrze.</p>
+<p begin="6526937082t" end="6542786250t" style="normal" xml:id="subtitle114"><span style="normal_1">Przepraszam, że czekałeś.</span></p>
+<p begin="6564474582t" end="6576987082t" style="normal" xml:id="subtitle115">Już pamiętam.</p>
+<p begin="6584077500t" end="6593670416t" style="normal" xml:id="subtitle116">Wszystko.</p>
+<p begin="6637464166t" end="6645805832t" style="normal" xml:id="subtitle117">Wszystko?</p>
+<p begin="6690016666t" end="6713373332t" style="normal" xml:id="subtitle118">Nawet tego, kto ci to zrobił?</p>
+<p begin="6728388332t" end="6736729999t" style="normal" xml:id="subtitle119">Tak.</p>
+<p begin="6761754999t" end="6785945832t" style="normal" xml:id="subtitle120">Zaczekam, jeśli potrzebujesz<br/>czasu do namysłu.</p>
+<p begin="6793036249t" end="6803880416t" style="normal" xml:id="subtitle121">Gaku Yashiro.</p>
+<p begin="6827654166t" end="6840166666t" style="normal" xml:id="subtitle122">Nasz nauczyciel,</p>
+<p begin="6847257082t" end="6859352499t" style="normal" xml:id="subtitle123">pan Yashiro.</p>
+<p begin="6929839582t" end="6961120832t" style="normal" xml:id="subtitle124">Teraz nazywa się Manabu Nishizono.</p>
+<p begin="6970296666t" end="7001994999t" style="normal" xml:id="subtitle125"><span style="normal_1">Jest radnym w twoim mieście.</span></p>
+<p begin="7020763749t" end="7031607916t" style="normal" xml:id="subtitle126">Czyli to był on.</p>
+<p begin="7049125416t" end="7069979582t" style="normal" xml:id="subtitle127">Podejrzewałeś, że to on jest mordercą?</p>
+<p begin="7091667916t" end="7100009582t" style="normal" xml:id="subtitle128">Jestem pod wrażeniem.</p>
+<p begin="7117527082t" end="7155898749t" style="normal" xml:id="subtitle129">Zwróciłem uwagę<br/>na model samochodu z jeziora.</p>
+<p begin="7161737916t" end="7193019166t" style="normal" xml:id="subtitle130"><span style="normal_1">Policja wiedziała, że Yashiro ma taki sam,</span></p>
+<p begin="7193853332t" end="7222632082t" style="normal" xml:id="subtitle131"><span style="normal_1">ale stwierdzili, że to nie ma znaczenia.</span></p>
+<p begin="7242234999t" end="7259752499t" style="normal" xml:id="subtitle132">A ja nie mogłem odpuścić.</p>
+<p begin="7269762499t" end="7291867916t" style="normal" xml:id="subtitle133">Wiedziałem, co robiłeś.</p>
+<p begin="7303546249t" end="7326485832t" style="normal" xml:id="subtitle134">Zacząłem badać tę sprawę.</p>
+<p begin="7384460416t" end="7406982916t" style="normal" xml:id="subtitle135">Pojadę z Kumi na ten obóz.</p>
+<p begin="7442852082t" end="7462872082t" style="normal" xml:id="subtitle136">SPOTKANIE W SASANQUA</p>
+<p begin="7558801249t" end="7567977082t" style="normal" xml:id="subtitle137">To.</p>
+<p begin="7572147916t" end="7597589999t" style="normal" xml:id="subtitle138">„Przewodniczący komitetu<br/>ekonomicznego planowania”,</p>
+<p begin="7600926666t" end="7629288332t" style="normal" xml:id="subtitle139">to Yashiro. Wpadniesz w pułapkę.</p>
+<p begin="7637629999t" end="7658484166t" style="normal" xml:id="subtitle140">Nie możesz jechać, to niebezpieczne.</p>
+<p begin="7668494166t" end="7717709999t" style="normal" xml:id="subtitle141">Yashiro pewnie planuje zabić Kumi</p>
+<p begin="7723132082t" end="7745237499t" style="normal" xml:id="subtitle142">i wrobić ciebie.</p>
+<p begin="7761920832t" end="7770262499t" style="normal" xml:id="subtitle143">Kenya.</p>
+<p begin="7785277499t" end="7798624166t" style="normal" xml:id="subtitle144">Zamieńmy tę pułapkę</p>
+<p begin="7807382916t" end="7819895416t" style="normal" xml:id="subtitle145">w okazję.</p>
+<p begin="7831573749t" end="7869528332t" style="normal" xml:id="subtitle146">- Chyba nie myślisz...<br/>- Nie planuję zemsty.</p>
+<p begin="7888297082t" end="7935010416t" style="normal" xml:id="subtitle147">Tym razem doprowadzę do jego aresztowania<br/>i zmuszę do przyznania się do winy.</p>
+<p begin="7983392082t" end="8021763749t" style="normal" xml:id="subtitle148">Tak jak powiedziałeś,<br/>Yashiro pewnie wybierze Kumi.</p>
+<p begin="8033442082t" end="8048874166t" style="normal" xml:id="subtitle149">Jeśli go powstrzymamy,</p>
+<p begin="8055964582t" end="8091416666t" style="normal" xml:id="subtitle150">powinniśmy zebrać tyle dowodów,<br/>żeby go aresztowano.</p>
+<p begin="8156481666t" end="8172330832t" style="normal" xml:id="subtitle151">Wchodzę w to.</p>
+<p begin="8191516666t" end="8206531666t" style="normal" xml:id="subtitle152">Naszym przeznaczeniem jest</p>
+<p begin="8220295416t" end="8234893332t" style="normal" xml:id="subtitle153">położyć kres jego uczynkom.</p>
+<p begin="8250742499t" end="8264089166t" style="normal" xml:id="subtitle154">Będziemy pilnować Kumi...</p>
+<p begin="8264923332t" end="8273264999t" style="normal" xml:id="subtitle155">Nie.</p>
+<p begin="8277435832t" end="8315390416t" style="normal" xml:id="subtitle156">Chcę, żeby dobrze się bawiła.</p>
+<p begin="8327902916t" end="8341249582t" style="normal" xml:id="subtitle157">Ale...</p>
+<p begin="8353762082t" end="8377952916t" style="normal" xml:id="subtitle158">To jej pierwsza wycieczka od operacji,</p>
+<p begin="8382540832t" end="8412570832t" style="normal" xml:id="subtitle159">a ja chcę dać jej szansę<br/>na nawiązanie nowych przyjaźni.</p>
+<p begin="8448022916t" end="8474716249t" style="normal" xml:id="subtitle160">Posiadanie przyjaciół jest wspaniałe.</p>
+<p begin="8527268749t" end="8567308749t" style="normal" xml:id="subtitle161">Zapewnimy Kumi dobrą zabawę<br/>i powstrzymamy Yashiro.</p>
+<p begin="8568142916t" end="8594836250t" style="normal" xml:id="subtitle162">Jeśli nam się to uda, wygramy.</p>
+<p begin="8647388750t" end="8655730416t" style="normal" xml:id="subtitle163">Dobrze.</p>
+<p begin="8719961250t" end="8737895832t" style="normal" xml:id="subtitle164">Dzieci!</p>
+<p begin="8738730000t" end="8767091666t" style="normal" xml:id="subtitle165">Zaczynamy przygotowania do fajerwerków!</p>
+<p begin="8767925832t" end="8795453332t" style="normal" xml:id="subtitle166">Zbierzcie się!</p>
+<p begin="8801292500t" end="8824649166t" style="normal" xml:id="subtitle167">- Idę już.<br/>- Dobrze.</p>
+<p begin="8836327500t" end="8878452916t" style="normal" xml:id="subtitle168">Przynieście niebieskie płachty<br/>i krzesła z budynku administracji.</p>
+<p begin="8898890000t" end="8911402500t" style="normal" xml:id="subtitle169">Tutaj.</p>
+<p begin="8941015416t" end="8951442500t" style="normal" xml:id="subtitle170">Są.</p>
+<p begin="8984392082t" end="8992733750t" style="normal" xml:id="subtitle171">Tutaj.</p>
+<p begin="9040281250t" end="9052376666t" style="normal" xml:id="subtitle172">Proszę.</p>
+<p begin="9053210832t" end="9061552500t" style="normal" xml:id="subtitle173">Proszę.</p>
+<p begin="9062386666t" end="9070728332t" style="normal" xml:id="subtitle174">Proszę.</p>
+<p begin="9071562500t" end="9079904166t" style="normal" xml:id="subtitle175">Proszę.</p>
+<p begin="9080738332t" end="9090331250t" style="normal" xml:id="subtitle176">Proszę.</p>
+<p begin="9215873332t" end="9225466250t" style="normal" xml:id="subtitle177">Nadchodzi czas.</p>
+<p begin="9351425416t" end="9381455416t" style="normal" xml:id="subtitle178">CHODŹMY PO SATORU.<br/>PRZYJDŹ DO DOMKU F O 16.30 - SACHIKO</p>
+<p begin="9387294582t" end="9403977916t" style="normal" xml:id="subtitle179"><span style="normal_1">Wiedziałem, że użyje tej taktyki.</span></p>
+<p begin="9451525416t" end="9480721250t" style="normal" xml:id="subtitle180">TU SATORU. ZACZEKAJ U SIEBIE.<br/>JUŻ IDĘ.</p>
+<p begin="9533690832t" end="9542032500t" style="normal" xml:id="subtitle181">Airi.</p>
+<p begin="9583740832t" end="9592916666t" style="normal" xml:id="subtitle182">To Li'l P.</p>
+<p begin="9601675416t" end="9614187916t" style="normal" xml:id="subtitle183">- Słodki, prawda?<br/>- Kumi.</p>
+<p begin="9620444166t" end="9652976666t" style="normal" xml:id="subtitle184">Możemy wymienić się telefonami<br/>na czas obozu?</p>
+<p begin="9653810832t" end="9662152500t" style="normal" xml:id="subtitle185">Co?</p>
+<p begin="9665906250t" end="9710951250t" style="normal" xml:id="subtitle186">Ma wszystkie potrzebne numery,<br/>do mojej mamy i twojego domu.</p>
+<p begin="9728051666t" end="9760167082t" style="normal" xml:id="subtitle187">Nie wiem dlaczego,<br/>ale mi to nie przeszkadza.</p>
+<p begin="9772679582t" end="9781021250t" style="normal" xml:id="subtitle188">Proszę.</p>
+<p begin="9935759166t" end="9972045416t" style="normal" xml:id="subtitle189">Yashiro napisał do Kumi,<br/>żeby przyszła do domku.</p>
+<p begin="9972879582t" end="9998321666t" style="normal" xml:id="subtitle190">Spróbuję gdzieś go wywabić.</p>
+<p begin="10004995000t" end="10015839166t" style="normal" xml:id="subtitle191">Stój na straży.</p>
+<p begin="10053376666t" end="10073396666t" style="normal" xml:id="subtitle192"><span style="normal_1">To zniszczy plan Yashiro.</span></p>
+<p begin="10091748332t" end="10118441666t" style="normal" xml:id="subtitle193"><span style="normal_1">Może w desperacji popełni jakiś błąd.</span></p>
+<p begin="10345335000t" end="10360767082t" style="normal" xml:id="subtitle194">Znowu to zrobiłeś, Satoru.</p>
+<p begin="10376616250t" end="10395802082t" style="normal" xml:id="subtitle195">Musiał odzyskać wspomnienia.</p>
+<p begin="10631871250t" end="10668157500t" style="normal" xml:id="subtitle196">To jest to. To uczucie.</p>
+<p begin="10686926250t" end="10716122082t" style="normal" xml:id="subtitle197">Czuję, że żyję.</p>
+<p begin="10724880832t" end="10759915832t" style="normal" xml:id="subtitle198">Ale to cudowne!</p>
+<p begin="10808297500t" end="10817473332t" style="normal" xml:id="subtitle199">Teraz.</p>
+<p begin="10836242082t" end="10852925416t" style="normal" xml:id="subtitle200">Czas na kolejną rundę.</p>
+<p begin="10902141250t" end="10927166250t" style="normal" xml:id="subtitle201">Gotowi? Raz, dwa...</p>
+<p begin="10931754166t" end="10956779166t" style="normal" xml:id="subtitle202">Wszyscy gotowi?</p>
+<p begin="10957613332t" end="10967206250t" style="normal" xml:id="subtitle203">Tak!</p>
+<p begin="10968040416t" end="11001824166t" style="normal" xml:id="subtitle204">Świetnie. Zbierzmy się.</p>
+<p begin="11002658332t" end="11020175832t" style="normal" xml:id="subtitle205">Wszyscy za mną!</p>
+<p begin="11021010000t" end="11038110416t" style="normal" xml:id="subtitle206">Idźcie za panią, dzieci!</p>
+<p begin="11043115416t" end="11057296250t" style="normal" xml:id="subtitle207">Dobrze?</p>
+<p begin="11058130416t" end="11069808750t" style="normal" xml:id="subtitle208">Satoru?</p>
+<p begin="11070642916t" end="11105260832t" style="normal" xml:id="subtitle209">Kumi idzie w twoją stronę<br/>z innymi dziećmi.</p>
+<p begin="11124863750t" end="11161150000t" style="normal" xml:id="subtitle210">Napisał do niej, żeby przyszła do domku?</p>
+<p begin="11170742916t" end="11183672500t" style="normal" xml:id="subtitle211">Pójdę to sprawdzić.</p>
+<p begin="11188677500t" end="11211617082t" style="normal" xml:id="subtitle212">Może zostawił jakieś dowody.</p>
+<p begin="11219958750t" end="11229968750t" style="normal" xml:id="subtitle213">To domek F.</p>
+<p begin="11238727500t" end="11257079166t" style="normal" xml:id="subtitle214">Uważaj na siebie.</p>
+<p begin="11317556250t" end="11344249582t" style="normal" xml:id="subtitle215">Przyszłam sprawdzić, co z tobą,<br/>bo się spóźniasz.</p>
+<p begin="11349671666t" end="11371360000t" style="normal" xml:id="subtitle216">Przepraszam. Zrobiłem sobie przerwę.</p>
+<p begin="11420158750t" end="11455610832t" style="normal" xml:id="subtitle217">Jesteś w coraz lepszej kondycji.</p>
+<p begin="11476047916t" end="11514419582t" style="normal" xml:id="subtitle218">Czuję ulgę, widząc,<br/>ile dałeś radę przejść.</p>
+<p begin="11555710832t" end="11596585000t" style="normal" xml:id="subtitle219">Zawsze nade mną czuwasz.</p>
+<p begin="11604092500t" end="11624112500t" style="normal" xml:id="subtitle220"><span style="normal_1">Powiedziałem to na głos.</span></p>
+<p begin="11624946666t" end="11643715416t" style="normal" xml:id="subtitle221">Nie mów tak!</p>
+<p begin="11652474166t" end="11665403750t" style="normal" xml:id="subtitle222">Zawstydzasz mnie.</p>
+<p begin="11705860832t" end="11746735000t" style="normal" xml:id="subtitle223">Kumi pewnie niedługo po mnie przyjdzie.<br/>Muszę wrócić na plac.</p>
+<p begin="11767589166t" end="11795950832t" style="normal" xml:id="subtitle224">Obejrzysz z nami fajerwerki, prawda?</p>
+<p begin="11803041250t" end="11819724582t" style="normal" xml:id="subtitle225">O czym ty mówisz?</p>
+<p begin="11825146666t" end="11858513332t" style="normal" xml:id="subtitle226">Zaprosiłeś Kumi na oglądanie<br/>fajerwerków w innym miejscu.</p>
+<p begin="11863935416t" end="11872277082t" style="normal" xml:id="subtitle227">Co?</p>
+<p begin="11873111250t" end="11888126250t" style="normal" xml:id="subtitle228">Kumi mi powiedziała.</p>
+<p begin="11898553332t" end="11943181250t" style="normal" xml:id="subtitle229">Satoru zostawił liścik i zaprosił mnie<br/>na oglądanie fajerwerków z muzykantem.</p>
+<p begin="11959864582t" end="11995733750t" style="normal" xml:id="subtitle230">Znalazłam go w plecaku.</p>
+<p begin="12029934582t" end="12063718332t" style="normal" xml:id="subtitle231">OBEJRZYJMY RAZEM FAJERWERKI<br/>Z MUZYKANTEM ZA ROZKOŁYSANĄ ZIEMIĄ.</p>
+<p begin="12064552500t" end="12083321250t" style="normal" xml:id="subtitle232">TO BĘDZIE NASZ SEKRET! - SATORU</p>
+<p begin="12084155416t" end="12118773332t" style="normal" xml:id="subtitle233">Uwielbiam sekrety i niespodzianki!<br/>Są takie ekscytujące!</p>
+<p begin="12145466666t" end="12172160000t" style="normal" xml:id="subtitle234">Kiedy nauczyłeś się takich sztuczek?</p>
+<p begin="12184672500t" end="12211782916t" style="normal" xml:id="subtitle235">Co to za muzykant?</p>
+<p begin="12225129582t" end="12233471250t" style="normal" xml:id="subtitle236">Muzykant?</p>
+<p begin="12245983750t" end="12272677082t" style="normal" xml:id="subtitle237">- A tu jest wesoły muzykant!<br/>- Dlaczego?</p>
+<p begin="12273511250t" end="12301455832t" style="normal" xml:id="subtitle238">Bo tanuki gra na swoim brzuszku<br/>jak na bębenku.</p>
+<p begin="12313968332t" end="12323978332t" style="normal" xml:id="subtitle239">Ale tu strasznie!</p>
+<p begin="12341912916t" end="12370691666t" style="normal" xml:id="subtitle240">Stąd na pewno dobrze widać fajerwerki.</p>
+<p begin="12371525832t" end="12379867500t" style="normal" xml:id="subtitle241">Idealne miejsce!</p>
+<p begin="12397385000t" end="12411148750t" style="normal" xml:id="subtitle242">Co powiedziałaś?</p>
+<p begin="12414068332t" end="12424495416t" style="normal" xml:id="subtitle243">Nic.</p>
+<p begin="12460364582t" end="12473294166t" style="normal" xml:id="subtitle244">Co się stało?</p>
+<p begin="12478299166t" end="12502072916t" style="normal" xml:id="subtitle245">Zapomniałem o czymś! Muszę iść!</p>
+<p begin="12644715416t" end="12656810832t" style="normal" xml:id="subtitle246">Jestem tu już?</p>
+<p begin="12764835416t" end="12808212082t" style="normal" xml:id="subtitle247">Chyba jeszcze trochę.<br/>Wydawało mi się, że jest bliżej.</p>
+<p begin="13039693332t" end="13066386666t" style="normal" xml:id="subtitle248">MOST LINOWY NEBARA</p>
+<p begin="13177747916t" end="13202355832t" style="normal" xml:id="subtitle249"><span style="normal_1">Jest pewna kłopotliwa rzecz,</span></p>
+<p begin="13203190000t" end="13251154582t" style="normal" xml:id="subtitle250">która za nic ma ciężką pracę<br/>i badania lekarzy.</p>
+<p begin="13288692082t" end="13303707082t" style="normal" xml:id="subtitle251">Wiesz, co to jest?</p>
+<p begin="13309129166t" end="13317470832t" style="normal" xml:id="subtitle252">Nie.</p>
+<p begin="13329983332t" end="13339993332t" style="normal" xml:id="subtitle253">Ludzka wola.</p>
+<p begin="13345415416t" end="13359179166t" style="normal" xml:id="subtitle254">Ludzka wola?</p>
+<p begin="13607760832t" end="13632368749t" style="normal" xml:id="subtitle255">Nie potrzebuję powodu,<br/>by ocalić przyjaciółkę.</p>
+<p begin="13698684999t" end="13723709999t" style="normal" xml:id="subtitle256">Następnym razem powstrzymam to.</p>
+<p begin="13775845416t" end="13805458332t" style="normal" xml:id="subtitle257">Obiecujemy, że będziemy cię chronić.</p>
+<p begin="13881784582t" end="13915985416t" style="normal" xml:id="subtitle258">Nie poddałem się w połowie drogi<br/>i oto jesteśmy.</p>
+<p begin="14204189999t" end="14222124582t" style="normal" xml:id="subtitle259">Satoru? Nic ci nie jest?</p>
+<p begin="14244229999t" end="14255908332t" style="normal" xml:id="subtitle260">Dzięki Bogu.</p>
+<p begin="14295114166t" end="14322224582t" style="normal" xml:id="subtitle261">Znalazłem ją przed tobą.</p>
+<p begin="14331817499t" end="14342244582t" style="normal" xml:id="subtitle262">Pan Sawada!</p>
+<p begin="14347666666t" end="14367686666t" style="normal" xml:id="subtitle263">Dostałem wiadomość od Kenyi.</p>
+<p begin="14374359999t" end="14388123749t" style="normal" xml:id="subtitle264">Martwiłem się.</p>
+<p begin="14401470416t" end="14433585832t" style="normal" xml:id="subtitle265">Nie bój się. Yashiro chyba nas nie goni.</p>
+<p begin="14494897082t" end="14531600416t" style="normal" xml:id="subtitle266">Masz ze sobą list,<br/>który ci zostawiłem?</p>
+<p begin="14547866666t" end="14556208332t" style="normal" xml:id="subtitle267">Mam.</p>
+<p begin="14596248332t" end="14604589999t" style="normal" xml:id="subtitle268">Proszę.</p>
+<p begin="14650469166t" end="14692594582t" style="normal" xml:id="subtitle269">OBEJRZYJMY RAZEM FAJERWERKI<br/>Z MUZYKANTEM ZA ROZKOŁYSANĄ ZIEMIĄ.</p>
+<p begin="14693428749t" end="14709277916t" style="normal" xml:id="subtitle270">TO BĘDZIE NASZ SEKRET! - SATORU</p>
+<p begin="14737222499t" end="14766418332t" style="normal" xml:id="subtitle271">Znalazłeś pęknięcie.</p>
+<p begin="14793945832t" end="14802704582t" style="normal" xml:id="subtitle272">Tak.</p>
+<p begin="14901553332t" end="14913648749t" style="normal" xml:id="subtitle273">SKRZYNKA ODBIORCZA<br/>SACHIKO FUJINUMA</p>
+<p begin="14914482916t" end="14951603332t" style="normal" xml:id="subtitle274">SACHIKO: BĘDĘ CZEKAĆ NA CIEBIE<br/>NA ROZKOŁYSANEJ ZIEMI.</p>
+<p begin="14960362082t" end="14994562916t" style="normal" xml:id="subtitle275"><span style="normal_1">Yashiro zorientował się,</span><br/><span style="normal_1">że mam telefon Kumi.</span></p>
+<p begin="15004572916t" end="15033768749t" style="normal" xml:id="subtitle276"><span style="normal_1">Czyli to wiadomość do mnie.</span></p>
+<p begin="15048366666t" end="15070472082t" style="normal" xml:id="subtitle277"><span style="normal_1">Czeka na mnie.</span></p>
+<p begin="15084235832t" end="15119270832t" style="normal" xml:id="subtitle278">Teraz muszę zmusić Yashiro,<br/>by przyznał się do swoich przestępstw.</p>
+<p begin="15186838332t" end="15206858332t" style="normal" xml:id="subtitle279">Napisy:<br/>Inez Girek</p>
+</div>
+</body>
+</tt>

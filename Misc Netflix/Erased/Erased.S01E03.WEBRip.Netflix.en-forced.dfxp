@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_2"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="520102916t" end="542625416t" region="region_1" xml:id="subtitle0"><span style="style_1">FEBRUARY 22ND MONDAY</span></p>
+<p begin="1554886666t" end="1583665416t" region="region_1" xml:id="subtitle1"><span style="style_1">FEBRUARY 23RD TUESDAY</span></p>
+<p begin="1637469166t" end="1682931249t" region="region_2" xml:id="subtitle2"><span style="style_1">ATTENDANTS: SATORU FUJINUMA</span><br/><span style="style_1">KAYO HINAZUKI</span></p>
+<p begin="1953618332t" end="1973638332t" region="region_1" xml:id="subtitle3"><span style="style_1">SATORU FUJINUMA</span><br/><span style="style_1">KAYO HINAZUKI</span></p>
+<p begin="3905985416t" end="3938517916t" region="region_1" xml:id="subtitle4"><span style="style_1">FEBRUARY 24TH 1988 WEDNESDAY</span></p>
+<p begin="6484811666t" end="6512756250t" region="region_1" xml:id="subtitle5"><span style="style_1">FEBRUARY 27TH SATURDAY</span></p>
+<p begin="8195270416t" end="8218209999t" region="region_1" xml:id="subtitle6"><span style="style_1">FEBRUARY 29TH MONDAY</span></p>
+<p begin="9413570832t" end="9449440000t" region="region_1" xml:id="subtitle7"><span style="style_1">TOMAKOMAI CITY SCIENCE CENTER</span></p>
+<p begin="11566972082t" end="11590328750t" region="region_1" xml:id="subtitle8"><span style="style_1">MARCH 2ND 1988</span></p>
+<p begin="11615770832t" end="11648303332t" region="region_1" xml:id="subtitle9"><span style="style_1">HAPPY BIRTHDAY SATORU, KAYO</span><br/><span style="style_1">GETTING MARRIED?</span></p>
+<p begin="11828066250t" end="11854342500t" region="region_2" xml:id="subtitle10"><span style="style_1">HAPPY BIRTHDAY KAYO</span></p>
+<p begin="16488138334t" end="16506490000t" region="region_1" xml:id="subtitle11"><span style="style_1">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>

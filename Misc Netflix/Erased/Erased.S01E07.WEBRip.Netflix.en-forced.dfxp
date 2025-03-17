@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style_1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style_2"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region_1"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="2111692916t" end="2130044582t" region="region_1" xml:id="subtitle0"><span style="style_1">WE ARE LOOKING FOR AYA NAKANISHI</span></p>
+<p begin="3582328749t" end="3620700416t" region="region_1" xml:id="subtitle1"><span style="style_2">A red fire burns ablaze</span><br/><span style="style_2">Don't lose, stand up</span></p>
+<p begin="3621534582t" end="3637383749t" region="region_1" xml:id="subtitle2"><span style="style_2">There is no time to cry</span></p>
+<p begin="3725805416t" end="3761257499t" region="region_1" xml:id="subtitle3"><span style="style_2">Wonder, wonder, such a kind heart</span></p>
+<p begin="3762925832t" end="3800880416t" region="region_1" xml:id="subtitle4"><span style="style_2">Wonder, wonder, embracing you</span></p>
+<p begin="3801714582t" end="3835081249t" region="region_1" xml:id="subtitle5"><span style="style_2">His loving heart is his weapon</span><br/><span style="style_2">A hero who protects you</span></p>
+<p begin="3835915416t" end="3863025832t" region="region_1" xml:id="subtitle6"><span style="style_2">Keep fighting, Wonderguy!</span></p>
+<p begin="4045291249t" end="4068230832t" region="region_1" xml:id="subtitle7"><span style="style_1">HAMANASU CRAM SCHOOL</span></p>
+<p begin="13507660832t" end="13528514999t" region="region_1" xml:id="subtitle8"><span style="style_1">MARCH 14TH MONDAY</span></p>
+<p begin="16058125416t" end="16078979582t" region="region_1" xml:id="subtitle9"><span style="style_1">RESTROOM</span></p>
+<p begin="16102753332t" end="16122773332t" region="region_1" xml:id="subtitle10"><span style="style_1">EMERGENCY EXIT</span></p>
+<p begin="17801533750t" end="17826558750t" region="region_1" xml:id="subtitle11"><span style="style_1">Translated by Zensho Yamamoto</span></p>
+</div>
+</body>
+</tt>
