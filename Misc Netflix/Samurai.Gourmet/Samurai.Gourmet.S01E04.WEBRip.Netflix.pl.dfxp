@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="normal_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 40.00%" tts:origin="10.00% 50.00%" xml:id="bottom"/>
+<region tts:displayAlign="before" tts:extent="80.00% 40.00%" tts:origin="10.00% 10.00%" xml:id="top"/>
+</layout>
+</head>
+<body region="bottom">
+<div xml:space="preserve">
+<p begin="65000000t" end="104333333t" style="normal" xml:id="subtitle0">NETFLIX - SERIAL ORYGINALNY</p>
+<p begin="165000000t" end="188333333t" style="normal" xml:id="subtitle1"><span style="normal_1">Był to czas wojny.</span></p>
+<p begin="199333333t" end="218666666t" style="normal" xml:id="subtitle2"><span style="normal_1">Samotny wojownik, zdany jedynie</span></p>
+<p begin="221666666t" end="250000000t" style="normal" xml:id="subtitle3"><span style="normal_1">na swe umiejętności, przemierzał kraj.</span></p>
+<p begin="283000000t" end="300000000t" style="normal" xml:id="subtitle4"><span style="normal_1">Samuraj.</span></p>
+<p begin="375333333t" end="421666666t" style="normal" xml:id="subtitle5"><span style="normal_1">Ten człowiek nie jest współczesnym</span><br/><span style="normal_1">wędrownym samurajem.</span></p>
+<p begin="425333333t" end="437333333t" style="normal" xml:id="subtitle6">Drogi.</p>
+<p begin="481000000t" end="498666666t" style="normal" xml:id="subtitle7">- Co ty...?<br/>- I jak?</p>
+<p begin="532000000t" end="555000000t" style="normal" xml:id="subtitle8">To tylko kolacja z twoją bratanicą.</p>
+<p begin="555666666t" end="570333333t" style="normal" xml:id="subtitle9">Strój nie ma znaczenia.</p>
+<p begin="571000000t" end="588000000t" style="normal" xml:id="subtitle10">Nieprawda.</p>
+<p begin="591333333t" end="634333333t" style="normal" xml:id="subtitle11">Byłoby żenujące, gdyby ktoś w twoim wieku<br/>założył wyświechtane ubranie.</p>
+<p begin="642333333t" end="657000000t" style="normal" xml:id="subtitle12">Przymierz to.</p>
+<p begin="674666666t" end="688000000t" style="normal" xml:id="subtitle13">Co za koszmar.</p>
+<p begin="690000000t" end="712333333t" style="normal" xml:id="subtitle14">Nie mów tak.</p>
+<p begin="731000000t" end="742666666t" style="normal" xml:id="subtitle15">Dziękujemy.</p>
+<p begin="754000000t" end="762333333t" style="normal" xml:id="subtitle16">Dobrze!</p>
+<p begin="766000000t" end="795666666t" style="normal" xml:id="subtitle17">Wybierz jakieś miłe miejsce<br/>na kolację z Masako.</p>
+<p begin="799000000t" end="817666666t" style="normal" xml:id="subtitle18">Ja nie mogę iść, bo mam próbę chóru.</p>
+<p begin="825333333t" end="841333333t" style="normal" xml:id="subtitle19">Mam iść sam?</p>
+<p begin="842333333t" end="850666666t" style="normal" xml:id="subtitle20">Tak.</p>
+<p begin="857000000t" end="885666666t" style="normal" xml:id="subtitle21">Mój brat wczoraj dzwonił.</p>
+<p begin="889666666t" end="902000000t" style="normal" xml:id="subtitle22">Masako upiera się,</p>
+<p begin="905333333t" end="923333333t" style="normal" xml:id="subtitle23">że nie pójdzie do pracy,</p>
+<p begin="924666666t" end="945333333t" style="normal" xml:id="subtitle24">nawet jak skończy studia.</p>
+<p begin="946666666t" end="968333333t" style="normal" xml:id="subtitle25">Ciężka sprawa.</p>
+<p begin="971333333t" end="980666666t" style="normal" xml:id="subtitle26">Naprawdę?</p>
+<p begin="981333333t" end="991666666t" style="normal" xml:id="subtitle27">Tak.</p>
+<p begin="997666666t" end="1043000000t" style="normal" xml:id="subtitle28">Przyda jej się dobra rada wujka.</p>
+<p begin="1055333333t" end="1071666666t" style="normal" xml:id="subtitle29">Nie wiem, czy powinienem.</p>
+<p begin="1079333333t" end="1114333333t" style="normal" xml:id="subtitle30">Nie słucha rodziców.</p>
+<p begin="1119333333t" end="1137000000t" style="normal" xml:id="subtitle31">Mnie też nie będzie.</p>
+<p begin="1138000000t" end="1154666666t" style="normal" xml:id="subtitle32">Ty możesz ją przekonać.</p>
+<p begin="1155333333t" end="1172666666t" style="normal" xml:id="subtitle33">- Czemu?<br/>- Jesteś jej wujkiem.</p>
+<p begin="1201666666t" end="1211000000t" style="normal" xml:id="subtitle34">RESTAURACJE</p>
+<p begin="1211666666t" end="1234000000t" style="normal" xml:id="subtitle35">KUCHNIA FRANCUSKA</p>
+<p begin="1243333333t" end="1266000000t" style="normal" xml:id="subtitle36">Chyba trochę zbyt wyszukane.</p>
+<p begin="1266666666t" end="1278000000t" style="normal" xml:id="subtitle37">KUCHNIA JAPOŃSKA</p>
+<p begin="1278666666t" end="1296999999t" style="normal" xml:id="subtitle38">SUSHI</p>
+<p begin="1301666666t" end="1325666666t" style="normal" xml:id="subtitle39">Sushi?</p>
+<p begin="1327333333t" end="1341000000t" style="normal" xml:id="subtitle40">Pewnie drogo.</p>
+<p begin="1356000000t" end="1371333333t" style="normal" xml:id="subtitle41">BARBECUE I YAKINIKU</p>
+<p begin="1375666666t" end="1388000000t" style="normal" xml:id="subtitle42">Steki?</p>
+<p begin="1395333333t" end="1422000000t" style="normal" xml:id="subtitle43">Niezły pomysł.</p>
+<p begin="1422666666t" end="1433666666t" style="normal" xml:id="subtitle44">Przestraszyłaś mnie.</p>
+<p begin="1434333333t" end="1459666666t" style="normal" xml:id="subtitle45">Znasz jakieś dobre restauracje?</p>
+<p begin="1464333333t" end="1502666666t" style="normal" xml:id="subtitle46">Znam jedno miejsce,<br/>do którego zabrał mnie kiedyś szef.</p>
+<p begin="1503333333t" end="1519000000t" style="normal" xml:id="subtitle47">Idźcie tam.</p>
+<p begin="1519666666t" end="1542000000t" style="normal" xml:id="subtitle48">Młodzi tam nie przychodzą.</p>
+<p begin="1543666666t" end="1566666666t" style="normal" xml:id="subtitle49">To nic, o ile mają dobre jedzenie.</p>
+<p begin="1567333333t" end="1575666666t" style="normal" xml:id="subtitle50">Racja.</p>
+<p begin="1584666666t" end="1608000000t" style="normal" xml:id="subtitle51">Gdzie ja mam ich numer telefonu?</p>
+<p begin="1646000000t" end="1658666666t" style="normal" xml:id="subtitle52">A tak przy okazji...</p>
+<p begin="1674333333t" end="1704666666t" style="normal" xml:id="subtitle53">Nie powinieneś przy niej pić.</p>
+<p begin="1711666666t" end="1727000000t" style="normal" xml:id="subtitle54">Obiecasz mi?</p>
+<p begin="1746666666t" end="1756333333t" style="normal" xml:id="subtitle55">Wiem.</p>
+<p begin="1788666666t" end="1828333333t" style="normal" xml:id="subtitle56"><span style="normal_1">Po przejściu na emeryturę</span><br/><span style="normal_1">przestał być częścią korporacji</span></p>
+<p begin="1829000000t" end="1863333333t" style="normal" xml:id="subtitle57"><span style="normal_1">i nie mógł już liczyć na jej wsparcie.</span></p>
+<p begin="1871000000t" end="1894000000t" style="normal" xml:id="subtitle58"><span style="normal_1">Takeshi Kasumi, lat 60.</span></p>
+<p begin="1919000000t" end="1932333333t" style="normal" xml:id="subtitle59"><span style="normal_1">Oto opowieść</span></p>
+<p begin="1933000000t" end="1957666666t" style="normal" xml:id="subtitle60"><span style="normal_1">o przeciętnym 60-latku</span></p>
+<p begin="1963000000t" end="1981000000t" style="normal" xml:id="subtitle61"><span style="normal_1">czerpiącym przyjemność z jedzenia,</span></p>
+<p begin="1985333333t" end="2012333333t" style="normal" xml:id="subtitle62"><span style="normal_1">któremu pomaga samuraj.</span></p>
+<p begin="2018333333t" end="2038000000t" style="normal" xml:id="subtitle63"><span style="normal_1">Wyborna opowieść.</span></p>
+<p begin="2141000000t" end="2184333333t" region="top" style="normal" xml:id="subtitle64">Yakiniku w jej stylu</p>
+<p begin="2223666666t" end="2233333333t" style="normal" xml:id="subtitle65">Wujku Takeshi!</p>
+<p begin="2266000000t" end="2276333333t" style="normal" xml:id="subtitle66">Masako?</p>
+<p begin="2284666666t" end="2294000000t" style="normal" xml:id="subtitle67">Jak ten czas leci.</p>
+<p begin="2301333333t" end="2320333333t" style="normal" xml:id="subtitle68">Ale urosłaś.</p>
+<p begin="2321000000t" end="2354333333t" style="normal" xml:id="subtitle69">Mam już 21 lat.</p>
+<p begin="2355000000t" end="2379000000t" style="normal" xml:id="subtitle70">Dorosła panna!</p>
+<p begin="2387333333t" end="2410333333t" style="normal" xml:id="subtitle71">Dokąd idziemy?</p>
+<p begin="2423333333t" end="2442666666t" style="normal" xml:id="subtitle72">Myślałem o restauracji z <span style="normal_1">yakiniku.</span></p>
+<p begin="2447000000t" end="2462000000t" style="normal" xml:id="subtitle73">Świetnie!</p>
+<p begin="2465666666t" end="2486333333t" style="normal" xml:id="subtitle74">Jestem strasznie głodna.</p>
+<p begin="2487000000t" end="2496666666t" style="normal" xml:id="subtitle75">To tam.</p>
+<p begin="2497666666t" end="2506000000t" style="normal" xml:id="subtitle76">Chodźmy!</p>
+<p begin="2513666666t" end="2539000000t" style="normal" xml:id="subtitle77"><span style="normal_1">Dobrze się zaczyna.</span></p>
+<p begin="2580666666t" end="2612666666t" style="normal" xml:id="subtitle78">YAKINIKU KOEI</p>
+<p begin="2636333333t" end="2654333333t" style="normal" xml:id="subtitle79">To twoja ulubiona restauracja?</p>
+<p begin="2660000000t" end="2669333333t" style="normal" xml:id="subtitle80">Szef mi ją pokazał,</p>
+<p begin="2672000000t" end="2689333333t" style="normal" xml:id="subtitle81">gdy jeszcze pracowałem.</p>
+<p begin="2692000000t" end="2703000000t" style="normal" xml:id="subtitle82">Mają dobre jedzenie.</p>
+<p begin="2854000000t" end="2886000000t" style="normal" xml:id="subtitle83"><span style="normal_1">W takich miejscach serwują</span><br/><span style="normal_1">najlepsze </span>yakiniku.</p>
+<p begin="2886666666t" end="2911333333t" style="normal" xml:id="subtitle84">Państwa zamówienie.</p>
+<p begin="2913666666t" end="2928000000t" style="normal" xml:id="subtitle85">Dziękujemy!</p>
+<p begin="2934000000t" end="2944333333t" style="normal" xml:id="subtitle86">Witamy!</p>
+<p begin="2948666666t" end="2969666666t" style="normal" xml:id="subtitle87">Mam rezerwację na nazwisko Kasumi.</p>
+<p begin="3001000000t" end="3014000000t" style="normal" xml:id="subtitle88">Proszę tutaj.</p>
+<p begin="3029333333t" end="3043000000t" style="normal" xml:id="subtitle89">Ręczniki!</p>
+<p begin="3047333333t" end="3055666666t" style="normal" xml:id="subtitle90">Już.</p>
+<p begin="3077333333t" end="3086666666t" style="normal" xml:id="subtitle91">Proszę.</p>
+<p begin="3093333333t" end="3104000000t" style="normal" xml:id="subtitle92">Dziękuję.</p>
+<p begin="3147333333t" end="3168333333t" style="normal" xml:id="subtitle93">W Internecie dali im trzy i pół gwiazdki.</p>
+<p begin="3172000000t" end="3181666666t" style="normal" xml:id="subtitle94">Tak sobie.</p>
+<p begin="3186333333t" end="3205000000t" style="normal" xml:id="subtitle95">Internet nie powie ci wszystkiego.</p>
+<p begin="3208333333t" end="3220666666t" style="normal" xml:id="subtitle96">Coś do picia?</p>
+<p begin="3224000000t" end="3235000000t" style="normal" xml:id="subtitle97">Na co masz ochotę?</p>
+<p begin="3239000000t" end="3249333333t" style="normal" xml:id="subtitle98">Sok pomarańczowy?</p>
+<p begin="3255666666t" end="3273666666t" style="normal" xml:id="subtitle99">- Herbatę?<br/>- Proszę piwo.</p>
+<p begin="3283333333t" end="3293333333t" style="normal" xml:id="subtitle100">Co?</p>
+<p begin="3298666666t" end="3316333333t" style="normal" xml:id="subtitle101">Jestem już pełnoletnia.</p>
+<p begin="3319000000t" end="3332333333t" style="normal" xml:id="subtitle102">Też weź piwo.</p>
+<p begin="3359333333t" end="3369000000t" style="normal" xml:id="subtitle103">Nie, dziękuję.</p>
+<p begin="3376333333t" end="3408000000t" style="normal" xml:id="subtitle104">Ciocia Shizuko prosiła cię,<br/>żebyś przy mnie nie pił?</p>
+<p begin="3416000000t" end="3446000000t" style="normal" xml:id="subtitle105">- Skąd wiesz?<br/>- Jedno nie zaszkodzi.</p>
+<p begin="3453000000t" end="3468666666t" style="normal" xml:id="subtitle106">Prosimy dwa piwa.</p>
+<p begin="3469333333t" end="3487666666t" style="normal" xml:id="subtitle107">Dwa piwa.</p>
+<p begin="3499666666t" end="3524666666t" style="normal" xml:id="subtitle108">- Możemy już zamówić?<br/>- Oczywiście!</p>
+<p begin="3544666666t" end="3555666666t" style="normal" xml:id="subtitle109">Poproszę...</p>
+<p begin="3568666666t" end="3584333333t" style="normal" xml:id="subtitle110">ozorek wołowy.</p>
+<p begin="3586000000t" end="3600666666t" style="normal" xml:id="subtitle111">- I polędwiczkę.<br/>- Dobrze.</p>
+<p begin="3606000000t" end="3615666666t" style="normal" xml:id="subtitle112">I jeszcze...</p>
+<p begin="3621333333t" end="3637000000t" style="normal" xml:id="subtitle113">- półmisek mięs.<br/>- Dobrze.</p>
+<p begin="3639333333t" end="3662000000t" style="normal" xml:id="subtitle114">Jaki sos do polędwiczki?</p>
+<p begin="3675333333t" end="3691666666t" style="normal" xml:id="subtitle115">Firmowy.</p>
+<p begin="3699666666t" end="3714000000t" style="normal" xml:id="subtitle116">Co to jest <span style="normal_1">zabuton?</span></p>
+<p begin="3714666666t" end="3739000000t" style="normal" xml:id="subtitle117">To mięso pod łopatką.</p>
+<p begin="3743666666t" end="3763666666t" style="normal" xml:id="subtitle118">Jest bardzo dobre.</p>
+<p begin="3764333333t" end="3783000000t" style="normal" xml:id="subtitle119">- To też poproszę.<br/>- Dobrze.</p>
+<p begin="3790333333t" end="3809333333t" style="normal" xml:id="subtitle120">A dla ciebie, wujku?</p>
+<p begin="3810000000t" end="3826333333t" style="normal" xml:id="subtitle121">Zobaczmy...</p>
+<p begin="3836333333t" end="3853333333t" style="normal" xml:id="subtitle122">Do tego <span style="normal_1">kimchi</span> i <span style="normal_1">namul</span>.</p>
+<p begin="3854333333t" end="3869000000t" style="normal" xml:id="subtitle123">To na razie wszystko.</p>
+<p begin="3875333333t" end="3895000000t" style="normal" xml:id="subtitle124">Zaraz przyniosę.</p>
+<p begin="3899333333t" end="3907666666t" style="normal" xml:id="subtitle125"><span style="normal_1">Niedobrze.</span></p>
+<p begin="3911333333t" end="3932000000t" style="normal" xml:id="subtitle126"><span style="normal_1">Zaczyna dyrygować.</span></p>
+<p begin="3935333333t" end="3952666666t" style="normal" xml:id="subtitle127">Bardzo proszę.</p>
+<p begin="3959666666t" end="3968666666t" style="normal" xml:id="subtitle128">Państwa danie.</p>
+<p begin="3969333333t" end="3991000000t" style="normal" xml:id="subtitle129">Uwaga!</p>
+<p begin="4006333333t" end="4033000000t" style="normal" xml:id="subtitle130">Proszę.</p>
+<p begin="4040333333t" end="4066333333t" style="normal" xml:id="subtitle131">- Zupa <span style="normal_1">gukbap</span>.<br/>- Wygląda pysznie.</p>
+<p begin="4067000000t" end="4078000000t" style="normal" xml:id="subtitle132">I...</p>
+<p begin="4085000000t" end="4106333333t" style="normal" xml:id="subtitle133">ryż po koreańsku.</p>
+<p begin="4138666666t" end="4165333333t" style="normal" xml:id="subtitle134"><span style="normal_1">Ryż po koreańsku.</span></p>
+<p begin="4318000000t" end="4343000000t" style="normal" xml:id="subtitle135"><span style="normal_1">I zupa </span>gukbap<span style="normal_1">.</span></p>
+<p begin="4438666666t" end="4452666666t" style="normal" xml:id="subtitle136"><span style="normal_1">Wygląda niesamowicie.</span></p>
+<p begin="4459666666t" end="4479000000t" style="normal" xml:id="subtitle137">Proszę piwo.</p>
+<p begin="4486666666t" end="4498000000t" style="normal" xml:id="subtitle138">No to...</p>
+<p begin="4502666666t" end="4515666666t" style="normal" xml:id="subtitle139">- Na zdrowie!<br/>- Na zdrowie!</p>
+<p begin="4561000000t" end="4569333333t" style="normal" xml:id="subtitle140">Dobre.</p>
+<p begin="4614666666t" end="4650000000t" style="normal" xml:id="subtitle141">Nie wierzę, że piję z tobą piwo, Masako.</p>
+<p begin="4655666666t" end="4669000000t" style="normal" xml:id="subtitle142">Nie bądź dziecinny.</p>
+<p begin="4675666666t" end="4684000000t" style="normal" xml:id="subtitle143">Proszę.</p>
+<p begin="4689333333t" end="4706666666t" style="normal" xml:id="subtitle144">Ozorek.</p>
+<p begin="4712333333t" end="4725666666t" style="normal" xml:id="subtitle145">Polędwiczki.</p>
+<p begin="4733666666t" end="4759333333t" style="normal" xml:id="subtitle146"><span style="normal_1">Namul</span>.</p>
+<p begin="4764000000t" end="4778666666t" style="normal" xml:id="subtitle147"><span style="normal_1">Kimchi</span>.</p>
+<p begin="4779333333t" end="4795000000t" style="normal" xml:id="subtitle148">Proszę szczypce.</p>
+<p begin="4796000000t" end="4811333333t" style="normal" xml:id="subtitle149">Najpierw grilluje się ozorek.</p>
+<p begin="4833000000t" end="4852000000t" style="normal" xml:id="subtitle150">Do roboty.</p>
+<p begin="4871666666t" end="4883000000t" style="normal" xml:id="subtitle151">Poczekaj.</p>
+<p begin="4944666666t" end="4953000000t" style="normal" xml:id="subtitle152">Odsunę to.</p>
+<p begin="4966000000t" end="4974333333t" style="normal" xml:id="subtitle153">Wujku...</p>
+<p begin="4982333333t" end="5012000000t" style="normal" xml:id="subtitle154">przesuniesz ten talerz do przodu?</p>
+<p begin="5024333333t" end="5033666666t" style="normal" xml:id="subtitle155">- Jasne.<br/>- Świetnie.</p>
+<p begin="5034333333t" end="5048333333t" style="normal" xml:id="subtitle156">Wspaniale. Poczekaj chwilę.</p>
+<p begin="5133333333t" end="5142000000t" style="normal" xml:id="subtitle157"><span style="normal_1">Kimchi!</span></p>
+<p begin="5147000000t" end="5157333333t" style="normal" xml:id="subtitle158">Możemy zaczynać?</p>
+<p begin="5165333333t" end="5174000000t" style="normal" xml:id="subtitle159">Tak.</p>
+<p begin="5174666666t" end="5194666666t" style="normal" xml:id="subtitle160">Dobrze, to do dzieła.</p>
+<p begin="5325666666t" end="5353000000t" style="normal" xml:id="subtitle161">- Co?<br/>- Najpierw miał być ozorek.</p>
+<p begin="5353666666t" end="5370333333t" style="normal" xml:id="subtitle162">To bez znaczenia.</p>
+<p begin="5376666666t" end="5386666666t" style="normal" xml:id="subtitle163">Pewnie tak.</p>
+<p begin="5392666666t" end="5415666666t" style="normal" xml:id="subtitle164">- Weź to.<br/>- Wolę pałeczkami.</p>
+<p begin="5428333333t" end="5437333333t" style="normal" xml:id="subtitle165">Dobrze.</p>
+<p begin="5649333333t" end="5657666666t" style="normal" xml:id="subtitle166">Świetnie.</p>
+<p begin="5719333333t" end="5730000000t" style="normal" xml:id="subtitle167">Smacznego.</p>
+<p begin="5730666666t" end="5744666666t" style="normal" xml:id="subtitle168">Smacznego.</p>
+<p begin="5762666666t" end="5776000000t" style="normal" xml:id="subtitle169"><span style="normal_1">Pyszne.</span></p>
+<p begin="5792000000t" end="5804666666t" style="normal" xml:id="subtitle170">Dobre.</p>
+<p begin="5871000000t" end="5890333333t" style="normal" xml:id="subtitle171"><span style="normal_1">Rozpływa się w ustach.</span></p>
+<p begin="5899666666t" end="5913000000t" style="normal" xml:id="subtitle172">Pycha. Zgrillujmy więcej.</p>
+<p begin="5950333333t" end="5965000000t" style="normal" xml:id="subtitle173"><span style="normal_1">Posklejane plastry.</span></p>
+<p begin="5970000000t" end="5983333333t" style="normal" xml:id="subtitle174"><span style="normal_1">Cóż za niechlujstwo.</span></p>
+<p begin="5985666666t" end="5996000000t" style="normal" xml:id="subtitle175">Masako...</p>
+<p begin="6007333333t" end="6018000000t" style="normal" xml:id="subtitle176">Co znowu?</p>
+<p begin="6027000000t" end="6044000000t" style="normal" xml:id="subtitle177">Tak się nie kładzie...</p>
+<p begin="6049333333t" end="6082000000t" style="normal" xml:id="subtitle178">Jestem głodna. Nie zamierzam czekać.</p>
+<p begin="6088000000t" end="6108000000t" style="normal" xml:id="subtitle179">Chcę, żeby się szybko upiekło.</p>
+<p begin="6113000000t" end="6122000000t" style="normal" xml:id="subtitle180">Dobrze.</p>
+<p begin="6122666666t" end="6147000000t" style="normal" xml:id="subtitle181"><span style="normal_1">Zmieniła się.</span></p>
+<p begin="6315000000t" end="6333333333t" style="normal" xml:id="subtitle182">Już się przypiekło.</p>
+<p begin="6348000000t" end="6356333333t" style="normal" xml:id="subtitle183">Mam.</p>
+<p begin="6473333333t" end="6490666666t" style="normal" xml:id="subtitle184"><span style="normal_1">Znów gapi się w telefon.</span></p>
+<p begin="6518000000t" end="6536666666t" style="normal" xml:id="subtitle185">Czemu nie jesz?</p>
+<p begin="6552333333t" end="6574333333t" style="normal" xml:id="subtitle186">Jestem zajęta.<br/>Ale ty jedz.</p>
+<p begin="6602666666t" end="6632666666t" style="normal" xml:id="subtitle187">Wysyłam wiadomość<br/>o jutrzejszym koncercie mojego zespołu.</p>
+<p begin="6638000000t" end="6646333333t" style="normal" xml:id="subtitle188">Masz zespół?</p>
+<p begin="6660666666t" end="6674333333t" style="normal" xml:id="subtitle189">To stąd ta gitara.</p>
+<p begin="6677666666t" end="6697000000t" style="normal" xml:id="subtitle190">Mieliśmy próbę w studiu.</p>
+<p begin="6710666666t" end="6724000000t" style="normal" xml:id="subtitle191">Poważna sprawa.</p>
+<p begin="6730666666t" end="6752666666t" style="normal" xml:id="subtitle192">Chcę zostać profesjonalnym muzykiem.</p>
+<p begin="6780000000t" end="6801333333t" style="normal" xml:id="subtitle193">To dlatego nie szukasz pracy.</p>
+<p begin="6808333333t" end="6816666666t" style="normal" xml:id="subtitle194">Tak.</p>
+<p begin="6819333333t" end="6841333333t" style="normal" xml:id="subtitle195">Tata wciąż gada, że mam iść do pracy.</p>
+<p begin="6844000000t" end="6881333333t" style="normal" xml:id="subtitle196">Pogadaj z nim, wujku!<br/>Powiedz, żeby się nie wtrącał.</p>
+<p begin="6897666666t" end="6923666666t" style="normal" xml:id="subtitle197">Wiem, co czuje twój tata.</p>
+<p begin="6942666666t" end="6951666666t" style="normal" xml:id="subtitle198">Jak to?</p>
+<p begin="6959333333t" end="6986333333t" style="normal" xml:id="subtitle199">Trudno jest żyć z muzyki.</p>
+<p begin="7005333333t" end="7034666666t" style="normal" xml:id="subtitle200">Jesteś profesjonalnym muzykiem?</p>
+<p begin="7051000000t" end="7059666666t" style="normal" xml:id="subtitle201">Nie, ale...</p>
+<p begin="7060333333t" end="7094666666t" style="normal" xml:id="subtitle202">To skąd wiesz, czy jest trudno?</p>
+<p begin="7117000000t" end="7134333333t" style="normal" xml:id="subtitle203">Masz rację.</p>
+<p begin="7147666666t" end="7156666666t" style="normal" xml:id="subtitle204">Ja...</p>
+<p begin="7167000000t" end="7195000000t" style="normal" xml:id="subtitle205">nie chcę mieć nudnego życia jak tata.</p>
+<p begin="7212000000t" end="7231666666t" style="normal" xml:id="subtitle206"><span style="normal_1">Jest arogancka.</span></p>
+<p begin="7256000000t" end="7273000000t" style="normal" xml:id="subtitle207">Było pyszne.</p>
+<p begin="7273666666t" end="7284333333t" style="normal" xml:id="subtitle208">Najadłam się.</p>
+<p begin="7285000000t" end="7303666666t" style="normal" xml:id="subtitle209">Ja chyba pęknę.</p>
+<p begin="7307666666t" end="7316000000t" style="normal" xml:id="subtitle210">Wróćmy tu.</p>
+<p begin="7320333333t" end="7342666666t" style="normal" xml:id="subtitle211">Zaraz do państwa przyjdę.</p>
+<p begin="7347333333t" end="7357666666t" style="normal" xml:id="subtitle212">Już gotowe.</p>
+<p begin="7362333333t" end="7371333333t" style="normal" xml:id="subtitle213">Kurczę!</p>
+<p begin="7418666666t" end="7452666666t" style="normal" xml:id="subtitle214">Proszę, półmisek mięs.</p>
+<p begin="7453333333t" end="7462000000t" style="normal" xml:id="subtitle215">Świetnie.</p>
+<p begin="7462666666t" end="7473000000t" style="normal" xml:id="subtitle216">Jeszcze jedno piwo.</p>
+<p begin="7477000000t" end="7486666666t" style="normal" xml:id="subtitle217">I żeberka.</p>
+<p begin="7490333333t" end="7520000000t" style="normal" xml:id="subtitle218">Może poczekasz z piwem?</p>
+<p begin="7520666666t" end="7529000000t" style="normal" xml:id="subtitle219">Nie muszę.</p>
+<p begin="7531000000t" end="7544000000t" style="normal" xml:id="subtitle220">Dam radę.</p>
+<p begin="7551333333t" end="7566333333t" style="normal" xml:id="subtitle221">- Proszę.<br/>- Czyli piwo</p>
+<p begin="7567000000t" end="7577000000t" style="normal" xml:id="subtitle222">i żeberka.</p>
+<p begin="7586000000t" end="7597333333t" style="normal" xml:id="subtitle223">Bierz.</p>
+<p begin="7850333333t" end="7868000000t" style="normal" xml:id="subtitle224"><span style="normal_1">Wygląda tak soczyście i smakowicie!</span></p>
+<p begin="7881000000t" end="7899333333t" style="normal" xml:id="subtitle225"><span style="normal_1">Powinno być już dobrze przypieczone...</span></p>
+<p begin="7958666666t" end="7975000000t" style="normal" xml:id="subtitle226">Jakie delikatne! Pycha.</p>
+<p begin="7994666666t" end="8017000000t" style="normal" xml:id="subtitle227"><span style="normal_1">To był mój kawałek.</span></p>
+<p begin="8059000000t" end="8071333333t" style="normal" xml:id="subtitle228">Wujku...</p>
+<p begin="8082333333t" end="8107333333t" style="normal" xml:id="subtitle229">jak wytrzymałeś tak długo w jednej firmie?</p>
+<p begin="8122333333t" end="8155666666t" style="normal" xml:id="subtitle230">Codziennie wstawałeś o tej samej porze,<br/>jechałeś do tego samego biura</p>
+<p begin="8159666666t" end="8192666666t" style="normal" xml:id="subtitle231">tym samym pociągiem,<br/>pracowałeś z tymi samymi ludźmi.</p>
+<p begin="8203333333t" end="8226000000t" style="normal" xml:id="subtitle232">Ja bym zrezygnowała po tygodniu.</p>
+<p begin="8258000000t" end="8266333333t" style="normal" xml:id="subtitle233">Ja...</p>
+<p begin="8281000000t" end="8301666666t" style="normal" xml:id="subtitle234">chciałem zrezygnować.</p>
+<p begin="8319666666t" end="8339666666t" style="normal" xml:id="subtitle235"><span style="normal_1">Nie zapomnę tego.</span></p>
+<p begin="8341000000t" end="8358666666t" style="normal" xml:id="subtitle236"><span style="normal_1">To było po trzech latach.</span></p>
+<p begin="8363333333t" end="8373333333t" style="normal" xml:id="subtitle237">Szefie.</p>
+<p begin="8393000000t" end="8410000000t" style="normal" xml:id="subtitle238">WYPOWIEDZENIE</p>
+<p begin="8498333333t" end="8506666666t" style="normal" xml:id="subtitle239">Kasumi,</p>
+<p begin="8513666666t" end="8529666666t" style="normal" xml:id="subtitle240">chcesz odejść?</p>
+<p begin="8539000000t" end="8547333333t" style="normal" xml:id="subtitle241">Tak.</p>
+<p begin="8555333333t" end="8577000000t" style="normal" xml:id="subtitle242">Nie mam motywacji do pracy.</p>
+<p begin="8612666666t" end="8624333333t" style="normal" xml:id="subtitle243">To cały powód?</p>
+<p begin="8640000000t" end="8652333333t" style="normal" xml:id="subtitle244">Mówię poważnie.</p>
+<p begin="8661666666t" end="8671333333t" style="normal" xml:id="subtitle245">Rozumiem.</p>
+<p begin="8690000000t" end="8701333333t" style="normal" xml:id="subtitle246">Chodźmy na kolację.</p>
+<p begin="8709000000t" end="8721000000t" style="normal" xml:id="subtitle247">Jesteś gotów?</p>
+<p begin="8724333333t" end="8738333333t" style="normal" xml:id="subtitle248">Tak.</p>
+<p begin="8739000000t" end="8748666666t" style="normal" xml:id="subtitle249">To idziemy.</p>
+<p begin="8764000000t" end="8779333333t" style="normal" xml:id="subtitle250">- Teraz?<br/>- Tak.</p>
+<p begin="8780000000t" end="8806333333t" style="normal" xml:id="subtitle251"><span style="normal_1">Wtedy mój szef...</span></p>
+<p begin="8815333333t" end="8833333333t" style="normal" xml:id="subtitle252"><span style="normal_1">mnie tu przyprowadził.</span></p>
+<p begin="8837333333t" end="8853666666t" style="normal" xml:id="subtitle253">- Witamy.<br/>- Stolik dla dwóch osób.</p>
+<p begin="8856666666t" end="8870333333t" style="normal" xml:id="subtitle254">Proszę tędy.</p>
+<p begin="8874000000t" end="8882333333t" style="normal" xml:id="subtitle255">Dziękuję.</p>
+<p begin="8883000000t" end="8893666666t" style="normal" xml:id="subtitle256"><span style="normal_1">Naprawdę?</span></p>
+<p begin="8896000000t" end="8911000000t" style="normal" xml:id="subtitle257"><span style="normal_1">Co się stało?</span></p>
+<p begin="8946333333t" end="8962333333t" style="normal" xml:id="subtitle258">Przypala się.</p>
+<p begin="8963000000t" end="8979333333t" style="normal" xml:id="subtitle259">Przepraszam!</p>
+<p begin="8984000000t" end="9014333333t" style="normal" xml:id="subtitle260">- Proszę uważać. To świetne mięso.<br/>- Tak jest.</p>
+<p begin="9038666666t" end="9055000000t" style="normal" xml:id="subtitle261">Trzeba jeść gorące.</p>
+<p begin="9058333333t" end="9067666666t" style="normal" xml:id="subtitle262">Dziękujemy.</p>
+<p begin="9082000000t" end="9114333333t" style="normal" xml:id="subtitle263">Tak się nie wyciera stolika!</p>
+<p begin="9124666666t" end="9142333333t" style="normal" xml:id="subtitle264">Przyłóż się.</p>
+<p begin="9143000000t" end="9155333333t" style="normal" xml:id="subtitle265">Dobrze.</p>
+<p begin="9156000000t" end="9168666666t" style="normal" xml:id="subtitle266">Nie potakuj.</p>
+<p begin="9177000000t" end="9185333333t" style="normal" xml:id="subtitle267">Proszę.</p>
+<p begin="9196666666t" end="9216333333t" style="normal" xml:id="subtitle268">Jest dość surowy.</p>
+<p begin="9217000000t" end="9235666666t" style="normal" xml:id="subtitle269">To normalne. Jedz.</p>
+<p begin="9250666666t" end="9259000000t" style="normal" xml:id="subtitle270">Dziękuję.</p>
+<p begin="9388333333t" end="9396666666t" style="normal" xml:id="subtitle271">Pyszne.</p>
+<p begin="9430000000t" end="9441000000t" style="normal" xml:id="subtitle272">Sprowadza mięso,</p>
+<p begin="9445666666t" end="9468000000t" style="normal" xml:id="subtitle273">porcjuje je i podaje.</p>
+<p begin="9476333333t" end="9491000000t" style="normal" xml:id="subtitle274">Może to prosta praca,</p>
+<p begin="9499000000t" end="9522333333t" style="normal" xml:id="subtitle275">ale zna się na niej,<br/>bo jedzenie jest wyśmienite.</p>
+<p begin="9559000000t" end="9575666666t" style="normal" xml:id="subtitle276">Widzisz ten tłuszcz?</p>
+<p begin="9582000000t" end="9598333333t" style="normal" xml:id="subtitle277">Przyciśnij mocno i pociągnij.</p>
+<p begin="9620333333t" end="9628666666t" style="normal" xml:id="subtitle278">Kasumi...</p>
+<p begin="9653000000t" end="9699666666t" style="normal" xml:id="subtitle279">motywacja przyjdzie sama<br/>wraz z większą odpowiedzialnością.</p>
+<p begin="9722000000t" end="9742666666t" style="normal" xml:id="subtitle280">Za wcześnie, by rezygnować.</p>
+<p begin="9829000000t" end="9854000000t" style="normal" xml:id="subtitle281">Tak łatwo zmieniłeś zdanie?</p>
+<p begin="9865333333t" end="9885000000t" style="normal" xml:id="subtitle282">Mięczak.</p>
+<p begin="9894000000t" end="9926333333t" style="normal" xml:id="subtitle283">Nie miałem marzeń<br/>w przeciwieństwie to ciebie.</p>
+<p begin="9938333333t" end="9968666666t" style="normal" xml:id="subtitle284">Proszę, befsztyk</p>
+<p begin="9974666666t" end="9989666666t" style="normal" xml:id="subtitle285">i żeberka.</p>
+<p begin="9999666666t" end="10015666666t" style="normal" xml:id="subtitle286">Przepraszam, że państwo czekali.</p>
+<p begin="10016333333t" end="10024666666t" style="normal" xml:id="subtitle287">Ojej!</p>
+<p begin="10034666666t" end="10043000000t" style="normal" xml:id="subtitle288">Właściciel miał</p>
+<p begin="10043666666t" end="10068333333t" style="normal" xml:id="subtitle289">takie same okulary.</p>
+<p begin="10085333333t" end="10095666666t" style="normal" xml:id="subtitle290">Mam je po nim.</p>
+<p begin="10117333333t" end="10141666666t" style="normal" xml:id="subtitle291">- Zmarł?<br/>- Tak.</p>
+<p begin="10143666666t" end="10166333333t" style="normal" xml:id="subtitle292">Nagle, trzy lata temu.</p>
+<p begin="10178000000t" end="10189666666t" style="normal" xml:id="subtitle293">Przykro mi.</p>
+<p begin="10201666666t" end="10222333333t" style="normal" xml:id="subtitle294">Do końca oddawał się swojej pasji.</p>
+<p begin="10247000000t" end="10271333333t" style="normal" xml:id="subtitle295">Wciąż mnie beształ.</p>
+<p begin="10272000000t" end="10284666666t" style="normal" xml:id="subtitle296">Cóż, smacznego.</p>
+<p begin="10315000000t" end="10335000000t" style="normal" xml:id="subtitle297">Zgrillujmy więcej.</p>
+<p begin="10352666666t" end="10380666666t" style="normal" xml:id="subtitle298">Befsztyk świetnie wygląda.</p>
+<p begin="10618000000t" end="10626333333t" style="normal" xml:id="subtitle299">Niesamowity.</p>
+<p begin="10685333333t" end="10708000000t" style="normal" xml:id="subtitle300">Czemu nie jesz, Masako?</p>
+<p begin="10739333333t" end="10767333333t" style="normal" xml:id="subtitle301">- Jest pyszne.<br/>- Za chwilę.</p>
+<p begin="10781333333t" end="10802000000t" style="normal" xml:id="subtitle302">Wystygnie.</p>
+<p begin="10802666666t" end="10832333333t" style="normal" xml:id="subtitle303">Wkurzasz mnie!<br/>Dobra, zjem. Zadowolony?</p>
+<p begin="10878666666t" end="10890333333t" style="normal" xml:id="subtitle304">To tylko...</p>
+<p begin="10894000000t" end="10910666666t" style="normal" xml:id="subtitle305">mięso.</p>
+<p begin="10911333333t" end="10940333333t" style="normal" xml:id="subtitle306">Nie chcę, by wciąż mówiono mi,<br/>co mam robić.</p>
+<p begin="10983000000t" end="11000000000t" style="normal" xml:id="subtitle307">To moje życie.</p>
+<p begin="11005666666t" end="11023666666t" style="normal" xml:id="subtitle308">Dajcie mi spokój.</p>
+<p begin="11085666666t" end="11110000000t" style="normal" xml:id="subtitle309">Jesteś rozwydrzona i bezmyślna.</p>
+<p begin="11132000000t" end="11143666666t" style="normal" xml:id="subtitle310">Bawisz mnie.</p>
+<p begin="11226666666t" end="11235000000t" style="normal" xml:id="subtitle311">Co to?</p>
+<p begin="11244000000t" end="11257000000t" style="normal" xml:id="subtitle312">Niezależność</p>
+<p begin="11266000000t" end="11289333333t" style="normal" xml:id="subtitle313">nie przychodzi łatwo.</p>
+<p begin="11339333333t" end="11347666666t" style="normal" xml:id="subtitle314">Wiem.</p>
+<p begin="11348333333t" end="11360666666t" style="normal" xml:id="subtitle315">Nie!</p>
+<p begin="11385666666t" end="11397666666t" style="normal" xml:id="subtitle316">Nic nie wiesz.</p>
+<p begin="11466000000t" end="11476000000t" style="normal" xml:id="subtitle317">Hej!</p>
+<p begin="11482000000t" end="11501333333t" style="normal" xml:id="subtitle318">Co ty robisz?</p>
+<p begin="11506000000t" end="11527666666t" style="normal" xml:id="subtitle319">Jesteś słaba!</p>
+<p begin="11547666666t" end="11565333333t" style="normal" xml:id="subtitle320">Twoje ręce nie zaznały walki.</p>
+<p begin="11567333333t" end="11592333333t" style="normal" xml:id="subtitle321">Walki?<br/>Zostaw mnie! Puść!</p>
+<p begin="11594666666t" end="11603000000t" style="normal" xml:id="subtitle322">Dobrze.</p>
+<p begin="11610333333t" end="11618666666t" style="normal" xml:id="subtitle323">Kretyn!</p>
+<p begin="11665666666t" end="11674000000t" style="normal" xml:id="subtitle324">Co?</p>
+<p begin="11697333333t" end="11709000000t" style="normal" xml:id="subtitle325">Nie wolno...</p>
+<p begin="11722333333t" end="11744000000t" style="normal" xml:id="subtitle326">odwracać się od rodziców...</p>
+<p begin="11758000000t" end="11773000000t" style="normal" xml:id="subtitle327">i ich nie szanować.</p>
+<p begin="11804000000t" end="11824666666t" style="normal" xml:id="subtitle328">Jeśli pragniesz niezależności,</p>
+<p begin="11837333333t" end="11857666666t" style="normal" xml:id="subtitle329">to musisz o nią zawalczyć.</p>
+<p begin="11871000000t" end="11886000000t" style="normal" xml:id="subtitle330">Zapracować na nią.</p>
+<p begin="11912666666t" end="11921000000t" style="normal" xml:id="subtitle331">Proszę.</p>
+<p begin="11946333333t" end="11956666666t" style="normal" xml:id="subtitle332">Bierz!</p>
+<p begin="12126000000t" end="12135666666t" style="normal" xml:id="subtitle333">Masako...</p>
+<p begin="12148000000t" end="12167666666t" style="normal" xml:id="subtitle334">jeśli naprawdę chcesz być muzykiem,</p>
+<p begin="12177666666t" end="12219333333t" style="normal" xml:id="subtitle335">to najpierw twój ojciec<br/>musi to zaaprobować.</p>
+<p begin="12288666666t" end="12297000000t" style="normal" xml:id="subtitle336">Przepraszam.</p>
+<p begin="12304333333t" end="12319333333t" style="normal" xml:id="subtitle337">To nie moja sprawa.</p>
+<p begin="12321666666t" end="12340666666t" style="normal" xml:id="subtitle338">Trochę się podchmieliłem.</p>
+<p begin="12352666666t" end="12361666666t" style="normal" xml:id="subtitle339">Jestem wściekła.</p>
+<p begin="12390333333t" end="12429000000t" style="normal" xml:id="subtitle340">Strasznie! Od dawna<br/>nikt mnie tak nie pouczał.</p>
+<p begin="12440666666t" end="12449000000t" style="normal" xml:id="subtitle341">Przepraszam.</p>
+<p begin="12471000000t" end="12483000000t" style="normal" xml:id="subtitle342">Ale cieszę się...</p>
+<p begin="12531333333t" end="12553000000t" style="normal" xml:id="subtitle343">że powiedziałeś mi to prosto w oczy.</p>
+<p begin="12559333333t" end="12568666666t" style="normal" xml:id="subtitle344">Odważyłeś się.</p>
+<p begin="12606666666t" end="12624000000t" style="normal" xml:id="subtitle345">Szkoda, że nie jesteś moim ojcem.</p>
+<p begin="12642000000t" end="12659666666t" style="normal" xml:id="subtitle346">Przepraszam! Jeszcze jedno piwo!</p>
+<p begin="12660333333t" end="12676666666t" style="normal" xml:id="subtitle347">Dobrze.</p>
+<p begin="12677333333t" end="12698000000t" style="normal" xml:id="subtitle348">Masz spust!</p>
+<p begin="12709000000t" end="12734666666t" style="normal" xml:id="subtitle349">- Dla mnie też!<br/>- Już.</p>
+<p begin="12742000000t" end="12750333333t" style="normal" xml:id="subtitle350">Jest dobre.</p>
+<p begin="12768666666t" end="12781000000t" style="normal" xml:id="subtitle351">Weź mięso!</p>
+<p begin="12792666666t" end="12801000000t" style="normal" xml:id="subtitle352">Proszę.</p>
+<p begin="12811000000t" end="12830666666t" style="normal" xml:id="subtitle353">- Dokończ, wujku.<br/>- Dziękuję.</p>
+<p begin="12836666666t" end="12845000000t" style="normal" xml:id="subtitle354">Mam.</p>
+<p begin="12845666666t" end="12871666666t" style="normal" xml:id="subtitle355">Naprawdę? Nie pamiętam tego.</p>
+<p begin="12880666666t" end="12898333333t" style="normal" xml:id="subtitle356">Tak było.</p>
+<p begin="12911000000t" end="12926333333t" style="normal" xml:id="subtitle357">Idę w tamtą stronę.</p>
+<p begin="12931666666t" end="12940333333t" style="normal" xml:id="subtitle358">Odprowadzę cię.</p>
+<p begin="12941000000t" end="12951666666t" style="normal" xml:id="subtitle359">Nie trzeba.</p>
+<p begin="12954666666t" end="12975666666t" style="normal" xml:id="subtitle360">Dziękuję za kolację.</p>
+<p begin="12976333333t" end="12984666666t" style="normal" xml:id="subtitle361">Nie ma za co.</p>
+<p begin="12993666666t" end="13010666666t" style="normal" xml:id="subtitle362">Wpadnij do nas.</p>
+<p begin="13013666666t" end="13028333333t" style="normal" xml:id="subtitle363">Ciocia chce cię zobaczyć.</p>
+<p begin="13051666666t" end="13061000000t" style="normal" xml:id="subtitle364">Wujku...</p>
+<p begin="13076333333t" end="13098000000t" style="normal" xml:id="subtitle365">Jak wrócę do domu, porozmawiam z tatą.</p>
+<p begin="13104333333t" end="13142666666t" style="normal" xml:id="subtitle366">Wytłumaczę mu, że marzę,<br/>by zostać muzykiem.</p>
+<p begin="13157333333t" end="13166000000t" style="normal" xml:id="subtitle367">To dobrze.</p>
+<p begin="13171333333t" end="13179666666t" style="normal" xml:id="subtitle368">Powodzenia.</p>
+<p begin="13197666666t" end="13212333333t" style="normal" xml:id="subtitle369">- Do zobaczenia.<br/>- Cześć.</p>
+<p begin="13217000000t" end="13226000000t" style="normal" xml:id="subtitle370">Na razie.</p>
+<p begin="14499000000t" end="14519000000t" style="normal" xml:id="subtitle371">Napisy:<br/>Barbara Jasinowicz</p>
+</div>
+</body>
+</tt>

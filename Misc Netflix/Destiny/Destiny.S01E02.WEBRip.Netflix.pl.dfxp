@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="style.default"/>
+<style tts:backgroundColor="transparent" tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="style.default_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region.after.center"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="region.before.center"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="68735333t" end="94427666t" region="region.after.center" style="style.default" xml:id="subtitle0">Cieszę się bardzo, że jesteście ze mną.</p>
+<p begin="95095000t" end="123790333t" region="region.after.center" style="style.default" xml:id="subtitle1"><span style="style.default_1">Bądźmy przyjaciółmi na zawsze.</span></p>
+<p begin="129462666t" end="146146000t" region="region.after.center" style="style.default" xml:id="subtitle2">Kanade. Kocham cię.</p>
+<p begin="153153000t" end="162829333t" region="region.after.center" style="style.default" xml:id="subtitle3"><span style="style.default_1">Nie opuszczę cię.</span></p>
+<p begin="163496666t" end="175508666t" region="region.after.center" style="style.default" xml:id="subtitle4"><span style="style.default_1">Ja ciebie też.</span></p>
+<p begin="176176000t" end="195195000t" region="region.after.center" style="style.default" xml:id="subtitle5"><span style="style.default_1">Ojciec Kanade się nie zabił.</span></p>
+<p begin="195862333t" end="205205000t" region="region.after.center" style="style.default" xml:id="subtitle6">Został zamordowany.</p>
+<p begin="205872333t" end="214214000t" region="region.after.center" style="style.default" xml:id="subtitle7">Co?</p>
+<p begin="214881333t" end="224557666t" region="region.after.center" style="style.default" xml:id="subtitle8">Ojciec Kanade był…</p>
+<p begin="225225000t" end="233900333t" region="region.after.center" style="style.default" xml:id="subtitle9">Nie mów tego!</p>
+<p begin="246913333t" end="261261000t" region="region.after.center" style="style.default" xml:id="subtitle10">Czemu Kaori…</p>
+<p begin="275275000t" end="307640666t" region="region.after.center" style="style.default" xml:id="subtitle11">Mój syn może potrzebować prawnika.</p>
+<p begin="308308000t" end="337003333t" region="region.after.center" style="style.default" xml:id="subtitle12">Masaki, czekaj! Nie odchodź!</p>
+<p begin="337670666t" end="347680666t" region="region.after.center" style="style.default" xml:id="subtitle13">To ja…</p>
+<p begin="366032333t" end="406406000t" region="region.after.center" style="style.default" xml:id="subtitle14"><span style="style.default_1">Ktoś, o kim myślałam, że mnie kocha,<br/>znowu zniknął z mojego życia.</span></p>
+<p begin="411411000t" end="433433000t" region="region.after.center" style="style.default" xml:id="subtitle15"><span style="style.default_1">Mężczyzna po dwudziestce lub trzydziestce.</span></p>
+<p begin="434100333t" end="448114333t" region="region.after.center" style="style.default" xml:id="subtitle16"><span style="style.default_1">Tożsamość nieznana.</span></p>
+<p begin="448781666t" end="465465000t" region="region.after.center" style="style.default" xml:id="subtitle17">- Chciałbym ci coś powiedzieć.<br/>- Co?</p>
+<p begin="478144333t" end="494160333t" region="region.after.center" style="style.default" xml:id="subtitle18">TOMOGRAFIA</p>
+<p begin="494827666t" end="505838666t" region="region.after.center" style="style.default" xml:id="subtitle19">Muszę gdzieś iść…</p>
+<p begin="646312333t" end="675675000t" region="region.after.center" style="style.default" xml:id="subtitle20">Kanade Nishimura.<br/>Jak długo jest pani prokuratorem?</p>
+<p begin="693359333t" end="704036666t" region="region.after.center" style="style.default" xml:id="subtitle21">Słucham?</p>
+<p begin="775441333t" end="791791000t" region="region.after.center" style="style.default" xml:id="subtitle22">Od ilu lat się pani tym zajmuje?</p>
+<p begin="823823000t" end="838504333t" region="region.after.center" style="style.default" xml:id="subtitle23">Sześć lat i trzy miesiące.</p>
+<p begin="867199666t" end="889555333t" region="region.after.center" style="style.default" xml:id="subtitle24">Jest pani prokuratorem<br/>od sześciu i pół roku.</p>
+<p begin="901567333t" end="923923000t" region="region.after.center" style="style.default" xml:id="subtitle25">Naprawdę sądzi pani,<br/>że zeznanie współsprawcy</p>
+<p begin="939605333t" end="955287666t" region="region.after.center" style="style.default" xml:id="subtitle26">wystarczy do wszczęcia procesu?</p>
+<p begin="979311666t" end="998330666t" region="region.after.center" style="style.default" xml:id="subtitle27"><span style="style.default_1">Byłam oskarżycielem w sprawie</span></p>
+<p begin="998998000t" end="1038037000t" region="region.after.center" style="style.default" xml:id="subtitle28"><span style="style.default_1">nielegalnych transakcji narkotykowych,<br/>które miały miejsce dwa tygodnie temu.</span></p>
+<p begin="1038704333t" end="1053052000t" region="region.after.center" style="style.default" xml:id="subtitle29">- Policja!<br/>- Nie ruszać się!</p>
+<p begin="1053719333t" end="1070069000t" region="region.after.center" style="style.default" xml:id="subtitle30"><span style="style.default_1">Policja prefektury Kanagawa</span></p>
+<p begin="1070736333t" end="1104770333t" region="region.after.center" style="style.default" xml:id="subtitle31"><span style="style.default_1">dostała cynk o handlu narkotykami<br/>odbywającym się w barze w Jokohamie.</span></p>
+<p begin="1105437666t" end="1144810333t" region="region.before.center" style="style.default" xml:id="subtitle32"><span style="style.default_1">Zorganizowali nalot<br/>na prywatną salę w barze</span></p>
+<p begin="1145477666t" end="1176508666t" region="region.before.center" style="style.default" xml:id="subtitle33"><span style="style.default_1">i aresztowali trzech mężczyzn.</span></p>
+<p begin="1186852333t" end="1221220000t" region="region.after.center" style="style.default" xml:id="subtitle34"><span style="style.default_1">W tym młodszego syna Akihika Kawagoego,</span></p>
+<p begin="1221887333t" end="1246578666t" region="region.after.center" style="style.default" xml:id="subtitle35"><span style="style.default_1">sekretarza generalnego<br/>Partii Liberalno-Demokratycznej.</span></p>
+<p begin="1247246000t" end="1273939333t" region="region.after.center" style="style.default" xml:id="subtitle36"><span style="style.default_1">Sprawa znalazła się<br/>w centrum uwagi opinii publicznej.</span></p>
+<p begin="1286952333t" end="1324656666t" region="region.after.center" style="style.default" xml:id="subtitle37"><span style="style.default_1">Takumi Kawagoe jako jedyny<br/>z trzech aresztowanych</span></p>
+<p begin="1325324000t" end="1357689666t" region="region.after.center" style="style.default" xml:id="subtitle38"><span style="style.default_1">nie miał przy sobie narkotyków<br/>i zaprzeczył oskarżeniom.</span></p>
+<p begin="1365364000t" end="1386051333t" region="region.after.center" style="style.default" xml:id="subtitle39"><span style="style.default_1">Twierdził, że nic nie wiedział.</span></p>
+<p begin="1408740666t" end="1428093333t" region="region.after.center" style="style.default" xml:id="subtitle40">Nie do końca.</p>
+<p begin="1435100333t" end="1471470000t" region="region.after.center" style="style.default" xml:id="subtitle41">Ale reszta podejrzanych się przyznała.</p>
+<p begin="1472137333t" end="1492491000t" region="region.after.center" style="style.default" xml:id="subtitle42">A jego zeznania są niespójne.</p>
+<p begin="1493158333t" end="1523188333t" region="region.after.center" style="style.default" xml:id="subtitle43">Świadkowie wielokrotnie<br/>widzieli go w barze.</p>
+<p begin="1530862666t" end="1571903666t" region="region.after.center" style="style.default" xml:id="subtitle44">A przede wszystkim był obecny w sali,<br/>w której dokonywano transakcji.</p>
+<p begin="1572571000t" end="1599931666t" region="region.after.center" style="style.default" xml:id="subtitle45">Nie musi się pani powtarzać.<br/>Czytałam pani raport.</p>
+<p begin="1614613000t" end="1640305333t" region="region.after.center" style="style.default" xml:id="subtitle46">Ale nie przyznaje się do winy.</p>
+<p begin="1645977666t" end="1663328333t" region="region.after.center" style="style.default" xml:id="subtitle47">I nie miał przy sobie narkotyków.</p>
+<p begin="1675006666t" end="1683348333t" region="region.after.center" style="style.default" xml:id="subtitle48">Tak.</p>
+<p begin="1684015666t" end="1699364333t" region="region.after.center" style="style.default" xml:id="subtitle49">Albo on się przyzna…</p>
+<p begin="1718717000t" end="1739070666t" region="region.after.center" style="style.default" xml:id="subtitle50">albo pani zbierze mocniejsze dowody.</p>
+<p begin="1747078666t" end="1764429333t" region="region.after.center" style="style.default" xml:id="subtitle51">Nie jest pani amatorką.</p>
+<p begin="1772437333t" end="1803468333t" region="region.after.center" style="style.default" xml:id="subtitle52">Słyszałam, że Kanade Nishimura jest dobra.</p>
+<p begin="1829160666t" end="1844175666t" region="region.after.center" style="style.default" xml:id="subtitle53">Tylko na tyle panią stać?</p>
+<p begin="1928593333t" end="1965964000t" region="region.after.center" style="style.default" xml:id="subtitle54"><span style="style.default_1">Za wszelką cenę musieliśmy<br/>wnieść akt oskarżenia.</span></p>
+<p begin="2178843333t" end="2202200000t" region="region.after.center" style="style.default" xml:id="subtitle55"><span style="style.default_1">To już dwa lata,<br/>odkąd przenieśli mnie do Jokohamy.</span></p>
+<p begin="2222553666t" end="2246244000t" region="region.after.center" style="style.default" xml:id="subtitle56"><span style="style.default_1">Noce w mieście są zbyt jasne,</span></p>
+<p begin="2254919333t" end="2265596666t" region="region.after.center" style="style.default" xml:id="subtitle57"><span style="style.default_1">by zobaczyć gwiazdy.</span></p>
+<p begin="2376707666t" end="2387718666t" region="region.after.center" style="style.default" xml:id="subtitle58">Panie Nogi.</p>
+<p begin="2388386000t" end="2415746666t" region="region.after.center" style="style.default" xml:id="subtitle59">Nie wolno panu opuszczać sali<br/>bez pozwolenia.</p>
+<p begin="2416414000t" end="2429093333t" region="region.after.center" style="style.default" xml:id="subtitle60">Co pan robi?</p>
+<p begin="2429760666t" end="2453784666t" region="region.after.center" style="style.default" xml:id="subtitle61">Co? Patrzyłem w gwiazdy.</p>
+<p begin="2460791666t" end="2469467000t" region="region.after.center" style="style.default" xml:id="subtitle62">W gwiazdy?</p>
+<p begin="2555886666t" end="2592256333t" region="region.after.center" style="style.default" xml:id="subtitle63">Siostro Hashimoto,<br/>kiedy będę mógł wyjść ze szpitala?</p>
+<p begin="2592923666t" end="2603267333t" region="region.after.center" style="style.default" xml:id="subtitle64">- Słucham?<br/>- No…</p>
+<p begin="2611942666t" end="2628959666t" region="region.after.center" style="style.default" xml:id="subtitle65">Jeszcze się nie zagoiło?</p>
+<p begin="2637301333t" end="2651982666t" region="region.after.center" style="style.default" xml:id="subtitle66">Nie ja o tym decyduję.</p>
+<p begin="2661992666t" end="2681011666t" region="region.after.center" style="style.default" xml:id="subtitle67">Co powiedział lekarz?</p>
+<p begin="2695693000t" end="2704034666t" region="region.after.center" style="style.default" xml:id="subtitle68">Nic.</p>
+<p begin="2717381333t" end="2729393333t" region="region.after.center" style="style.default" xml:id="subtitle69">Mam go spytać?</p>
+<p begin="2742406333t" end="2750748000t" region="region.after.center" style="style.default" xml:id="subtitle70">Tak, dziękuję.</p>
+<p begin="2948278666t" end="2957287666t" region="region.after.center" style="style.default" xml:id="subtitle71">Przyznanie się.</p>
+<p begin="2969299666t" end="2979643333t" region="region.after.center" style="style.default" xml:id="subtitle72">Dowód.</p>
+<p begin="3001331666t" end="3012342666t" region="region.after.center" style="style.default" xml:id="subtitle73">Dowód…</p>
+<p begin="3013010000t" end="3025355666t" region="region.after.center" style="style.default" xml:id="subtitle74">BAR GLOIRE<br/>NAKA-KU, JOKOHAMA</p>
+<p begin="3026023000t" end="3053050000t" region="region.after.center" style="style.default" xml:id="subtitle75">Nielegalne transakcje narktoykowe…</p>
+<p begin="3257253999t" end="3269933333t" region="region.before.center" style="style.default" xml:id="subtitle76">KENTA, STAŁY BYWALEC!</p>
+<p begin="3270600666t" end="3279943333t" region="region.before.center" style="style.default" xml:id="subtitle77">KENTA NAKAZAWA</p>
+<p begin="3338001333t" end="3356686666t" region="region.before.center" style="style.default" xml:id="subtitle78">MIZUHARA<br/>ZNALAZŁEM KENTĘ! MACIE LINK.</p>
+<p begin="3397727666t" end="3413743666t" region="region.before.center" style="style.default" xml:id="subtitle79">EIICHI NAKAMURA</p>
+<p begin="3440103333t" end="3457454000t" region="region.before.center" style="style.default" xml:id="subtitle80">NAN-SAN</p>
+<p begin="3650647000t" end="3661991666t" region="region.after.center" style="style.default" xml:id="subtitle81">Co?</p>
+<p begin="3662658999t" end="3684681000t" region="region.after.center" style="style.default" xml:id="subtitle82">Bywał pan wcześniej w barze Gloire?</p>
+<p begin="3685348333t" end="3699696000t" region="region.after.center" style="style.default" xml:id="subtitle83">To był pierwszy raz.</p>
+<p begin="3748077666t" end="3766429333t" region="region.after.center" style="style.default" xml:id="subtitle84">- Wróciłem.<br/>- Cześć, Takashi.</p>
+<p begin="3772769000t" end="3792789000t" region="region.after.center" style="style.default" xml:id="subtitle85">- Wciąż pracujesz?<br/>- Tak.</p>
+<p begin="3821818000t" end="3831828000t" region="region.after.center" style="style.default" xml:id="subtitle86">Nie przepracowuj się.</p>
+<p begin="3846509333t" end="3871534333t" region="region.after.center" style="style.default" xml:id="subtitle87">Strasznie marszczysz czoło.</p>
+<p begin="4105434666t" end="4122785333t" region="region.after.center" style="style.default" xml:id="subtitle88">Wiesz co, Kanade?</p>
+<p begin="4123452666t" end="4135798333t" region="region.after.center" style="style.default" xml:id="subtitle89">Co?</p>
+<p begin="4142471666t" end="4169832333t" region="region.after.center" style="style.default" xml:id="subtitle90">Nie sądzisz, że już czas na ślub?</p>
+<p begin="4200196000t" end="4254917333t" region="region.after.center" style="style.default" xml:id="subtitle91"><span style="style.default_1">Oświadczył mi się,<br/>jakby mówił „dzień dobry” albo „dobranoc”.</span></p>
+<p begin="4274603666t" end="4285948333t" region="region.after.center" style="style.default" xml:id="subtitle92">Dobranoc.</p>
+<p begin="4387049333t" end="4396058333t" region="region.after.center" style="style.default" xml:id="subtitle93">Dobranoc…</p>
+<p begin="4495824666t" end="4519515000t" region="region.after.center" style="style.default" xml:id="subtitle94">Ślub?</p>
+<p begin="4669665000t" end="4696024666t" region="region.after.center" style="style.default" xml:id="subtitle95">12. ROCZNICA ŚMIERCI KAORI OIKAWY</p>
+<p begin="4696692000t" end="4716712000t" region="region.after.center" style="style.default" xml:id="subtitle96"><span style="style.default_1">Od wypadku Kaori minęło 12 lat.</span></p>
+<p begin="4745741000t" end="4775771000t" region="region.after.center" style="style.default" xml:id="subtitle97"><span style="style.default_1">Tamtego dnia Masaki zniknął,</span></p>
+<p begin="4791119666t" end="4810472333t" region="region.after.center" style="style.default" xml:id="subtitle98"><span style="style.default_1">a ja stałam się pustą skorupą.</span></p>
+<p begin="4825487333t" end="4837499333t" region="region.after.center" style="style.default" xml:id="subtitle99">RK PARKS</p>
+<p begin="5001663333t" end="5014009000t" region="region.after.center" style="style.default" xml:id="subtitle100"><span style="style.default_1">Ostrożnie!</span></p>
+<p begin="5050712333t" end="5061723333t" region="region.after.center" style="style.default" xml:id="subtitle101"><span style="style.default_1">Dokąd idziesz?</span></p>
+<p begin="5062390666t" end="5079741333t" region="region.after.center" style="style.default" xml:id="subtitle102">Spotkać się z taką dziewczyną.</p>
+<p begin="5086748333t" end="5095090000t" region="region.after.center" style="style.default" xml:id="subtitle103">Co?</p>
+<p begin="5101763333t" end="5117112000t" region="region.after.center" style="style.default" xml:id="subtitle104">Żartuję. Do sklepu.</p>
+<p begin="5128790333t" end="5137465666t" region="region.after.center" style="style.default" xml:id="subtitle105">Zaraz wracam.</p>
+<p begin="5180842333t" end="5201863333t" region="region.after.center" style="style.default" xml:id="subtitle106">Zaraz wracasz…</p>
+<p begin="5221549666t" end="5232560666t" region="region.after.center" style="style.default" xml:id="subtitle107">Tak powiedziałeś.</p>
+<p begin="5341669666t" end="5361356000t" region="region.after.center" style="style.default" xml:id="subtitle108">POWIADOMIENIE O ODRZUCENIU WNIOSKU</p>
+<p begin="5372700666t" end="5405066333t" region="region.after.center" style="style.default" xml:id="subtitle109"><span style="style.default_1">Żyłam, ale czułam się jak martwa.</span></p>
+<p begin="5491819666t" end="5521182333t" region="region.after.center" style="style.default" xml:id="subtitle110"><span style="style.default_1">Choćbym nie wiem jak się starała,<br/>wszystko zdawało się daremne.</span></p>
+<p begin="5608936666t" end="5617278333t" region="region.after.center" style="style.default" xml:id="subtitle111">Co się stało?</p>
+<p begin="5627955666t" end="5641969666t" region="region.after.center" style="style.default" xml:id="subtitle112">Nic ci nie jest?</p>
+<p begin="5661322333t" end="5674335333t" region="region.after.center" style="style.default" xml:id="subtitle113">Nie.</p>
+<p begin="5758753000t" end="5779106666t" region="region.after.center" style="style.default" xml:id="subtitle114">- Przepraszam.<br/>- Spokojnie.</p>
+<p begin="5779774000t" end="5788115666t" region="region.after.center" style="style.default" xml:id="subtitle115">Przepraszam.</p>
+<p begin="5952947000t" end="5961288666t" region="region.after.center" style="style.default" xml:id="subtitle116">Proszę.</p>
+<p begin="5968295666t" end="5994321666t" region="region.after.center" style="style.default" xml:id="subtitle117">To tylko gorąca woda, ale się rozgrzejesz.</p>
+<p begin="6257918333t" end="6268262000t" region="region.after.center" style="style.default" xml:id="subtitle118">Dobra.</p>
+<p begin="6348675666t" end="6357351000t" region="region.after.center" style="style.default" xml:id="subtitle119"><span style="style.default_1">To była</span></p>
+<p begin="6370697666t" end="6384711666t" region="region.after.center" style="style.default" xml:id="subtitle120"><span style="style.default_1">magiczna gorąca woda.</span></p>
+<p begin="6535529000t" end="6548542000t" region="region.after.center" style="style.default" xml:id="subtitle121"><span style="style.default_1">Przywrócił mi</span></p>
+<p begin="6559552999t" end="6583910666t" region="region.after.center" style="style.default" xml:id="subtitle122"><span style="style.default_1">wolę życia.</span></p>
+<p begin="6775101666t" end="6786446333t" region="region.after.center" style="style.default" xml:id="subtitle123">Zajęte?</p>
+<p begin="6800126666t" end="6808468333t" region="region.after.center" style="style.default" xml:id="subtitle124">Nie.</p>
+<p begin="6824818000t" end="6836830000t" region="region.after.center" style="style.default" xml:id="subtitle125">Jak się masz?</p>
+<p begin="6886212666t" end="6896222666t" region="region.after.center" style="style.default" xml:id="subtitle126">Lepiej, dziękuję.</p>
+<p begin="6914240666t" end="6923583333t" region="region.after.center" style="style.default" xml:id="subtitle127">Dobrze.</p>
+<p begin="6965291666t" end="6973633333t" region="region.after.center" style="style.default" xml:id="subtitle128">Ja…</p>
+<p begin="7003997000t" end="7036362666t" region="region.after.center" style="style.default" xml:id="subtitle129">Bardzo ci dziękuję za pomoc.</p>
+<p begin="7046039000t" end="7054380666t" region="region.after.center" style="style.default" xml:id="subtitle130">Nie ma za co.</p>
+<p begin="7232225000t" end="7249909333t" region="region.after.center" style="style.default" xml:id="subtitle131">UNIWERSYTET SHINANO</p>
+<p begin="7323316000t" end="7331657666t" region="region.after.center" style="style.default" xml:id="subtitle132">Ostrożnie.</p>
+<p begin="7356349000t" end="7371030333t" region="region.after.center" style="style.default" xml:id="subtitle133">- Nic ci nie jest?<br/>- Przepraszam.</p>
+<p begin="7371697666t" end="7383376000t" region="region.after.center" style="style.default" xml:id="subtitle134">Przepraszam.</p>
+<p begin="7638964666t" end="7647306333t" region="region.after.center" style="style.default" xml:id="subtitle135">Co?</p>
+<p begin="7657983666t" end="7666325333t" region="region.after.center" style="style.default" xml:id="subtitle136">Cześć.</p>
+<p begin="7676001666t" end="7692017666t" region="region.after.center" style="style.default" xml:id="subtitle137">Pracuję w tym szpitalu.</p>
+<p begin="7703362333t" end="7747072666t" region="region.after.center" style="style.default" xml:id="subtitle138">A ja mam praktyki<br/>w Biurze Prokuratora Generalnego.</p>
+<p begin="7747740000t" end="7772765000t" region="region.after.center" style="style.default" xml:id="subtitle139">O! Czyli zdałaś.</p>
+<p begin="7773432333t" end="7784777000t" region="region.after.center" style="style.default" xml:id="subtitle140">Egzamin prokuratorski.</p>
+<p begin="7793452333t" end="7801794000t" region="region.after.center" style="style.default" xml:id="subtitle141">Tak.</p>
+<p begin="7824149666t" end="7842167666t" region="region.after.center" style="style.default" xml:id="subtitle142">- Zdrowie.<br/>- Zdrowie.</p>
+<p begin="7842835000t" end="7864189666t" region="region.after.center" style="style.default" xml:id="subtitle143">- Gratulacje.<br/>- Bardzo dziękuję.</p>
+<p begin="7899892000t" end="7924583333t" region="region.after.center" style="style.default" xml:id="subtitle144">- Dobre.<br/>- Ach.</p>
+<p begin="7931590333t" end="7942601333t" region="region.after.center" style="style.default" xml:id="subtitle145">Mam zacząć?</p>
+<p begin="7943268666t" end="7958951000t" region="region.after.center" style="style.default" xml:id="subtitle146">- Ja to zrobię.<br/>- Ja też mogę.</p>
+<p begin="7959618333t" end="7990649333t" region="region.after.center" style="style.default" xml:id="subtitle147"><span style="style.default_1">Zanim zaczęliśmy się spotykać,<br/>minął kolejny rok.</span></p>
+<p begin="8014006000t" end="8043368666t" region="region.after.center" style="style.default" xml:id="subtitle148"><span style="style.default_1">Ale jako świeżo upieczoną prokurator</span></p>
+<p begin="8044036000t" end="8061386666t" region="region.after.center" style="style.default" xml:id="subtitle149"><span style="style.default_1">przeniesiono mnie poza Tokio.</span></p>
+<p begin="8062054000t" end="8082407666t" region="region.after.center" style="style.default" xml:id="subtitle150"><span style="style.default_1">A on był zbyt zajęty pracą w szpitalu.</span></p>
+<p begin="8102427666t" end="8138797333t" region="region.after.center" style="style.default" xml:id="subtitle151"><span style="style.default_1">Przepraszam. Nagły przypadek.<br/>Chyba dziś nie dam rady.</span></p>
+<p begin="8148473666t" end="8163822333t" region="region.after.center" style="style.default" xml:id="subtitle152"><span style="style.default_1">Dobrze. Powodzenia w pracy.</span></p>
+<p begin="8188847333t" end="8211536666t" region="region.after.center" style="style.default" xml:id="subtitle153"><span style="style.default_1">W przyszłym tygodniu nie mam czasu.<br/>Może za dwa?</span></p>
+<p begin="8230555666t" end="8253245000t" region="region.after.center" style="style.default" xml:id="subtitle154"><span style="style.default_1">Mam konferencję w Fukuoce.</span></p>
+<p begin="8274933333t" end="8286277999t" region="region.after.center" style="style.default" xml:id="subtitle155"><span style="style.default_1">Może w ten weekend?</span></p>
+<p begin="8294286000t" end="8317642666t" region="region.after.center" style="style.default" xml:id="subtitle156"><span style="style.default_1">Kończymy pracę nad sprawą.</span></p>
+<p begin="8318310000t" end="8333992333t" region="region.after.center" style="style.default" xml:id="subtitle157"><span style="style.default_1">Nie mam czasu jechać do Tokio.</span></p>
+<p begin="8349674666t" end="8374366000t" region="region.after.center" style="style.default" xml:id="subtitle158">Doktorze Okuda.<br/>Przygotowania do egzaminu zakończone.</p>
+<p begin="8379704666t" end="8388380000t" region="region.after.center" style="style.default" xml:id="subtitle159">Dziękuję.</p>
+<p begin="8407065333t" end="8427752666t" region="region.after.center" style="style.default" xml:id="subtitle160"><span style="style.default_1">Czy kiedyś nam się uda?</span></p>
+<p begin="8449774666t" end="8483141333t" region="region.after.center" style="style.default" xml:id="subtitle161"><span style="style.default_1">Były chwile, gdy chciałam<br/>zrezygnować z tego związku.</span></p>
+<p begin="8611269333t" end="8644302333t" region="region.after.center" style="style.default" xml:id="subtitle162">KANADE, WRÓCĘ PÓŹNO,<br/>WIĘC Z KOLACJI NICI</p>
+<p begin="8650308333t" end="8688346333t" region="region.after.center" style="style.default" xml:id="subtitle163"><span style="style.default_1">Poszedł do pracy,<br/>nie czekając na moją odpowiedź.</span></p>
+<p begin="8698690000t" end="8718042666t" region="region.after.center" style="style.default" xml:id="subtitle164"><span style="style.default_1">Czy czuł się niezręcznie po takim czasie?</span></p>
+<p begin="8748406333t" end="8773765000t" region="region.after.center" style="style.default" xml:id="subtitle165"><span style="style.default_1">A może oczekiwał,</span></p>
+<p begin="8780438333t" end="8800792000t" region="region.after.center" style="style.default" xml:id="subtitle166"><span style="style.default_1">że od razu się zgodzę?</span></p>
+<p begin="8938930000t" end="8959617333t" region="region.after.center" style="style.default" xml:id="subtitle167">SKANDAL WOKÓŁ SYNA SEKRETARZA</p>
+<p begin="8960284666t" end="8989647333t" region="region.after.center" style="style.default" xml:id="subtitle168">JEGO ŚRODOWISKO I KANAŁY<br/>POZYSKIWANIA NARKOTYKÓW</p>
+<p begin="9021345666t" end="9030021000t" region="region.after.center" style="style.default" xml:id="subtitle169">TOMO</p>
+<p begin="9078069000t" end="9097088000t" region="region.after.center" style="style.default" xml:id="subtitle170"><span style="style.default_1">Dawno nie gadałyśmy. Jak się masz?</span></p>
+<p begin="9097755333t" end="9129453666t" region="region.after.center" style="style.default" xml:id="subtitle171"><span style="style.default_1">W niedzielę jest nabożeństwo z okazji<br/>rocznicy śmierci Kaori. Będziesz?</span></p>
+<p begin="9142133000t" end="9155479666t" region="region.after.center" style="style.default" xml:id="subtitle172"><span style="style.default_1">Tak, planuję.</span></p>
+<p begin="9174165000t" end="9189513666t" region="region.after.center" style="style.default" xml:id="subtitle173"><span style="style.default_1">To do usłyszenia.</span></p>
+<p begin="9190181000t" end="9202860333t" region="region.after.center" style="style.default" xml:id="subtitle174"><span style="style.default_1">Wiem, że jesteś zajęta.</span></p>
+<p begin="9213204000t" end="9232890333t" region="region.after.center" style="style.default" xml:id="subtitle175"><span style="style.default_1">W porządku.<br/>Nie mogę się doczekać spotkania.</span></p>
+<p begin="9264588666t" end="9291615666t" region="region.after.center" style="style.default" xml:id="subtitle176"><span style="style.default_1">Ale tamtego dnia jednak musiałam pracować.</span></p>
+<p begin="9373030333t" end="9382039333t" region="region.after.center" style="style.default" xml:id="subtitle177">DRUKUJ</p>
+<p begin="9409400000t" end="9427084333t" region="region.after.center" style="style.default" xml:id="subtitle178"><span style="style.default_1">Sprawa handlu narkotykami.</span></p>
+<p begin="9434758666t" end="9458782666t" region="region.after.center" style="style.default" xml:id="subtitle179"><span style="style.default_1">To przesłuchanie jest kluczowe<br/>dla aktu oskarżenia.</span></p>
+<p begin="9465789666t" end="9501825666t" region="region.after.center" style="style.default" xml:id="subtitle180"><span style="style.default_1">Świadek to właściciel baru,<br/>w którym doszło do transakcji.</span></p>
+<p begin="9502493000t" end="9519843666t" region="region.after.center" style="style.default" xml:id="subtitle181">WŁAŚCICIEL<br/>TOSHIKI TAGAWA, 49</p>
+<p begin="9578235333t" end="9603260333t" region="region.after.center" style="style.default" xml:id="subtitle182"><span style="style.default_1">Przepraszam, ale wypadło mi<br/>przesłuchanie świadka.</span></p>
+<p begin="9603927666t" end="9615606000t" region="region.after.center" style="style.default" xml:id="subtitle183"><span style="style.default_1">Mogę się spóźnić.</span></p>
+<p begin="9616273333t" end="9637294333t" region="region.after.center" style="style.default" xml:id="subtitle184"><span style="style.default_1">Jak skończę, od razu wsiądę w pociąg.</span></p>
+<p begin="9672996666t" end="9685342333t" region="region.after.center" style="style.default" xml:id="subtitle185"><span style="style.default_1">Rozumiem.</span></p>
+<p begin="9686009666t" end="9712369333t" region="region.after.center" style="style.default" xml:id="subtitle186"><span style="style.default_1">Praca w niedzielę musi być uciążliwa.<br/>Powodzenia.</span></p>
+<p begin="9759750000t" end="9797788000t" region="region.after.center" style="style.default" xml:id="subtitle187"><span style="style.default_1">Tamtego dnia Tomo powiedziała,<br/>że to może być koniec naszej przyjaźni.</span></p>
+<p begin="9853510333t" end="9878535333t" region="region.after.center" style="style.default" xml:id="subtitle188"><span style="style.default_1">Ale gdy spotkaliśmy się</span></p>
+<p begin="9879202666t" end="9909566333t" region="region.after.center" style="style.default" xml:id="subtitle189"><span style="style.default_1">z okazji pierwszej, drugiej<br/>i szóstej rocznicy śmierci Kaori,</span></p>
+<p begin="9915238666t" end="9940597333t" region="region.after.center" style="style.default" xml:id="subtitle190"><span style="style.default_1">powoli zaczęliśmy<br/>odbudowywać nasze relacje.</span></p>
+<p begin="9980971000t" end="9999990000t" region="region.after.center" style="style.default" xml:id="subtitle191">Przybył pan Tagawa, świadek.</p>
+<p begin="10006663333t" end="10021678333t" region="region.after.center" style="style.default" xml:id="subtitle192">Dziękuję. Zaraz przyjdę.</p>
+<p begin="10030353666t" end="10067724333t" region="region.after.center" style="style.default" xml:id="subtitle193"><span style="style.default_1">Czasem się zastanawiam, jakby to było,<br/>gdyby Tomo została prokuratorem.</span></p>
+<p begin="10073396666t" end="10104761333t" region="region.after.center" style="style.default" xml:id="subtitle194"><span style="style.default_1">Ale choć dostała się do szkoły prawniczej,</span></p>
+<p begin="10105428666t" end="10122112000t" region="region.after.center" style="style.default" xml:id="subtitle195"><span style="style.default_1">nie podeszła do egzaminu.</span></p>
+<p begin="10134124000t" end="10148138000t" region="region.after.center" style="style.default" xml:id="subtitle196"><span style="style.default_1">Powodem była jej ciąża.</span></p>
+<p begin="10154144000t" end="10165155000t" region="region.after.center" style="style.default" xml:id="subtitle197"><span style="style.default_1">A ojcem dziecka był…</span></p>
+<p begin="10174497666t" end="10192515666t" region="region.after.center" style="style.default" xml:id="subtitle198">Może być?</p>
+<p begin="10205862333t" end="10219542666t" region="region.after.center" style="style.default" xml:id="subtitle199">Nie, masz się ubrać na czarno.</p>
+<p begin="10220210000t" end="10239229000t" region="region.after.center" style="style.default" xml:id="subtitle200">Minęło 12 lat, a to prywatne wydarzenie…</p>
+<p begin="10239896333t" end="10256913333t" region="region.after.center" style="style.default" xml:id="subtitle201">- Na czarno.<br/>- Tak.</p>
+<p begin="10309632666t" end="10331988333t" region="region.after.center" style="style.default" xml:id="subtitle202">A ja mogę iść w tym?</p>
+<p begin="10481804666t" end="10505495000t" region="region.after.center" style="style.default" xml:id="subtitle203">Dziękuję, że przyszedł pan<br/>w swój wolny dzień.</p>
+<p begin="10506162333t" end="10514504000t" region="region.after.center" style="style.default" xml:id="subtitle204">Cóż…</p>
+<p begin="10524514000t" end="10562552000t" region="region.after.center" style="style.default" xml:id="subtitle205">Aresztowano naszych klientów.</p>
+<p begin="10563219333t" end="10580570000t" region="region.after.center" style="style.default" xml:id="subtitle206">Tak się złożyło, że w moim barze.</p>
+<p begin="10587910666t" end="10605595000t" region="region.after.center" style="style.default" xml:id="subtitle207">Oczywiście, rozumiemy.</p>
+<p begin="10611267333t" end="10629952666t" region="region.after.center" style="style.default" xml:id="subtitle208">Prosimy o współpracę.</p>
+<p begin="10657313333t" end="10686008666t" region="region.after.center" style="style.default" xml:id="subtitle209">Podczas przesłuchania<br/>przez policję powiedział pan,</p>
+<p begin="10686676000t" end="10723379333t" region="region.after.center" style="style.default" xml:id="subtitle210">że nie zna Takumiego Kawagoego.</p>
+<p begin="10724046666t" end="10745067666t" region="region.after.center" style="style.default" xml:id="subtitle211">Zgadza się. Nie znałem go.</p>
+<p begin="10745735000t" end="10768758000t" region="region.after.center" style="style.default" xml:id="subtitle212">Syna sekretarza generalnego PLD?</p>
+<p begin="10775431333t" end="10801123666t" region="region.after.center" style="style.default" xml:id="subtitle213">Prasa robi z tego aferę,<br/>a cierpi na tym nasz biznes.</p>
+<p begin="10809465333t" end="10817807000t" region="region.after.center" style="style.default" xml:id="subtitle214">Rozumiem.</p>
+<p begin="10846836000t" end="10885875000t" region="region.after.center" style="style.default" xml:id="subtitle215">Panie Tagawa,<br/>na pewno słyszał pan o barze La Bilance.</p>
+<p begin="10976966000t" end="10993649333t" region="region.after.center" style="style.default" xml:id="subtitle216">Jeszcze trzy lata temu</p>
+<p begin="11000990000t" end="11045034000t" region="region.after.center" style="style.default" xml:id="subtitle217">w tym samym miejscu<br/>prowadził pan inny bar.</p>
+<p begin="11045701333t" end="11068724333t" region="region.after.center" style="style.default" xml:id="subtitle218">La Bilance. Zgadza się?</p>
+<p begin="11074396666t" end="11094083000t" region="region.after.center" style="style.default" xml:id="subtitle219">No… Tak.</p>
+<p begin="11094750333t" end="11128784333t" region="region.after.center" style="style.default" xml:id="subtitle220">Czyli ten bar został otwarty ponownie,<br/>ale pod inną nazwą.</p>
+<p begin="11167489666t" end="11195851333t" region="region.after.center" style="style.default" xml:id="subtitle221">Zna pan niejakiego Eiichiego Nakamurę?</p>
+<p begin="11208197000t" end="11235891333t" region="region.after.center" style="style.default" xml:id="subtitle222">Znam. Często bywał w poprzednim barze.</p>
+<p begin="11236558666t" end="11248237000t" region="region.after.center" style="style.default" xml:id="subtitle223">NAKAMON</p>
+<p begin="11248904333t" end="11265921333t" region="region.before.center" style="style.default" xml:id="subtitle224">EIICHI NAKAMURA</p>
+<p begin="11282604666t" end="11314970333t" region="region.after.center" style="style.default" xml:id="subtitle225">To z mediów społecznościowych<br/>pana Nakamury.</p>
+<p begin="11327316000t" end="11345334000t" region="region.after.center" style="style.default" xml:id="subtitle226">Można łatwo sprawdzić,</p>
+<p begin="11346001333t" end="11369691666t" region="region.after.center" style="style.default" xml:id="subtitle227"><span style="style.default_1">że cztery lata temu<br/>był na imprezie w La Bilance.</span></p>
+<p begin="11370359000t" end="11384373000t" region="region.after.center" style="style.default" xml:id="subtitle228"><span style="style.default_1">Pan też tam był.</span></p>
+<p begin="11408063333t" end="11432754666t" region="region.after.center" style="style.default" xml:id="subtitle229">WŁAŚCICIEL I PRZYJACIELE<br/>PRYWATNE PRZYJĘCIE POŻEGNALNE</p>
+<p begin="11439761666t" end="11448103333t" region="region.after.center" style="style.default" xml:id="subtitle230">Co?</p>
+<p begin="11466788666t" end="11496151333t" region="region.after.center" style="style.default" xml:id="subtitle231">Osoba, która jest obok pana na zdjęciu…</p>
+<p begin="11496818666t" end="11516838666t" region="region.after.center" style="style.default" xml:id="subtitle232">POST @NAKAMURAXX983</p>
+<p begin="11540195333t" end="11571893666t" region="region.after.center" style="style.default" xml:id="subtitle233">… to Takumi Kawagoe,<br/>podejrzany. Zgadza się?</p>
+<p begin="11629951666t" end="11651306333t" region="region.after.center" style="style.default" xml:id="subtitle234">Bywał pan wcześniej w barze Gloire?</p>
+<p begin="11651973666t" end="11670659000t" region="region.after.center" style="style.default" xml:id="subtitle235">To był pierwszy raz.</p>
+<p begin="11723044666t" end="11762083666t" region="region.after.center" style="style.default" xml:id="subtitle236">Dlaczego pan zataił ten fakt?</p>
+<p begin="11795450333t" end="11804459333t" region="region.after.center" style="style.default" xml:id="subtitle237">Bo…</p>
+<p begin="11827482333t" end="11838159666t" region="region.after.center" style="style.default" xml:id="subtitle238">Panie Tagawa.</p>
+<p begin="11850505333t" end="11870525333t" region="region.after.center" style="style.default" xml:id="subtitle239">Może pan kłamać do woli.</p>
+<p begin="11888877000t" end="11901222666t" region="region.after.center" style="style.default" xml:id="subtitle240">Ale w takim wypadku</p>
+<p begin="11910231666t" end="11945600333t" region="region.after.center" style="style.default" xml:id="subtitle241">będzie pan współwinny handlu narkotykami.</p>
+<p begin="11962283666t" end="11993648333t" region="region.after.center" style="style.default" xml:id="subtitle242">Będziemy musieli uznać,</p>
+<p begin="11998653333t" end="12037025000t" region="region.after.center" style="style.default" xml:id="subtitle243">że zapewniając miejsce<br/>dla tych transakcji,</p>
+<p begin="12037692333t" end="12050371666t" region="region.after.center" style="style.default" xml:id="subtitle244">popełnił pan przestępstwo.</p>
+<p begin="12059380666t" end="12082070000t" region="region.after.center" style="style.default" xml:id="subtitle245">Zgadza się pan?</p>
+<p begin="12108096000t" end="12132453666t" region="region.after.center" style="style.default" xml:id="subtitle246">Nie, ja…</p>
+<p begin="12247568666t" end="12285606666t" region="region.after.center" style="style.default" xml:id="subtitle247">Kaji, chyba to mamy.<br/>Przygotujesz akt oskarżenia?</p>
+<p begin="12286274000t" end="12323311000t" region="region.after.center" style="style.default" xml:id="subtitle248">Tak. Ale czy muszę sam<br/>pracować po godzinach?</p>
+<p begin="12323978333t" end="12346000333t" region="region.after.center" style="style.default" xml:id="subtitle249">- Postawię ci lunch.<br/>- Nie trzeba.</p>
+<p begin="12346667666t" end="12367355000t" region="region.after.center" style="style.default" xml:id="subtitle250">Mogę zamiast tego dostać<br/>płatny dzień wolny?</p>
+<p begin="12368022333t" end="12396384000t" region="region.after.center" style="style.default" xml:id="subtitle251">Zawsze mi pani obiecuje<br/>i nic z tego nie wychodzi.</p>
+<p begin="12408396000t" end="12439427000t" region="region.after.center" style="style.default" xml:id="subtitle252">Kaji, przygotowanie aktu oskarżenia<br/>to chyba twoja praca, prawda?</p>
+<p begin="12440094333t" end="12451439000t" region="region.after.center" style="style.default" xml:id="subtitle253">No… Tak.</p>
+<p begin="12452106333t" end="12472460000t" region="region.after.center" style="style.default" xml:id="subtitle254">Dostaniesz wolne. Liczę na ciebie.</p>
+<p begin="12484138333t" end="12499487000t" region="region.after.center" style="style.default" xml:id="subtitle255">- Do widzenia.<br/>- Do widzenia.</p>
+<p begin="12557545000t" end="12592246333t" region="region.after.center" style="style.default" xml:id="subtitle256">Dziękuję, że znaleźliście czas<br/>mimo tylu zajęć.</p>
+<p begin="12592913666t" end="12604925666t" region="region.after.center" style="style.default" xml:id="subtitle257">Oczywiście.</p>
+<p begin="12605593000t" end="12634288333t" region="region.after.center" style="style.default" xml:id="subtitle258">Życzę państwu zdrowia.</p>
+<p begin="12640294333t" end="12652640000t" region="region.after.center" style="style.default" xml:id="subtitle259">Dziękuję.</p>
+<p begin="12660314333t" end="12690010666t" region="region.after.center" style="style.default" xml:id="subtitle260">- Dbaj o siebie, Tomomi.<br/>- Dobrze.</p>
+<p begin="12704692000t" end="12746400333t" region="region.after.center" style="style.default" xml:id="subtitle261">Gdyby nie ten wypadek,<br/>Kaori byłaby teraz taka jak wy…</p>
+<p begin="12747067666t" end="12755409333t" region="region.after.center" style="style.default" xml:id="subtitle262">Przestań.</p>
+<p begin="12770424333t" end="12780100666t" region="region.after.center" style="style.default" xml:id="subtitle263">Przepraszam.</p>
+<p begin="12780768000t" end="12804124666t" region="region.after.center" style="style.default" xml:id="subtitle264">Takie rozważania chyba nie mają sensu.</p>
+<p begin="12815803000t" end="12824144666t" region="region.after.center" style="style.default" xml:id="subtitle265">Rozumiem.</p>
+<p begin="12831485333t" end="12862516333t" region="region.after.center" style="style.default" xml:id="subtitle266">Życzę wam szczęścia.<br/>Również ze względu na Kaori.</p>
+<p begin="12874528333t" end="12910898000t" region="region.after.center" style="style.default" xml:id="subtitle267">I mam nadzieję,</p>
+<p begin="12916570333t" end="12931919000t" region="region.after.center" style="style.default" xml:id="subtitle268">że czasem ją wspomnicie.</p>
+<p begin="12947267666t" end="12963283666t" region="region.after.center" style="style.default" xml:id="subtitle269">Nigdy o niej nie zapomniałam.</p>
+<p begin="12999319666t" end="13010998000t" region="region.after.center" style="style.default" xml:id="subtitle270">Nigdy.</p>
+<p begin="13037691333t" end="13062382666t" region="region.after.center" style="style.default" xml:id="subtitle271">Na pewno jeszcze państwa odwiedzimy.</p>
+<p begin="13063050000t" end="13080067000t" region="region.after.center" style="style.default" xml:id="subtitle272">- Dobrze.<br/>- Dziękujemy.</p>
+<p begin="13100754333t" end="13117437666t" region="region.after.center" style="style.default" xml:id="subtitle273">Kanade chyba nie dała rady.</p>
+<p begin="13124778333t" end="13152139000t" region="region.after.center" style="style.default" xml:id="subtitle274">Z niektórymi da się złapać<br/>tylko w weekendy.</p>
+<p begin="13157811333t" end="13176496666t" region="region.after.center" style="style.default" xml:id="subtitle275">Praca to ciężki kawałek chleba.</p>
+<p begin="13177164000t" end="13195849333t" region="region.after.center" style="style.default" xml:id="subtitle276">Nic na to nie poradzimy.</p>
+<p begin="13219205999t" end="13245565666t" region="region.after.center" style="style.default" xml:id="subtitle277">„Życzę wam szczęścia<br/>również ze względu na Kaori”.</p>
+<p begin="13261581666t" end="13276930333t" region="region.after.center" style="style.default" xml:id="subtitle278">- Co?<br/>- Tak się zastanawiam.</p>
+<p begin="13284938333t" end="13317971333t" region="region.after.center" style="style.default" xml:id="subtitle279">Jak moje szczęście pomoże Kaori?</p>
+<p begin="13376029333t" end="13391711666t" region="region.after.center" style="style.default" xml:id="subtitle280">Mamo.</p>
+<p begin="13402722666t" end="13432419000t" region="region.after.center" style="style.default" xml:id="subtitle281">Wiem, gdzie chcesz iść.<br/>Do Parku Dziedzictwa Kolei, tak?</p>
+<p begin="13433086333t" end="13465118333t" region="region.after.center" style="style.default" xml:id="subtitle282">Tak! System Abta!</p>
+<p begin="13476463000t" end="13486473000t" region="region.after.center" style="style.default" xml:id="subtitle283">Szybko, chodźmy!</p>
+<p begin="13503823666t" end="13532852666t" region="region.after.center" style="style.default" xml:id="subtitle284">Od kiedy tak niewiele mu trzeba?</p>
+<p begin="13562215333t" end="13584904666t" region="region.after.center" style="style.default" xml:id="subtitle285">Może to on jest naszym szczęściem.</p>
+<p begin="13601254333t" end="13609596000t" region="region.after.center" style="style.default" xml:id="subtitle286">Co?</p>
+<p begin="13622609000t" end="13648635000t" region="region.after.center" style="style.default" xml:id="subtitle287">Napijemy się i wracamy do domu?</p>
+<p begin="13649302333t" end="13682335333t" region="region.after.center" style="style.default" xml:id="subtitle288">Straszne banały prawisz, wiesz?</p>
+<p begin="13683002666t" end="13708361333t" region="region.after.center" style="style.default" xml:id="subtitle289">- Niby czemu?<br/>- No…</p>
+<p begin="13948601333t" end="13971624333t" region="region.after.center" style="style.default" xml:id="subtitle290">GRÓB RODZINY OIKAWÓW</p>
+<p begin="13990309666t" end="14011998000t" region="region.after.center" style="style.default" xml:id="subtitle291">NAPÓJ O SMAKU MELONA</p>
+<p begin="14064050000t" end="14086405666t" region="region.after.center" style="style.default" xml:id="subtitle292">UNIWERSYTET SHINANO</p>
+<p begin="14098751333t" end="14131117000t" region="region.after.center" style="style.default" xml:id="subtitle293"><span style="style.default_1">Potem po raz pierwszy od dawna<br/>odwiedziłam nasz uniwersytet.</span></p>
+<p begin="14165484666t" end="14180165999t" region="region.after.center" style="style.default" xml:id="subtitle294"><span style="style.default_1">Choć to była niedziela,</span></p>
+<p begin="14187173000t" end="14218871333t" region="region.after.center" style="style.default" xml:id="subtitle295"><span style="style.default_1">widziałam tam studentów.</span></p>
+<p begin="14235554666t" end="14254573666t" region="region.after.center" style="style.default" xml:id="subtitle296"><span style="style.default_1">Byli tacy jak my kiedyś.</span></p>
+<p begin="14267253000t" end="14278931333t" region="region.after.center" style="style.default" xml:id="subtitle297">Przestań!</p>
+<p begin="14294613666t" end="14337990333t" region="region.after.center" style="style.default" xml:id="subtitle298"><span style="style.default_1">Tutaj Kaori zawsze piła napój melonowy.</span></p>
+<p begin="14338657666t" end="14353672666t" region="region.after.center" style="style.default" xml:id="subtitle299">- Daj.<br/>- Och.</p>
+<p begin="14354340000t" end="14364683666t" region="region.after.center" style="style.default" xml:id="subtitle300">Przestań.</p>
+<p begin="14376695666t" end="14385704666t" region="region.after.center" style="style.default" xml:id="subtitle301">Ohyda.</p>
+<p begin="14386372000t" end="14428080333t" region="region.after.center" style="style.default" xml:id="subtitle302">- Co z tego? Mnie smakuje.<br/>- Jak możesz pić tyle tego świństwa?</p>
+<p begin="14463782666t" end="14493479000t" region="region.after.center" style="style.default" xml:id="subtitle303">- Masaki jest mój!<br/>- O czym ty mówisz?</p>
+<p begin="14519171333t" end="14544863666t" region="region.after.center" style="style.default" xml:id="subtitle304">Kanade też! Jesteś moja!</p>
+<p begin="14556875666t" end="14567886666t" region="region.after.center" style="style.default" xml:id="subtitle305">Lubię was oboje!</p>
+<p begin="14582234333t" end="14601587000t" region="region.after.center" style="style.default" xml:id="subtitle306">- Aha!<br/>- Co robicie?</p>
+<p begin="14602254333t" end="14635621000t" region="region.after.center" style="style.default" xml:id="subtitle307">- Tomo też jest moja!<br/>- Nie wygłupiaj się.</p>
+<p begin="14636288333t" end="14645297333t" region="region.after.center" style="style.default" xml:id="subtitle308">A ja?</p>
+<p begin="14645964666t" end="14666652000t" region="region.after.center" style="style.default" xml:id="subtitle309">Yuki? Nie sądzę.</p>
+<p begin="14667319333t" end="14684336333t" region="region.after.center" style="style.default" xml:id="subtitle310">Co? Ty małpo!</p>
+<p begin="14685003666t" end="14694012666t" region="region.after.center" style="style.default" xml:id="subtitle311">Yuki, chodź tu.</p>
+<p begin="14694680000t" end="14718704000t" region="region.after.center" style="style.default" xml:id="subtitle312">Żartujesz sobie?</p>
+<p begin="14736722000t" end="14753405333t" region="region.after.center" style="style.default" xml:id="subtitle313"><span style="style.default_1">Byliśmy tacy niewinni.</span></p>
+<p begin="14768754000t" end="14782434333t" region="region.after.center" style="style.default" xml:id="subtitle314"><span style="style.default_1">Wszyscy lubiliśmy Kaori.</span></p>
+<p begin="14795447333t" end="14822140666t" region="region.after.center" style="style.default" xml:id="subtitle315"><span style="style.default_1">Była wymagająca, zuchwała</span></p>
+<p begin="14827813000t" end="14838824000t" region="region.after.center" style="style.default" xml:id="subtitle316"><span style="style.default_1">i nieco dziecinna.</span></p>
+<p begin="14849835000t" end="14869521333t" region="region.after.center" style="style.default" xml:id="subtitle317"><span style="style.default_1">Ale i tak ją lubiliśmy.</span></p>
+<p begin="14941927000t" end="14950268666t" region="region.after.center" style="style.default" xml:id="subtitle318"><span style="style.default_1">Więc dlaczego…</span></p>
+<p begin="14955273666t" end="14964282666t" region="region.after.center" style="style.default" xml:id="subtitle319">Do sklepu.</p>
+<p begin="14975627333t" end="14984636333t" region="region.after.center" style="style.default" xml:id="subtitle320">Zaraz wracam.</p>
+<p begin="14995313666t" end="15008994000t" region="region.after.center" style="style.default" xml:id="subtitle321">Ten wypadek…</p>
+<p begin="15009661333t" end="15034352666t" region="region.after.center" style="style.default" xml:id="subtitle322">Podejrzewacie, że to było przestępstwo?</p>
+<p begin="15035020000t" end="15058710333t" region="region.after.center" style="style.default" xml:id="subtitle323">Czyżby podejrzewali,<br/>że to nie był zwykły wypadek?</p>
+<p begin="15073725333t" end="15101419666t" region="region.after.center" style="style.default" xml:id="subtitle324"><span style="style.default_1">Co naprawdę między nimi zaszło?</span></p>
+<p begin="15113431666t" end="15135787333t" region="region.after.center" style="style.default" xml:id="subtitle325"><span style="style.default_1">Za przyczynę wypadku<br/>uznano nieuwagę Kaori.</span></p>
+<p begin="15148133000t" end="15172157000t" region="region.after.center" style="style.default" xml:id="subtitle326">Hej! Powiedz, co się stało!</p>
+<p begin="15172824333t" end="15185503666t" region="region.after.center" style="style.default" xml:id="subtitle327">To ja…</p>
+<p begin="15210528666t" end="15218870333t" region="region.after.center" style="style.default" xml:id="subtitle328"><span style="style.default_1">Masaki…</span></p>
+<p begin="15233885333t" end="15252570666t" region="region.after.center" style="style.default" xml:id="subtitle329"><span style="style.default_1">coś do mnie mówił.</span></p>
+<p begin="15262580666t" end="15273258000t" region="region.after.center" style="style.default" xml:id="subtitle330"><span style="style.default_1">Ale co?</span></p>
+<p begin="15291943333t" end="15303955333t" region="region.after.center" style="style.default" xml:id="subtitle331"><span style="style.default_1">Co chciał mi powiedzieć?</span></p>
+<p begin="15392710666t" end="15411395999t" region="region.after.center" style="style.default" xml:id="subtitle332">Jak to go nie ma?</p>
+<p begin="15417735666t" end="15450101333t" region="region.after.center" style="style.default" xml:id="subtitle333">Jak mówiłam, gdy przyszłam,<br/>łóżko było już puste.</p>
+<p begin="15450768666t" end="15459110333t" region="region.after.center" style="style.default" xml:id="subtitle334">Zostawił to.</p>
+<p begin="15459777666t" end="15475126333t" region="region.after.center" style="style.default" xml:id="subtitle335">DZIĘKI ZA OPIEKĘ,<br/>TO OPŁATA, NOGI</p>
+<p begin="15492143333t" end="15501152333t" region="region.after.center" style="style.default" xml:id="subtitle336">Co się stało?</p>
+<p begin="15501819666t" end="15524842666t" region="region.after.center" style="style.default" xml:id="subtitle337">Doktorze Okuda.</p>
+<p begin="15530848666t" end="15569554000t" region="region.after.center" style="style.default" xml:id="subtitle338">Ten pacjent z bójki na stacji metra<br/>opuścił szpital bez pozwolenia.</p>
+<p begin="15576560999t" end="15596914666t" region="region.after.center" style="style.default" xml:id="subtitle339">Nie ma do niego żadnego kontaktu?</p>
+<p begin="15597582000t" end="15605923666t" region="region.after.center" style="style.default" xml:id="subtitle340">Przykro mi.</p>
+<p begin="15635286333t" end="15665650000t" region="region.after.center" style="style.default" xml:id="subtitle341">Doktorze Okuda, przyszła rodzina pacjenta.</p>
+<p begin="15666317333t" end="15675660000t" region="region.after.center" style="style.default" xml:id="subtitle342">Dziękuję.</p>
+<p begin="15717034666t" end="15741058666t" region="region.after.center" style="style.default" xml:id="subtitle343">MASAKI NOGI, 11.07.2024<br/>LEKARZ: DR KENTARO NAKAMURA</p>
+<p begin="16216867333t" end="16225876333t" region="region.after.center" style="style.default" xml:id="subtitle344">Pomyliłem sale.</p>
+<p begin="16226543666t" end="16245562666t" region="region.after.center" style="style.default" xml:id="subtitle345">Przepraszam, mój błąd.</p>
+<p begin="16246230000t" end="16259910333t" region="region.after.center" style="style.default" xml:id="subtitle346">Żartujesz?</p>
+<p begin="16439423000t" end="16447764666t" region="region.after.center" style="style.default" xml:id="subtitle347">Co…</p>
+<p begin="16472455999t" end="16483467000t" region="region.after.center" style="style.default" xml:id="subtitle348">Co tu robisz?</p>
+<p begin="16520837666t" end="16543527000t" region="region.after.center" style="style.default" xml:id="subtitle349">Wiedziałeś o nabożeństwie za Kaori?</p>
+<p begin="16584901666t" end="16614264333t" region="region.after.center" style="style.default" xml:id="subtitle350">To ty byłeś na jej grobie?</p>
+<p begin="16634618000t" end="16688004666t" region="region.after.center" style="style.default" xml:id="subtitle351"><span style="style.default_1">Ile to czasu minęło,<br/>odkąd wypowiedziałam jego imię?</span></p>
+<p begin="16741057666t" end="16749733000t" region="region.after.center" style="style.default" xml:id="subtitle352">Kanade.</p>
+<p begin="16778762000t" end="16799449333t" region="region.after.center" style="style.default" xml:id="subtitle353"><span style="style.default_1">Gdy usłyszałam jego głos,</span></p>
+<p begin="16808792000t" end="16830480333t" region="region.after.center" style="style.default" xml:id="subtitle354"><span style="style.default_1">cofnęłam się do tamtych czasów.</span></p>
+<p begin="16885869000t" end="16895211666t" region="region.after.center" style="style.default" xml:id="subtitle355">Tęskniłem.</p>
+<p begin="16947597333t" end="16956606333t" region="region.after.center" style="style.default" xml:id="subtitle356">Co?</p>
+<p begin="16986302666t" end="16997313666t" region="region.after.center" style="style.default" xml:id="subtitle357">Po tylu latach…</p>
+<p begin="17015331666t" end="17032015000t" region="region.after.center" style="style.default" xml:id="subtitle358">O czym ty mówisz?</p>
+<p begin="17063713333t" end="17090740333t" region="region.after.center" style="style.default" xml:id="subtitle359">Gdzie byłeś?</p>
+<p begin="17109092000t" end="17127110000t" region="region.after.center" style="style.default" xml:id="subtitle360">Co robiłeś?</p>
+<p begin="17151467666t" end="17160143000t" region="region.after.center" style="style.default" xml:id="subtitle361">Masaki.</p>
+<p begin="17208524666t" end="17217867333t" region="region.after.center" style="style.default" xml:id="subtitle362">Kanade…</p>
+<p begin="17246896333t" end="17258241000t" region="region.after.center" style="style.default" xml:id="subtitle363">jesteś prokuratorem?</p>
+<p begin="17276259000t" end="17284600666t" region="region.after.center" style="style.default" xml:id="subtitle364">Co?</p>
+<p begin="17302618666t" end="17311627666t" region="region.after.center" style="style.default" xml:id="subtitle365">Masz przypinkę.</p>
+<p begin="17350666666t" end="17378361000t" region="region.after.center" style="style.default" xml:id="subtitle366">Tak, jestem.</p>
+<p begin="17420069333t" end="17428411000t" region="region.after.center" style="style.default" xml:id="subtitle367">To wspaniale.</p>
+<p begin="17470119333t" end="17479462000t" region="region.after.center" style="style.default" xml:id="subtitle368">Nie poddałaś się.</p>
+<p begin="17498481000t" end="17506822666t" region="region.after.center" style="style.default" xml:id="subtitle369">Tak.</p>
+<p begin="17528511000t" end="17537853666t" region="region.after.center" style="style.default" xml:id="subtitle370">Nie poddałam się.</p>
+<p begin="17581230333t" end="17612928666t" region="region.after.center" style="style.default" xml:id="subtitle371">Choć w pewnym momencie chciałam umrzeć.</p>
+<p begin="17629612000t" end="17648964666t" region="region.after.center" style="style.default" xml:id="subtitle372">Myślałam, że nikomu nie mogę wierzyć.</p>
+<p begin="17677326333t" end="17686001666t" region="region.after.center" style="style.default" xml:id="subtitle373">Nie wiesz…</p>
+<p begin="17721370333t" end="17732715000t" region="region.after.center" style="style.default" xml:id="subtitle374">jak trudno mi było…</p>
+<p begin="17758073666t" end="17795110666t" region="region.after.center" style="style.default" xml:id="subtitle375">jak trudno nam było<br/>pogodzić się ze śmiercią Kaori.</p>
+<p begin="17831814000t" end="17850833000t" region="region.after.center" style="style.default" xml:id="subtitle376">Dlaczego zniknąłeś bez słowa?</p>
+<p begin="17865180666t" end="17881196666t" region="region.after.center" style="style.default" xml:id="subtitle377">Dlaczego nic nie powiedziałeś?</p>
+<p begin="17910559333t" end="17922905000t" region="region.after.center" style="style.default" xml:id="subtitle378">To było podłe.</p>
+<p begin="17957606333t" end="17977626333t" region="region.after.center" style="style.default" xml:id="subtitle379">Więc nie mów mi…</p>
+<p begin="17998313666t" end="18019334666t" region="region.after.center" style="style.default" xml:id="subtitle380">że tęskniłeś.</p>
+<p begin="18113428666t" end="18121770333t" region="region.after.center" style="style.default" xml:id="subtitle381">Przepraszam.</p>
+<p begin="18165480666t" end="18174156000t" region="region.after.center" style="style.default" xml:id="subtitle382">Masz rację.</p>
+<p begin="18251233000t" end="18267582666t" region="region.after.center" style="style.default" xml:id="subtitle383">Nie płacz.</p>
+<p begin="18390705666t" end="18399381000t" region="region.after.center" style="style.default" xml:id="subtitle384">Przepraszam.</p>
+<p begin="18509157333t" end="18522504000t" region="region.after.center" style="style.default" xml:id="subtitle385">Czekaj.</p>
+<p begin="18559874666t" end="18571219333t" region="region.after.center" style="style.default" xml:id="subtitle386">Tamtego dnia…</p>
+<p begin="18598913666t" end="18613595000t" region="region.after.center" style="style.default" xml:id="subtitle387">Co chciałeś mi powiedzieć?</p>
+<p begin="18639954666t" end="18656971666t" region="region.after.center" style="style.default" xml:id="subtitle388">Gdy widziałam cię po raz ostatni.</p>
+<p begin="18692340333t" end="18708690000t" region="region.after.center" style="style.default" xml:id="subtitle389">Co zaszło między tobą i Kaori?</p>
+<p begin="18737051666t" end="18749063666t" region="region.after.center" style="style.default" xml:id="subtitle390">Czemu Kaori…</p>
+<p begin="18827809000t" end="18837485333t" region="region.after.center" style="style.default" xml:id="subtitle391">Kanade.</p>
+<p begin="18858172666t" end="18866848000t" region="region.after.center" style="style.default" xml:id="subtitle392">Jesteś niesamowita.</p>
+<p begin="18947595333t" end="18955937000t" region="region.after.center" style="style.default" xml:id="subtitle393">Naprawdę.</p>
+<p begin="18969617333t" end="18980628333t" region="region.after.center" style="style.default" xml:id="subtitle394">Tak uważam.</p>
+<p begin="19312293000t" end="19340988333t" region="region.after.center" style="style.default" xml:id="subtitle395"><span style="style.default_1">Ulżyło mi, gdy zgasło światło.</span></p>
+<p begin="19354001333t" end="19381695666t" region="region.after.center" style="style.default" xml:id="subtitle396"><span style="style.default_1">W tym stanie ducha</span></p>
+<p begin="19392706666t" end="19408055333t" region="region.after.center" style="style.default" xml:id="subtitle397"><span style="style.default_1">nie chciałam widzieć Takashiego.</span></p>
+<p begin="19783764000t" end="19827808000t" region="region.before.center" style="style.default" xml:id="subtitle398"><span style="style.default_1">Szkoda, że się minęliśmy.<br/>Odwiedź nas, gdy będziesz miała czas.</span></p>
+<p begin="19828475333t" end="19844157666t" region="region.after.center" style="style.default" xml:id="subtitle399"><span style="style.default_1">Spotkajmy się ku pamięci Kaori.</span></p>
+<p begin="19857170666t" end="19870517333t" region="region.after.center" style="style.default" xml:id="subtitle400"><span style="style.default_1">Dzięki. Brzmi super.</span></p>
+<p begin="19963944000t" end="19976289666t" region="region.after.center" style="style.default" xml:id="subtitle401"><span style="style.default_1">Tak w ogóle,</span></p>
+<p begin="19993306666t" end="20003650333t" region="region.after.center" style="style.default" xml:id="subtitle402"><span style="style.default_1">widziałam Masakiego.</span></p>
+<p begin="20020000000t" end="20029676333t" region="region.after.center" style="style.default" xml:id="subtitle403"><span style="style.default_1">Wpadłam na niego na…</span></p>
+<p begin="20030343666t" end="20044691333t" region="region.after.center" style="style.default" xml:id="subtitle404">TOMO</p>
+<p begin="20045358666t" end="20054367666t" region="region.after.center" style="style.default" xml:id="subtitle405">Halo?</p>
+<p begin="20055035000t" end="20080393666t" region="region.after.center" style="style.default" xml:id="subtitle406"><span style="style.default_1">- Jak to go widziałaś?</span><br/>- Chwileczkę.</p>
+<p begin="20092072000t" end="20110757333t" region="region.after.center" style="style.default" xml:id="subtitle407">Po prostu.</p>
+<p begin="20116096000t" end="20133780333t" region="region.after.center" style="style.default" xml:id="subtitle408">- Gdzie?<br/><span style="style.default_1">- Na uniwersytecie.</span></p>
+<p begin="20134447666t" end="20172485666t" region="region.after.center" style="style.default" xml:id="subtitle409">Nie zdążyłam na nabożeństwo,<br/>więc poszłam na grób Kaori.</p>
+<p begin="20173153000t" end="20200513666t" region="region.after.center" style="style.default" xml:id="subtitle410">Potem coś mnie naszło<br/>i pojechałam na uniwersytet.</p>
+<p begin="20201181000t" end="20215862333t" region="region.after.center" style="style.default" xml:id="subtitle411">I co on teraz robi?</p>
+<p begin="20216529666t" end="20224871333t" region="region.after.center" style="style.default" xml:id="subtitle412"><span style="style.default_1">Nie wiem.</span></p>
+<p begin="20225538666t" end="20251564666t" region="region.after.center" style="style.default" xml:id="subtitle413">Wiedział o nabożeństwie?</p>
+<p begin="20257237000t" end="20272585666t" region="region.after.center" style="style.default" xml:id="subtitle414">Też go o to spytałam.</p>
+<p begin="20279259000t" end="20288268000t" region="region.after.center" style="style.default" xml:id="subtitle415"><span style="style.default_1">Co powiedział?</span></p>
+<p begin="20298945333t" end="20307620666t" region="region.after.center" style="style.default" xml:id="subtitle416">„Przepraszam”.</p>
+<p begin="20308288000t" end="20340653666t" region="region.after.center" style="style.default" xml:id="subtitle417"><span style="style.default_1">I tyle. Potem znowu zniknął.</span></p>
+<p begin="20348661666t" end="20379359000t" region="region.after.center" style="style.default" xml:id="subtitle418">Mamo. Potrzebuję na jutro<br/>stroju gimnastycznego.</p>
+<p begin="20380026333t" end="20409389000t" region="region.after.center" style="style.default" xml:id="subtitle419">Co? I teraz mi mówisz? Idź z tym do ojca.</p>
+<p begin="20410056333t" end="20430076333t" region="region.after.center" style="style.default" xml:id="subtitle420">- Co?<br/><span style="style.default_1">- Przepraszam. Mówiłam do syna.</span></p>
+<p begin="20430743666t" end="20443756666t" region="region.after.center" style="style.default" xml:id="subtitle421">Nie mogę w to uwierzyć.</p>
+<p begin="20451764666t" end="20467113333t" region="region.after.center" style="style.default" xml:id="subtitle422">To zawoalowane: „Pieprz się!”.</p>
+<p begin="20479792666t" end="20504150333t" region="region.after.center" style="style.default" xml:id="subtitle423">Mamo. Tata śpi.</p>
+<p begin="20517830666t" end="20534180333t" region="region.after.center" style="style.default" xml:id="subtitle424">Dobrze. Zajmę się tym.</p>
+<p begin="20543523000t" end="20558204333t" region="region.after.center" style="style.default" xml:id="subtitle425">Przepraszam. Zadzwonię później.</p>
+<p begin="20566212333t" end="20595908666t" region="region.after.center" style="style.default" xml:id="subtitle426">Musisz do nas wpaść. Przegadamy to.</p>
+<p begin="20596576000t" end="20628274333t" region="region.after.center" style="style.default" xml:id="subtitle427">Dobrze. Do zobaczenia.</p>
+<p begin="20647293333t" end="20669315333t" region="region.after.center" style="style.default" xml:id="subtitle428"><span style="style.default_1">- Kanade.</span><br/>- Słucham?</p>
+<p begin="20679325333t" end="20710356333t" region="region.after.center" style="style.default" xml:id="subtitle429">Nie spotykaj się z Masakim.</p>
+<p begin="20724704000t" end="20744056666t" region="region.after.center" style="style.default" xml:id="subtitle430"><span style="style.default_1">Masz Takashiego.</span></p>
+<p begin="20768748000t" end="20780092666t" region="region.after.center" style="style.default" xml:id="subtitle431">Nie spotkam się z nim.</p>
+<p begin="20786098666t" end="20798110666t" region="region.after.center" style="style.default" xml:id="subtitle432">Nie mam jego numeru…</p>
+<p begin="20798778000t" end="20817463333t" region="region.after.center" style="style.default" xml:id="subtitle433">Nigdy, rozumiesz? Masz zakaz.</p>
+<p begin="20836816000t" end="20850162666t" region="region.after.center" style="style.default" xml:id="subtitle434">Wiem.</p>
+<p begin="20858170666t" end="20868514333t" region="region.after.center" style="style.default" xml:id="subtitle435"><span style="style.default_1">- No.</span><br/>- No.</p>
+<p begin="20869181666t" end="20898210666t" region="region.after.center" style="style.default" xml:id="subtitle436"><span style="style.default_1">- Na razie.</span><br/>- Pa. Dobranoc.</p>
+<p begin="21053031999t" end="21068047000t" region="region.after.center" style="style.default" xml:id="subtitle437">Coś się stało?</p>
+<p begin="21068714333t" end="21089735333t" region="region.after.center" style="style.default" xml:id="subtitle438">Rozmawiałam z Tomo.</p>
+<p begin="21090402666t" end="21101080000t" region="region.after.center" style="style.default" xml:id="subtitle439">Wybacz. Obudziłam cię?</p>
+<p begin="21101747333t" end="21116428666t" region="region.after.center" style="style.default" xml:id="subtitle440">- Nie.<br/>- Och.</p>
+<p begin="21117096000t" end="21146458666t" region="region.after.center" style="style.default" xml:id="subtitle441">Chciałem zapytać,<br/>co sądzisz o mojej propozycji.</p>
+<p begin="21152464666t" end="21160806333t" region="region.after.center" style="style.default" xml:id="subtitle442">Jakiej?</p>
+<p begin="21166478666t" end="21178490666t" region="region.after.center" style="style.default" xml:id="subtitle443">O naszym ślubie.</p>
+<p begin="21197509666t" end="21208520666t" region="region.after.center" style="style.default" xml:id="subtitle444">Jasne.</p>
+<p begin="21213525666t" end="21224536666t" region="region.after.center" style="style.default" xml:id="subtitle445">Kiedy masz wolne?</p>
+<p begin="21236882333t" end="21269248000t" region="region.after.center" style="style.default" xml:id="subtitle446">Jak zakończy się sprawa,<br/>którą teraz prowadzę.</p>
+<p begin="21269915333t" end="21313625666t" region="region.after.center" style="style.default" xml:id="subtitle447">Więc pojedźmy wtedy do twojej mamy<br/>i razem jej o tym powiemy.</p>
+<p begin="21349661666t" end="21361340000t" region="region.after.center" style="style.default" xml:id="subtitle448">Dobry pomysł.</p>
+<p begin="21663975666t" end="21675654000t" region="region.after.center" style="style.default" xml:id="subtitle449">Hej.</p>
+<p begin="21676321333t" end="21707018666t" region="region.after.center" style="style.default" xml:id="subtitle450">Rany. Co tu robisz?</p>
+<p begin="21722033666t" end="21738049666t" region="region.after.center" style="style.default" xml:id="subtitle451">Nie mogłam zasnąć.</p>
+<p begin="21791102666t" end="21799778000t" region="region.after.center" style="style.default" xml:id="subtitle452">Kanade</p>
+<p begin="21807452333t" end="21835480333t" region="region.after.center" style="style.default" xml:id="subtitle453">spotkała dziś Masakiego.</p>
+<p begin="21853498333t" end="21866511333t" region="region.after.center" style="style.default" xml:id="subtitle454">Co? Nie wierzę.</p>
+<p begin="21878189666t" end="21904883000t" region="region.after.center" style="style.default" xml:id="subtitle455">Co on sobie myśli po tylu latach?</p>
+<p begin="22006651333t" end="22016327666t" region="region.after.center" style="style.default" xml:id="subtitle456">Słuchasz mnie?</p>
+<p begin="22025336666t" end="22053364666t" region="region.after.center" style="style.default" xml:id="subtitle457">Tak. Słucham.</p>
+<p begin="22063040999t" end="22075053000t" region="region.after.center" style="style.default" xml:id="subtitle458">Proszę.</p>
+<p begin="22157135000t" end="22178156000t" region="region.after.center" style="style.default" xml:id="subtitle459"><span style="style.default_1">Ojciec Kanade się nie zabił.</span></p>
+<p begin="22178823333t" end="22192503666t" region="region.after.center" style="style.default" xml:id="subtitle460"><span style="style.default_1">Został zamordowany.</span></p>
+<p begin="22193171000t" end="22204849333t" region="region.after.center" style="style.default" xml:id="subtitle461"><span style="style.default_1">Chcesz zginąć ze mną?</span></p>
+<p begin="22205516666t" end="22216527666t" region="region.after.center" style="style.default" xml:id="subtitle462"><span style="style.default_1">Ojciec Kanade był…</span></p>
+<p begin="22217195000t" end="22227872333t" region="region.after.center" style="style.default" xml:id="subtitle463"><span style="style.default_1">Nie mów tego!</span></p>
+<p begin="22380691666t" end="22394038333t" region="region.after.center" style="style.default" xml:id="subtitle464">Chce pani powiedzieć,</p>
+<p begin="22402380000t" end="22433077333t" region="region.after.center" style="style.default" xml:id="subtitle465">że ma zeznanie właściciela baru,<br/>które potwierdza udział Kawagoego?</p>
+<p begin="22433744666t" end="22445756666t" region="region.after.center" style="style.default" xml:id="subtitle466">Tak.</p>
+<p begin="22446424000t" end="22479123333t" region="region.after.center" style="style.default" xml:id="subtitle467">Zeznania Masuko i Ikeguchiego<br/>zostały potwierdzone.</p>
+<p begin="22479790666t" end="22509153333t" region="region.after.center" style="style.default" xml:id="subtitle468">Nie ma wątpliwości,<br/>że Takumi Kawagoe brał w tym udział.</p>
+<p begin="22521499000t" end="22537181333t" region="region.after.center" style="style.default" xml:id="subtitle469">Jest pani pewna, że wygra?</p>
+<p begin="22537848666t" end="22546190333t" region="region.after.center" style="style.default" xml:id="subtitle470">Tak.</p>
+<p begin="22571549000t" end="22579890666t" region="region.after.center" style="style.default" xml:id="subtitle471">Rozumiem.</p>
+<p begin="22656300333t" end="22675653000t" region="region.after.center" style="style.default" xml:id="subtitle472">Przepraszam. Pani Nishimura.</p>
+<p begin="22676320333t" end="22705015666t" region="region.after.center" style="style.default" xml:id="subtitle473">Ten świadek mówi,<br/>że nie może zeznawać w sądzie.</p>
+<p begin="22705683000t" end="22718362333t" region="region.after.center" style="style.default" xml:id="subtitle474">Jak to?</p>
+<p begin="22719029666t" end="22734044666t" region="region.after.center" style="style.default" xml:id="subtitle475">Mówi, że popełnił błąd.</p>
+<p begin="22734712000t" end="22751395333t" region="region.after.center" style="style.default" xml:id="subtitle476">Chyba żartujesz.</p>
+<p begin="22752062666t" end="22782092666t" region="region.after.center" style="style.default" xml:id="subtitle477">Pytałem go wielokrotnie,<br/>ale nagle zaczął udawać głupiego.</p>
+<p begin="22818128666t" end="22827471333t" region="region.after.center" style="style.default" xml:id="subtitle478">Halo.</p>
+<p begin="22828138666t" end="22850828000t" region="region.after.center" style="style.default" xml:id="subtitle479">- Wyjaśnisz mi to?<br/>- Dzwonił przed chwilą.</p>
+<p begin="22866510333t" end="22882526333t" region="region.after.center" style="style.default" xml:id="subtitle480">Ach… rozumiem.</p>
+<p begin="22906216666t" end="22914558333t" region="region.after.center" style="style.default" xml:id="subtitle481">Tak.</p>
+<p begin="22929573333t" end="22941919000t" region="region.after.center" style="style.default" xml:id="subtitle482">A więc o to chodzi.</p>
+<p begin="22963941000t" end="22977287666t" region="region.after.center" style="style.default" xml:id="subtitle483">Rozumiem.</p>
+<p begin="23016326666t" end="23056700333t" region="region.after.center" style="style.default" xml:id="subtitle484">Takumi Kawagoe zmienił prawnika.<br/>Teraz reprezentuje go Koichiro Nogi.</p>
+<p begin="23080390666t" end="23101078000t" region="region.after.center" style="style.default" xml:id="subtitle485">Trudna sprawa.</p>
+<p begin="23101745333t" end="23139449666t" region="region.after.center" style="style.default" xml:id="subtitle486"><span style="style.default_1">Zmiana obrońcy to nic nadzwyczajnego.</span></p>
+<p begin="23144454666t" end="23168478666t" region="region.after.center" style="style.default" xml:id="subtitle487">Były prokurator wraca, by nas zniszczyć.</p>
+<p begin="23175151999t" end="23198842333t" region="region.after.center" style="style.default" xml:id="subtitle488"><span style="style.default_1">Co pan myśli o aresztowaniu?</span></p>
+<p begin="23204181000t" end="23242219000t" region="region.after.center" style="style.default" xml:id="subtitle489"><span style="style.default_1">Oskarżony to syn sekretarza generalnego<br/>Partii Liberalno-Demokratycznej,</span></p>
+<p begin="23242886333t" end="23257234000t" region="region.after.center" style="style.default" xml:id="subtitle490"><span style="style.default_1">więc wiadomo, że im zależy.</span></p>
+<p begin="23264241000t" end="23272582666t" region="region.after.center" style="style.default" xml:id="subtitle491"><span style="style.default_1">Niemniej jednak</span></p>
+<p begin="23280590666t" end="23308618666t" region="region.after.center" style="style.default" xml:id="subtitle492"><span style="style.default_1">to bardzo pochopny ruch ze strony policji.</span></p>
+<p begin="23309286000t" end="23332976333t" region="region.after.center" style="style.default" xml:id="subtitle493">Twierdzi pan, że aresztowanie było błędem?</p>
+<p begin="23340317000t" end="23360337000t" region="region.after.center" style="style.default" xml:id="subtitle494">Uważam, że było bezpodstawne.</p>
+<p begin="23361004333t" end="23409719666t" region="region.after.center" style="style.default" xml:id="subtitle495">Liczę, że w tych okolicznościach<br/>prokuratura nie wniesie oskarżenia.</p>
+<p begin="23410387000t" end="23424067333t" region="region.after.center" style="style.default" xml:id="subtitle496">Oskarżenie jest wykluczone.</p>
+<p begin="23429072333t" end="23441751666t" region="region.after.center" style="style.default" xml:id="subtitle497">Po prostu wykluczone.</p>
+<p begin="23442419000t" end="23469779666t" region="region.after.center" style="style.default" xml:id="subtitle498"><span style="style.default_1">Takumi Kawagoe nie ma<br/>nic wspólnego z tą sprawą?</span></p>
+<p begin="23470446999t" end="23480790666t" region="region.after.center" style="style.default" xml:id="subtitle499"><span style="style.default_1">Oczywiście, że nie.</span></p>
+<p begin="23485795666t" end="23508818666t" region="region.after.center" style="style.default" xml:id="subtitle500">Ten człowiek. To ojciec Masakiego.</p>
+<p begin="23509486000t" end="23518161333t" region="region.after.center" style="style.default" xml:id="subtitle501">Co?</p>
+<p begin="23532175333t" end="23552195333t" region="region.after.center" style="style.default" xml:id="subtitle502"><span style="style.default_1">Człowiek z telewizji</span></p>
+<p begin="23552862666t" end="23582559000t" region="region.after.center" style="style.default" xml:id="subtitle503"><span style="style.default_1"> to ojciec Masakiego,<br/>który odwiedził go po wypadku.</span></p>
+<p begin="23599576000t" end="23624267333t" region="region.after.center" style="style.default" xml:id="subtitle504"><span style="style.default_1">Czy pan Kawagoe często bywał w tym barze?</span></p>
+<p begin="23624934666t" end="23647290333t" region="region.after.center" style="style.default" xml:id="subtitle505"><span style="style.default_1">Bez komentarza.</span></p>
+<p begin="23647957666t" end="23659636000t" region="region.after.center" style="style.default" xml:id="subtitle506"><span style="style.default_1">Czy sekretarz generalny…</span></p>
+<p begin="23728705000t" end="23750727000t" region="region.after.center" style="style.default" xml:id="subtitle507"><span style="style.default_1">Ale to nie wszystko.</span></p>
+<p begin="23760069666t" end="23804781000t" region="region.after.center" style="style.default" xml:id="subtitle508"><span style="style.default_1">Miałam wrażenie,<br/>że już to gdzieś widziałam.</span></p>
+<p begin="23814791000t" end="23839482333t" region="region.after.center" style="style.default" xml:id="subtitle509"><span style="style.default_1">Prokuratura sfabrykowała tę sprawę.</span></p>
+<p begin="23840149666t" end="23862505333t" region="region.after.center" style="style.default" xml:id="subtitle510"><span style="style.default_1">Prokurator generalny wymusił zeznania.</span></p>
+<p begin="23863172666t" end="23871514333t" region="region.after.center" style="style.default" xml:id="subtitle511"><span style="style.default_1">To skandal.</span></p>
+<p begin="23889198666t" end="23903880000t" region="region.after.center" style="style.default" xml:id="subtitle512"><span style="style.default_1">Tliło się w mojej pamięci.</span></p>
+<p begin="23913556333t" end="23930239666t" region="region.after.center" style="style.default" xml:id="subtitle513"><span style="style.default_1">Tak blado, że ledwo to pamiętam.</span></p>
+<p begin="23946923000t" end="23969278666t" region="region.after.center" style="style.default" xml:id="subtitle514">- Jest!<br/>- To on!</p>
+<p begin="23969946000t" end="24013990000t" region="region.after.center" style="style.default" xml:id="subtitle515"><span style="style.default_1">Syn sekretarza generalnego PLD</span></p>
+<p begin="24014657333t" end="24056365666t" region="region.after.center" style="style.default" xml:id="subtitle516"><span style="style.default_1">Takumi Kawagoe został wypuszczony<br/>bez postawienia zarzutów,</span></p>
+<p begin="24057033000t" end="24076385666t" region="region.after.center" style="style.default" xml:id="subtitle517"><span style="style.default_1">a sprawę umorzono.</span></p>
+<p begin="24077053000t" end="24101077000t" region="region.before.center" style="style.default" xml:id="subtitle518">DODATKOWE DOKUMENTY</p>
+<p begin="24300276000t" end="24320963333t" region="region.after.center" style="style.default" xml:id="subtitle519">SĄD OKRĘGOWY W JOKOHAMIE</p>
+<p begin="24367343000t" end="24387363000t" region="region.after.center" style="style.default" xml:id="subtitle520">Dziękuję za pańską ciężką pracę.</p>
+<p begin="24388030333t" end="24400709666t" region="region.after.center" style="style.default" xml:id="subtitle521">Oczywiście.</p>
+<p begin="24401377000t" end="24424066333t" region="region.after.center" style="style.default" xml:id="subtitle522">- Do widzenia.<br/>- Do widzenia.</p>
+<p begin="24582891666t" end="24592568000t" region="region.after.center" style="style.default" xml:id="subtitle523">Chcę cię…</p>
+<p begin="24616925666t" end="24630939666t" region="region.after.center" style="style.default" xml:id="subtitle524">o coś zapytać.</p>
+<p begin="24651626999t" end="24663305333t" region="region.after.center" style="style.default" xml:id="subtitle525">A to niespodzianka.</p>
+<p begin="24679988666t" end="24690666000t" region="region.after.center" style="style.default" xml:id="subtitle526">Masz chwilę?</p>
+<p begin="24731707000t" end="24750726000t" region="region.after.center" style="style.default" xml:id="subtitle527">Dobrze. Chodź ze mną.</p>
+<p begin="24787095666t" end="24809451333t" region="region.after.center" style="style.default" xml:id="subtitle528">Ten pacjent, który wtedy uciekł?</p>
+<p begin="24815791000t" end="24848824000t" region="region.after.center" style="style.default" xml:id="subtitle529">Ten, którego przywieziono<br/>z urazami głowy i brzucha.</p>
+<p begin="24916892000t" end="24936912000t" region="region.after.center" style="style.default" xml:id="subtitle530">Nadal nie ma z nim kontaktu?</p>
+<p begin="24937579333t" end="24947255666t" region="region.after.center" style="style.default" xml:id="subtitle531">Nie.</p>
+<p begin="24947923000t" end="24979621333t" region="region.after.center" style="style.default" xml:id="subtitle532">Numer jego komórki nie odpowiada<br/>i nie ma stałego adresu.</p>
+<p begin="24985293666t" end="24997639333t" region="region.after.center" style="style.default" xml:id="subtitle533">Masaki Nogi…</p>
+<p begin="25005647333t" end="25025333666t" region="region.after.center" style="style.default" xml:id="subtitle534">Gdzie byłeś? Co robiłeś?</p>
+<p begin="25035343666t" end="25080055000t" region="region.after.center" style="style.default" xml:id="subtitle535">Pomyślałeś o tym,<br/>jak rodzina się o ciebie martwiła?</p>
+<p begin="25136444666t" end="25157132000t" region="region.after.center" style="style.default" xml:id="subtitle536">- Masaki.<br/>- Nie jestem dzieckiem.</p>
+<p begin="25165807333t" end="25182157000t" region="region.after.center" style="style.default" xml:id="subtitle537">Więc mnie tak nie traktuj.</p>
+<p begin="25204846333t" end="25217859333t" region="region.after.center" style="style.default" xml:id="subtitle538">Chciałem cię zapytać…</p>
+<p begin="25237879333t" end="25257565666t" region="region.after.center" style="style.default" xml:id="subtitle539">o byłego prokuratora okręgowego z Tokio,</p>
+<p begin="25267242000t" end="25281589666t" region="region.after.center" style="style.default" xml:id="subtitle540">Eisuke Tsujiego.</p>
+<p begin="25305280000t" end="25315957333t" region="region.after.center" style="style.default" xml:id="subtitle541">Dwadzieścia lat temu</p>
+<p begin="25316624666t" end="25339647666t" region="region.after.center" style="style.default" xml:id="subtitle542">popełnił samobójstwo<br/>tuż przed aresztowaniem</p>
+<p begin="25354662666t" end="25374349000t" region="region.after.center" style="style.default" xml:id="subtitle543">w związku z korupcją w sektorze OZE.</p>
+<p begin="25429070333t" end="25453094333t" region="region.after.center" style="style.default" xml:id="subtitle544">Nie wiem, co robisz,</p>
+<p begin="25462770666t" end="25492467000t" region="region.after.center" style="style.default" xml:id="subtitle545">ale naprawdę przyszedłeś tu<br/>rozmawiać o tym?</p>
+<p begin="25522830666t" end="25572880666t" region="region.after.center" style="style.default" xml:id="subtitle546">Znikasz na ponad dziesięć lat, a teraz to?</p>
+<p begin="25639280333t" end="25656964666t" region="region.after.center" style="style.default" xml:id="subtitle547">Nie mam ci nic do powiedzenia.</p>
+<p begin="25685660000t" end="25700675000t" region="region.after.center" style="style.default" xml:id="subtitle548">Czemu zawsze taki jesteś?</p>
+<p begin="25708683000t" end="25730705000t" region="region.after.center" style="style.default" xml:id="subtitle549">Wciąż mnie rozczarowujesz.</p>
+<p begin="25753060666t" end="25768743000t" region="region.after.center" style="style.default" xml:id="subtitle550">Jesteś w stanie sam się wyżywić?</p>
+<p begin="25781422333t" end="25805112666t" region="region.after.center" style="style.default" xml:id="subtitle551">- Zarabiasz na życie…<br/>- Nie zmieniaj tematu.</p>
+<p begin="25842483333t" end="25851158666t" region="region.after.center" style="style.default" xml:id="subtitle552">Chcę tylko</p>
+<p begin="25862169666t" end="25879520333t" region="region.after.center" style="style.default" xml:id="subtitle553">poznać prawdę.</p>
+<p begin="25895536333t" end="25911552333t" region="region.after.center" style="style.default" xml:id="subtitle554">Inaczej będę miał kłopoty.</p>
+<p begin="25939914000t" end="25949590333t" region="region.after.center" style="style.default" xml:id="subtitle555">Ktoś cię</p>
+<p begin="25961936000t" end="25975282666t" region="region.after.center" style="style.default" xml:id="subtitle556">szantażuje?</p>
+<p begin="26095069000t" end="26124098000t" region="region.after.center" style="style.default" xml:id="subtitle557">Nie zadawaj mi głupich pytań.</p>
+<p begin="26156463666t" end="26165139000t" region="region.before.center" style="style.default" xml:id="subtitle558">Czekaj.</p>
+<p begin="26197504666t" end="26215189000t" region="region.before.center" style="style.default" xml:id="subtitle559">Ojciec Kanade się nie zabił.</p>
+<p begin="26215856333t" end="26226867333t" region="region.before.center" style="style.default" xml:id="subtitle560">Został zamordowany.</p>
+<p begin="26232539666t" end="26240881333t" region="region.before.center" style="style.default" xml:id="subtitle561">Mówiłem „czekaj”.</p>
+<p begin="26245886333t" end="26271578666t" region="region.before.center" style="style.default" xml:id="subtitle562">Nie spotykaj się z Kanade!</p>
+<p begin="26292599666t" end="26306613666t" region="region.before.center" style="style.default" xml:id="subtitle563">Co to ma być?</p>
+<p begin="26307281000t" end="26325966333t" region="region.before.center" style="style.default" xml:id="subtitle564">- To jakiś obłęd!<br/>- Czemu mi nie wierzysz?</p>
+<p begin="26326633666t" end="26342316000t" region="region.before.center" style="style.default" xml:id="subtitle565">O co ci chodzi?</p>
+<p begin="26363003333t" end="26376683666t" region="region.before.center" style="style.default" xml:id="subtitle566">Puść mnie!</p>
+<p begin="26377351000t" end="26386026333t" region="region.before.center" style="style.default" xml:id="subtitle567">Kaori!</p>
+<p begin="26386693666t" end="26397037333t" region="region.before.center" style="style.default" xml:id="subtitle568">Ojciec Kanade był…</p>
+<p begin="26397704666t" end="26408048333t" region="region.before.center" style="style.default" xml:id="subtitle569">Nie mów tego!</p>
+<p begin="26408715666t" end="26428402000t" region="region.before.center" style="style.default" xml:id="subtitle570">Czy to nie ty go zabiłeś?</p>
+<p begin="26433407000t" end="26446086333t" region="region.before.center" style="style.default" xml:id="subtitle571">Zabiłeś Eisuke Tsujiego?</p>
+<p begin="26459433000t" end="26472779666t" region="region.before.center" style="style.default" xml:id="subtitle572">Powiedz coś!</p>
+<p begin="26492466000t" end="26512152333t" region="region.before.center" style="style.default" xml:id="subtitle573">To ty, prawda?</p>
+<p begin="26524498000t" end="26532839666t" region="region.before.center" style="style.default" xml:id="subtitle574">To dlatego</p>
+<p begin="26538845666t" end="26552526000t" region="region.before.center" style="style.default" xml:id="subtitle575">tamten wypadek…</p>
+<p begin="26574548000t" end="26582889666t" region="region.before.center" style="style.default" xml:id="subtitle576">I ja…</p>
+<p begin="26599573000t" end="26615255333t" region="region.before.center" style="style.default" xml:id="subtitle577">Kaori była…</p>
+<p begin="26802108666t" end="26830804000t" region="region.before.center" style="style.default" xml:id="subtitle578"><span style="style.default_1">Przeszłość, od której się odcięłam,</span></p>
+<p begin="26838478333t" end="26850824000t" region="region.before.center" style="style.default" xml:id="subtitle579"><span style="style.default_1">nagle do mnie wróciła.</span></p>
+<p begin="26885859000t" end="26922228666t" region="region.before.center" style="style.default" xml:id="subtitle580">Napisy: Agnieszka Żurek</p>
+<p begin="26922896000t" end="26936576333t" region="region.after.center" style="style.default" xml:id="subtitle581"><span style="style.default_1">Zabił mojego ojca?</span></p>
+<p begin="26937243666t" end="26958932000t" region="region.after.center" style="style.default" xml:id="subtitle582">Dlaczego twój ojciec nie walczył?</p>
+<p begin="26959599333t" end="26988294666t" region="region.after.center" style="style.default" xml:id="subtitle583">Co to ma wspólnego<br/>ze śmiercią Kaori Oikawy?</p>
+<p begin="26988962000t" end="27008648333t" region="region.after.center" style="style.default" xml:id="subtitle584">Czasem trzeba zamknąć drzwi<br/>do przeszłości.</p>
+<p begin="27009315666t" end="27022662333t" region="region.after.center" style="style.default" xml:id="subtitle585">Wyjdziesz za mnie?</p>
+<p begin="27023329666t" end="27044350666t" region="region.before.center" style="style.default" xml:id="subtitle586">- Nie zbliżaj się do Kanade.<br/>- Kanade!</p>
+<p begin="27045018000t" end="27072378666t" region="region.before.center" style="style.default" xml:id="subtitle587"><span style="style.default_1">Wiem, że nie mogę. Że nie powinnam, ale…</span></p>
+</div>
+</body>
+</tt>
