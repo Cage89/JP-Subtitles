@@ -1,0 +1,1421 @@
+﻿WEBVTT
+
+NOTE Netflix
+NOTE Profile: webvtt-lssdh-ios8
+NOTE Date: 2017/07/04 09:55:42
+
+NOTE SegmentIndex
+NOTE Segment=598.666 28443@284 189
+NOTE Segment=597.400 29296@28727 193
+NOTE Segment=242.834 11967@58023 80
+NOTE /SegmentIndex
+
+00:00:00.000 --> 00:00:02.500 line:20%
+This is fantastic.
+
+00:00:01.706 --> 00:00:02.639 line:20%
+(Muroya) Right?
+
+00:00:02.766 --> 00:00:04.933 line:20%
+（Yoshida） This is why I can't stop going to Otaru.
+
+00:00:05.200 --> 00:00:06.633 line:20%
+（Muroya）Wow!
+（Yoshida）Oh...
+
+00:00:06.733 --> 00:00:08.300 line:20%
+Ah, I knew it...
+
+00:00:08.533 --> 00:00:13.366 line:20%
+（Muroya）Bite into it and the meat juices of happiness
+coming gushing out!
+
+00:00:13.533 --> 00:00:15.366 line:20%
+（Yoshida）It's beautifully presented.
+
+00:00:15.466 --> 00:00:16.533 line:20%
+（Mr Tayama）Hahahaha
+
+00:00:18.500 --> 00:00:20.466 line:20%
+（Narrator）Facing Ishikari Bay
+
+00:00:20.566 --> 00:00:24.033 line:20%
+Otari, a town that has flourished as a port town since ancient times.
+
+00:00:24.866 --> 00:00:27.533 line:20%
+Lots of historical buildings.
+
+00:00:27.800 --> 00:00:30.933 line:20%
+Hokkaido's leading town of tourism.
+
+00:00:32.166 --> 00:00:35.766 line:20%
+Today we are touring the shops that Otaru locals frequent.
+
+00:00:35.900 --> 00:00:37.900 line:20%
+And our guide is...
+
+00:00:39.100 --> 00:00:41.533 line:20%
+Hello I am Kanako Muroya (HBC Announcer).
+
+00:00:41.933 --> 00:00:47.100 line:20%
+Today we're going to explore the town of Otaru at a leisurely pace.
+
+00:00:47.200 --> 00:00:50.200 line:20%
+Well then, I'll be touring with this gentleman.
+
+00:00:53.309 --> 00:00:58.289 line:20%
+（Yoshida, reciting a haiku）
+Standing and drinking, abandoning love on the canals of winter.
+
+00:00:59.133 --> 00:01:01.366 line:20%
+I am Rui Yoshida, hello, nice to meet you.
+
+00:01:01.964 --> 00:01:03.600 line:20%
+Nice to meet you.
+
+00:01:03.700 --> 00:01:05.900 line:20%
+（吉田）I, sort of strangely decided to, you know, in front of this canal...
+
+00:01:06.000 --> 00:01:07.166 line:20%
+Ah and in one hand you have...
+
+00:01:07.266 --> 00:01:10.033 line:20%
+Yes if I don't have this then the day doesn't start.
+
+00:01:19.243 --> 00:01:20.570
+Rui Yoshida
+
+00:01:21.600 --> 00:01:23.633 line:20%
+（ナレーター）Lover of alcohol and mountain climbing
+
+00:01:21.600 --> 00:01:26.417
+(Bottom text) Author of numerous books on drinking and travel, and a national figure as a representative of ‘bar culture’.
+
+00:01:23.733 --> 00:01:26.133 line:20%
+Continuing his travels all over Japan
+
+00:01:27.466 --> 00:01:32.800 line:20%
+Even so, Rui is especially drawn to the charms of Hokkaido.
+
+00:01:36.833 --> 00:01:37.833
+（Yoshida）hmm?
+
+00:01:38.133 --> 00:01:41.833
+（Reciting a haiku）
+
+00:01:44.100 --> 00:01:50.766
+（Narrator）His other face is that of the industry's foremost pub poet, who organises haiku enthusiasts' groups.
+
+00:01:53.833 --> 00:02:00.400
+So what encounters await us in the Hokkaido port town of Otaru?
+
+00:02:03.333 --> 00:02:08.333
+A tour of local delicacies frequented by Otaru locals.
+
+00:02:09.811 --> 00:02:15.357
+ Port Town Walks in Hokkaido with Rui Yoshida
+
+00:02:18.066 --> 00:02:24.134
+（Yoshida）Its not exactly
+the backstreets of Otaru but...
+
+00:02:24.158 --> 00:02:25.733
+（Muroya）Yeah this area is...
+
+00:02:25.866 --> 00:02:29.200
+Wait a minute, there's a noren curtain swaying over there...
+
+00:02:29.333 --> 00:02:30.115
+There's a food stall.
+
+00:02:30.139 --> 00:02:31.433
+（Muroya）Shall we go and have a look?
+
+00:02:31.533 --> 00:02:33.333
+I'm quite curious.
+
+00:02:33.466 --> 00:02:35.900
+（Yoshida）Ah its candy
+（Muroya）Candy?
+
+00:02:36.006 --> 00:02:39.439
+Ah it says "candy" in the sign.
+
+00:02:39.566 --> 00:02:41.933
+A candy stall…
+（Yoshida）That's the first time I've seen something like that.
+
+00:02:42.200 --> 00:02:43.800
+How nostalgic!
+
+00:02:43.900 --> 00:02:47.000
+（Narrator）Rui was drawn in by the swaying noren curtains
+
+00:02:47.166 --> 00:02:50.200
+ but it's not a pub but rather a candy stall.
+
+00:02:50.300 --> 00:02:52.033
+（Muroya）Ah there is a shop inside...
+
+00:02:52.133 --> 00:02:54.833
+Ah hello!
+（Mrs Ametani）I am a candy seller.
+
+00:02:54.933 --> 00:02:56.500
+（Muroya）Candy seller？
+（Mrs Ametani）Please go ahead, ye
+
+00:02:56.666 --> 00:02:58.900
+It is the candy we make ourselves.
+
+00:02:59.033 --> 00:03:00.666
+（Yoshida）So this is a manufacturing company?
+
+00:03:00.766 --> 00:03:03.333
+(Mrs Ametani) That is correct, this is a factory.
+
+00:03:03.433 --> 00:03:06.933
+We are the seventh generation.
+（Muroya）Wow seventh generation!
+
+00:03:07.016 --> 00:03:11.003 line:20%
+(TN) Ameya or Ametani, literally candy valley, but here pronounced like "candy seller"
+
+00:03:07.066 --> 00:03:11.000
+It says “飴谷”...
+Your surname is Ameya?
+
+00:03:11.100 --> 00:03:14.533 line:20%
+Yes our last name is Ametani
+
+00:03:14.633 --> 00:03:16.000 line:20%
+（Muroya）Mrs Ametani？
+（Mrs Ametani）Yes
+
+00:03:16.133 --> 00:03:18.833
+（Yoshida）Ametani!
+That's a rare name!
+
+00:03:18.933 --> 00:03:20.400
+（Muroya）Right.
+
+00:03:20.500 --> 00:03:23.066
+（Yoshida）It's almost as if you were born to be a candy seller.
+
+00:03:23.166 --> 00:03:25.633
+（Mrs Ametani）Indeed.
+
+00:03:25.766 --> 00:03:27.300
+（Muroya）Rui are you having any?
+
+00:03:28.542 --> 00:03:31.209
+（Mrs Ametani）These are our cute and pretty apple candies
+
+00:03:31.308 --> 00:03:32.676
+（Muroya）Rui, I am from Aomori.
+
+00:03:32.701 --> 00:03:35.368
+（Yoshida）Really?!
+（Muroya）Yeah Aomori!
+
+00:03:37.222 --> 00:03:40.858 line:20%
+Ah this sweetness...
+
+00:03:40.883 --> 00:03:43.283 line:20%
+Its super nostalgic.
+
+00:03:44.161 --> 00:03:45.494 line:20%
+（Muroya）mmm
+
+00:03:45.519 --> 00:03:47.686 line:20%
+（Yoshida）Ah but Aomori the home of apples
+
+00:03:47.908 --> 00:03:50.306 line:20%
+Its a gentle sweetness
+
+00:03:50.340 --> 00:03:51.939
+Delicous (said in Aomori/Tsugaru dialect)
+
+00:03:51.964 --> 00:03:53.519 line:20%
+（Yoshida）How do you say candy in Tsugaru dialect?
+
+00:03:53.632 --> 00:03:55.302 line:20%
+Amekko (lit. little candy)
+(Yoshida) Amekko
+
+00:03:55.396 --> 00:03:58.510
+(Saying the candy is delicious in Aomori dialect)
+
+00:03:59.610 --> 00:04:01.890
+The flagship store of the candy seller Rokubei
+
+00:04:02.188 --> 00:04:04.388 line:20%
+（Narrator）Founded in year 7 of the Taishou era (1918).
+
+00:04:04.675 --> 00:04:08.608 line:20%
+But the company's history goes all the way back to the Edo period.
+
+00:04:09.908 --> 00:04:14.108
+These days you rarely see it, that is, authentic handmade candy.
+
+00:04:15.588 --> 00:04:18.821
+Hokkaido beet sugar and Otaru water.
+
+00:04:19.435 --> 00:04:23.568
+Made with simple ingredients there are around 50 kinds of candy.
+
+00:04:23.775 --> 00:04:28.408
+Both the ingredients and production method haven't changed since back in the day.
+
+00:04:31.008 --> 00:04:34.108
+（Yoshida･Muroya）Hello!
+（Mrs Ametani）I am a candy seller.
+
+00:04:34.868 --> 00:04:39.202
+（Woman）It's a nostalgic feeling, sweet but not too sweet.
+
+00:04:39.227 --> 00:04:41.794
+But it tastes kind of comforting.
+
+00:04:42.275 --> 00:04:47.108 line:20%
+（Narrator）
+The candy with the conforting flavour is the Yukitan (snow coal) candy.
+
+00:04:48.089 --> 00:04:55.359 line:20%
+Snow piling on top of coal in candy form, it is the taste of Hokkaido in winter.
+
+00:04:56.128 --> 00:05:02.689
+（Muroya） So, Rui, there's a shop around here that's got the perfect snacks for drinks.
+
+00:05:02.714 --> 00:05:07.787
+This is this place that is already famous in Otaru, Kamaei, selling Kamaboko fish cakes.
+
+00:05:07.812 --> 00:05:09.812
+（Yoshida）Yes I can see it from the sign already, Kamaei.
+
+00:05:09.837 --> 00:05:12.237
+（Muroya）It's a shop with history...
+
+00:05:14.795 --> 00:05:19.128 line:20%
+（Narrator）
+Otaru City Hanazono district, gives off a downtown atmosphere.
+
+00:05:19.827 --> 00:05:24.219 line:20%
+In the corner, Kamaei, a shop selling kamaboko.
+
+00:05:25.457 --> 00:05:27.104 line:20%
+A famous shop even among famous shops,
+
+00:05:27.129 --> 00:05:29.662 line:20%
+secret gourmet menus are found on the menu!
+
+00:05:30.148 --> 00:05:33.282
+（Muroya）This is the bread roll you're famous for, isn't it?
+
+00:05:33.522 --> 00:05:38.623
+（Shop assistant）Inside the surimi, there's minced meat, onions and pepper,
+
+00:05:38.648 --> 00:05:41.015
+（Shop assistant）It's rolled up in a thin slice of bread and deep-fried.
+
+00:05:42.982 --> 00:05:43.949
+Mmm!
+
+00:05:44.815 --> 00:05:46.508
+I'm sorry I suddently feel like drinking wine.
+
+00:05:46.533 --> 00:05:48.333
+Aah wine is it?
+
+00:05:49.134 --> 00:05:53.267
+（Narrator）Kamaei kamaboko fish cakes made from fish from nearby waters.
+
+00:05:54.175 --> 00:05:58.575
+The same deliciousness unchanged since the founding in 1905.
+
+00:05:59.262 --> 00:06:01.728 line:20%
+The bread roll that even surprises Rui.
+
+00:06:02.068 --> 00:06:08.648 line:20%
+In 1962, the company head wanted to eat kamaboko in snack form...
+
+00:06:08.673 --> 00:06:11.206 line:20%
+... and from that idea this food item came into being.
+
+00:06:11.231 --> 00:06:17.189
+As local delivery is not possible, many fans come to the shop in search of the freshly fried food.
+
+00:06:19.041 --> 00:06:21.808
+(Woman) Bread roll.
+（Yoshida）Oh, I knew it. The bread roll.
+
+00:06:21.935 --> 00:06:25.368
+So you are going with the bread roll?
+（Woman）Ah yes the bread roll.
+
+00:06:26.654 --> 00:06:28.287 line:20%
+（Narrator）
+Apart from the bread roll
+
+00:06:28.312 --> 00:06:33.170 line:20%
+the mayo sandwich where mayonnaise and hot peppers are
+the key ingredients is also popular.
+
+00:06:33.888 --> 00:06:39.280 line:20%
+These fried fish cakes are a regular side dish for the locals.
+
+00:06:40.441 --> 00:06:42.908
+Miso nanban?
+（Yoshida）Huh?
+
+00:06:42.933 --> 00:06:46.400
+“Pungently spicy, scallions” also “with chili”
+
+00:06:46.642 --> 00:06:50.742
+This, also, would go well with a drink.
+（Yoshida）Aah I want to go for it.
+
+00:06:50.767 --> 00:06:57.292
+It's obvious that you feel like drinking after these snacks.
+
+00:06:57.535 --> 00:07:00.793 line:20%
+（Yoshida） I'd like to taste a bit of the miso flavour.
+
+00:07:04.135 --> 00:07:06.220 line:20%
+Ah slightly sweet...
+
+00:07:06.245 --> 00:07:09.212 line:20%
+I want to pair this with dry sake.
+
+00:07:09.237 --> 00:07:13.970
+This, the taste of the miso paste, the aroma spreads in the mouth so much.
+
+00:07:14.747 --> 00:07:18.008
+Yes, the taste of the miso too, but...
+
+00:07:18.033 --> 00:07:20.058
+also the spiciness of the chili...
+
+00:07:20.083 --> 00:07:23.362
+（吉田）Uhm...sorry can you also do my "Wandering Pub Diary" show for me as well?
+
+00:07:24.455 --> 00:07:34.333
+(Narrator) After Otaru's famous fish cakes, is it time to get some of you know what Rui?
+
+00:07:34.564 --> 00:07:37.231
+（Yoshida）This place is pretty spacious, isn't it?
+
+00:07:37.856 --> 00:07:39.622
+What?
+There's some kind of food stall village over there.
+
+00:07:41.088 --> 00:07:43.488
+（Yoshida）Now this is...
+（Muroya）How nice!
+
+00:07:43.513 --> 00:07:45.917
+（Yoshida）This...we have to drink now, don't we?
+
+00:07:45.981 --> 00:07:49.181 line:50%
+（Muroya）
+Ah Rui, I was wondering when you would say that.
+
+00:07:49.206 --> 00:07:50.306
+We found it.
+
+00:07:50.331 --> 00:07:53.137
+（Yoshida）This is "Brick Valley" isn't it.
+
+00:07:53.162 --> 00:07:55.272
+（Muroya）Let's go and have a look.
+
+00:07:55.297 --> 00:07:58.023
+（Yoshida）There are a lot here...
+
+00:07:58.048 --> 00:07:59.982 line:20%
+（Narrator）
+The sun is starting to set...
+
+00:08:00.007 --> 00:08:02.774 line:20%
+Now to the real food stalls.
+
+00:08:05.235 --> 00:08:06.502 line:20%
+（Mr Arasawa）
+Buona sera!
+
+00:08:06.527 --> 00:08:10.410
+‘Buona sera’, this vibe, is suddenly a great vibe, isn't it?
+
+00:08:10.435 --> 00:08:12.102 line:20%
+(Narrator) Italian food stall.
+
+00:08:12.127 --> 00:08:14.593 line:20%
+〝Kafe Dainingu RengaW〞
+
+00:08:15.575 --> 00:08:18.341 line:20%
+First up, a sparkling toast.
+
+00:08:19.547 --> 00:08:21.547
+（Mr Arasawa）Here you go
+（Yoshida）Oooh...
+
+00:08:22.002 --> 00:08:25.002
+Now this is… Let's cheers.
+（Mr Arasawa）Yes, by all means.
+
+00:08:25.342 --> 00:08:26.675
+Cheers!
+（Muroya）Cheers.
+
+00:08:26.700 --> 00:08:28.667
+Alright, alright cheers.
+
+00:08:28.692 --> 00:08:30.192
+Ahh hello, hello, hello
+
+00:08:30.217 --> 00:08:33.583
+Sorry for butting in.
+（Muroya）Hello
+
+00:08:33.608 --> 00:08:37.408
+（Narrator）At the bar, greeting local regulars.
+
+00:08:37.848 --> 00:08:40.515
+This is Rui Yoshida's toast.
+
+00:08:44.108 --> 00:08:44.977
+Delicious, isn't it?
+
+00:08:45.362 --> 00:08:47.776
+It's nice, isn't it? It's so refreshing.
+
+00:08:47.801 --> 00:08:49.901
+（Mr Arasawa) This is a white whelk from Yoichi.
+
+00:08:50.028 --> 00:08:53.662
+Steamed in white wine, whirling them out and eat them.
+
+00:08:55.668 --> 00:09:02.305 line:20%
+（Yoshida） Still some firmness left… and washing down with refreshing sparkling…
+
+00:09:02.330 --> 00:09:04.762
+it's the best isn't it?
+
+00:09:05.282 --> 00:09:08.782
+(Narrator) The snacks start at 200 yen per plate.
+
+00:09:08.807 --> 00:09:10.973
+Pleasantly priced Italian food.
+
+00:09:12.115 --> 00:09:17.740
+The owner mixes Otaru ingredients with his own taste from his travels in Italy.
+
+00:09:18.629 --> 00:09:20.929
+Here are intense flavours.
+
+00:09:22.129 --> 00:09:24.996
+（Muroya） What is this black stuff?
+
+00:09:25.021 --> 00:09:28.621
+（Mr Arasawa）This is garlic from Akaigawa but,
+
+00:09:28.902 --> 00:09:33.735
+We keep them in a rice cooker on the "keep warm" setting.
+
+00:09:33.760 --> 00:09:35.260
+..for 20 hours
+（Muroya）What?!
+
+00:09:35.848 --> 00:09:38.215
+And then they become like this
+
+00:09:38.288 --> 00:09:39.479
+（Yoshida）Ah this is dried up.
+
+00:09:39.504 --> 00:09:41.371
+（Muroya）Ah but the inside is a bit soft.
+
+00:09:41.396 --> 00:09:42.962
+You need a bit of courage to eat it.
+
+00:09:42.987 --> 00:09:46.155
+（Yoshida）Ah this is sweet isn't it?
+
+00:09:46.179 --> 00:09:46.717
+（Mr Arasawa）Yes it's sweet
+
+00:09:46.742 --> 00:09:48.975
+It smells a bit of pistacchio
+
+00:09:49.360 --> 00:09:50.360
+（Yoshida）Yeah!
+
+00:09:51.393 --> 00:09:55.379
+It's the first time I try this.
+
+00:09:55.404 --> 00:09:56.671
+（Mr Arasawa）Ah is that so?
+
+00:09:56.982 --> 00:10:00.449 line:20%
+（Narrator）Black garlic from Akaigawa
+
+00:10:01.061 --> 00:10:05.128 line:20%
+Slowly matured in a rice cooker for 20 hours.
+
+00:10:05.195 --> 00:10:07.395 line:20%
+A dish that brings out the umami.
+
+00:10:08.795 --> 00:10:11.361
+（Yoshida）You're a bit of a connoisseur, aren't you?
+
+00:10:11.386 --> 00:10:16.477 line:20%
+The more I go to Italy, the more I like this kind of thing.
+
+00:10:16.502 --> 00:10:18.169 line:20%
+This sort of style.
+
+00:10:18.735 --> 00:10:22.302
+That thing over there is a bit different from the counter, isn't it?
+
+00:10:23.542 --> 00:10:25.779
+（Muroya）They are waving at us.
+
+00:10:25.804 --> 00:10:28.009
+Good evening, what's that over there?
+
+00:10:28.034 --> 00:10:31.467
+That counter, what are you selling?
+
+00:10:31.492 --> 00:10:34.592
+（Mr Sanada）This is sort of a sushi place.
+（Muroya）A sushi place!
+
+00:10:35.661 --> 00:10:39.127
+（Narrator）A sushi counter inside an Italian restaurant?
+
+00:10:39.555 --> 00:10:42.680 line:20%
+The keyword you can't miss when talking about Otaru is ‘sushi’.
+
+00:10:43.095 --> 00:10:45.195 line:20%
+Umm... I'm curious!
+
+00:10:57.135 --> 00:11:01.969 line:20%
+（Narrator）
+‘Good people, good taste.
+good drunkenness.
+
+00:11:01.994 --> 00:11:05.794
+Rui Yoshida, a pub poet who travels all over Japan.
+
+00:11:05.995 --> 00:11:08.228
+Port Town Tour of Otaru
+
+00:11:09.428 --> 00:11:13.361
+Rengayokocho (Brick Alley) Italian restaurant with an unexpected discovery.
+
+00:11:14.314 --> 00:11:16.548
+（Muroya）Good evening, what's that over there?
+
+00:11:17.709 --> 00:11:21.042
+That counter, what are you selling?
+
+00:11:21.875 --> 00:11:24.435
+（Mr Sanada）This is sort of a sushi place.
+（Muroya）A sushi place!
+
+00:11:24.460 --> 00:11:29.719
+(Narrator) Wow what a surprise - beyond the counter of the Italian bar - is a sushi restaurant!
+
+00:11:31.614 --> 00:11:33.081
+（Yoshida）You can also eat there?
+
+00:11:33.106 --> 00:11:35.839
+That's right, but the business is completely separate.
+
+00:11:36.088 --> 00:11:37.988
+May I take something from there?
+（Mr Arasawa）By all means.
+
+00:11:38.013 --> 00:11:39.979
+I would like some sushi!
+（Mr Sanada）Sushi yes!
+
+00:11:40.102 --> 00:11:41.168
+Ehm is 6 pieces alright?
+
+00:11:41.193 --> 00:11:42.869
+（Yoshida）6 pieces please
+（Mr Sanada）Understood
+
+00:11:43.188 --> 00:11:50.953 line:20%
+ (TN) Untranslatable joke, "sixth sense" and "the sixth piece (of sushi)" is pronounced the same in Japanese
+
+00:11:43.188 --> 00:11:44.988
+Somehow, with my sixth sense...
+
+00:11:45.013 --> 00:11:48.146
+
+（Men in the back, laughing）“Sixth sense”
+
+00:11:48.171 --> 00:11:50.638
+There it is, the old man joke.
+
+00:11:51.052 --> 00:11:54.208
+(Narrator) Ruis engine is already running at full throttle!
+
+00:11:56.302 --> 00:11:58.868 line:20%
+Authentic artisanal standing sushi.
+
+00:11:58.893 --> 00:12:00.727 line:20%
+Sushi restaurant ‘ 高大 (Kodai)’.
+
+00:12:01.548 --> 00:12:06.042
+While the sushi is being made, Rui adds some white wine.
+
+00:12:07.982 --> 00:12:11.973
+Still, I was surprised to find such a fun place to eat, you know.
+
+00:12:12.108 --> 00:12:14.108
+(Muroya) We're very close to the other customers.
+
+00:12:14.133 --> 00:12:17.333
+（Mr Arasawa）That's right.
+They gradually mingle like this.
+
+00:12:20.768 --> 00:12:23.068
+（Muroya）Ah! Rui, the sushi...
+
+00:12:23.195 --> 00:12:26.295
+（Mr Sanada）Sushi
+（Yoshida）This is amazing
+
+00:12:26.320 --> 00:12:29.487
+（Muroya）Otaru is famous for sushi, isn't it?
+
+00:12:29.648 --> 00:12:31.815
+I think I'll get on the bandwagon and have a glass of white wine.
+
+00:12:31.840 --> 00:12:34.840
+White wine, yes! White, please.
+（Mr Arasawa）Understood!
+
+00:12:35.354 --> 00:12:39.354
+（Yoshida）Hehe, this is an interesting combination.
+
+00:12:42.354 --> 00:12:46.021
+(Narrator) The sushi that makes you want to add a glass of white wine.
+
+00:12:46.408 --> 00:12:51.895 line:20%
+Delicious nigiri with a focus on fish from the waters around Otaru is lined up.
+
+00:12:52.035 --> 00:12:54.635 line:20%
+This is six pieces for 1,000 yen.
+
+00:12:56.882 --> 00:12:59.182
+（Muroya） I think I'll have the salmon roe, then.
+
+00:13:02.329 --> 00:13:04.362
+Mmm!
+
+00:13:06.929 --> 00:13:09.229
+Delicious with a pop.
+
+00:13:09.562 --> 00:13:12.895
+Rui-san, I've never had sake and wine together before.
+
+00:13:13.128 --> 00:13:15.828
+No, no, no, it's, um, sushi and wine isn't it?
+
+00:13:15.853 --> 00:13:17.320
+Ahh haha...
+
+00:13:17.915 --> 00:13:20.281
+What did I just say?
+（Yoshida）Sake and wine.
+
+00:13:20.429 --> 00:13:21.629
+（Muroya）Excuse me.
+
+00:13:22.714 --> 00:13:26.514
+I'm getting a bit drunk.
+
+00:13:26.553 --> 00:13:29.020
+I'm having fun.
+
+00:13:29.275 --> 00:13:32.501
+（Yoshida）With this kind of vibe... I can't turn back now.
+（Mr Sanada）You can't turn back now?
+
+00:13:32.526 --> 00:13:35.159
+Can I order a few more?
+
+00:13:35.668 --> 00:13:36.335
+Yes
+
+00:13:37.542 --> 00:13:40.275
+(Applause)
+(Sanada) Thank you very much.
+
+00:13:41.434 --> 00:13:42.901
+（Woman）Rui!
+
+00:13:43.702 --> 00:13:45.335
+（Man）Rui!
+
+00:13:45.675 --> 00:13:49.320
+Just... just for a minute, let's go toast over there.
+
+00:13:49.345 --> 00:13:50.120
+(Muroya) Yeah, right.
+
+00:13:50.145 --> 00:13:52.712
+（Yoshida）Oh, here... here, it's a different atmosphere.
+
+00:13:52.935 --> 00:13:55.268
+（Mr Sanada）Welcome!
+（Yoshida）This is nice isn't it?
+
+00:13:55.528 --> 00:13:56.195
+Cheers!
+
+00:13:56.268 --> 00:13:57.968
+Oh, thank you, thank you, thank you...
+It's great, isn't it?
+
+00:13:57.993 --> 00:13:59.493
+What are you drinking?
+
+00:14:00.081 --> 00:14:02.548
+（Man）Potato spirits on the rock …
+(Mr Sanada) Potato on the rocks there it is!
+
+00:14:02.573 --> 00:14:03.806
+（Muroya）Potato on the rocks, very nice!
+
+00:14:03.831 --> 00:14:06.176
+It's alright its only the sixth cup
+（Mr Sanada）“Only” hahaha...
+
+00:14:06.528 --> 00:14:09.361
+（Yoshida）Nice mood.
+（Muroya）Right? Fun.
+
+00:14:09.455 --> 00:14:14.180
+（Mr Arasawa）It's... but, you know, when you do it every night, you can't stop.
+It's... it's fun.
+
+00:14:14.261 --> 00:14:17.428
+(Muroya) Chef!
+What is your recommendation?
+
+00:14:17.768 --> 00:14:19.868
+It's already ready.
+（Muroya）Thank you!
+
+00:14:20.022 --> 00:14:21.855
+No, no, no.
+Wait, wait, wait, wait.
+
+00:14:21.880 --> 00:14:23.313 line:20%
+Abashiri caught broadbanded thornyhead (kinki).
+
+00:14:23.338 --> 00:14:25.271 line:20%
+And fresh herring from Abashiri.
+
+00:14:25.461 --> 00:14:26.195 line:20%
+and then spear squid
+
+00:14:26.248 --> 00:14:28.448
+This is art isn't it
+（Mr Sanada）Art? Ahaha...
+
+00:14:28.473 --> 00:14:30.573
+Beautiful!
+(Mr Sanada) You may say so...
+
+00:14:32.098 --> 00:14:34.675
+（Narrator）Truly sushi art!
+
+00:14:35.595 --> 00:14:38.895
+The head chefs seasonal 3 nigiri recommendations.
+
+00:14:39.114 --> 00:14:41.181
+Stunning workmanship.
+
+00:14:48.574 --> 00:14:51.641
+You know, when it comes to this...
+
+00:14:53.048 --> 00:14:56.048
+It's OK without any comments, you know?
+
+00:14:56.255 --> 00:14:58.122
+（Muroya）Abashiri herring
+
+00:15:01.408 --> 00:15:03.875
+Umm delicious!
+
+00:15:04.636 --> 00:15:07.336
+Chef! Dewishush!
+（Mr Sanada）“Dewishush”
+
+00:15:07.482 --> 00:15:08.582
+（Muroya）Delicious (in Aomori dialect)!
+
+00:15:08.607 --> 00:15:11.107
+（Yoshida）
+“Delicious”  (in Aomori dialect)
+
+00:15:11.132 --> 00:15:13.832
+that means "This is a rare delicacy."
+
+00:15:13.857 --> 00:15:15.723
+This is Aomori dialect.
+
+00:15:15.748 --> 00:15:19.089
+（Muroya）It's incredibly fatty and delicious.
+
+00:15:19.382 --> 00:15:21.082
+This is... Otaru... you know...
+
+00:15:21.295 --> 00:15:23.128
+（Mr Arasawa）Spear squid
+（Yoshida）Yes
+
+00:15:24.415 --> 00:15:28.448
+This is also delicious (Aomori dialect)
+（Muroya）Delicious！ (Aomori dialect)
+
+00:15:29.527 --> 00:15:32.094
+(Narrator) The last dish is Otaru's spear squid.
+
+00:15:32.642 --> 00:15:36.376
+Taste of the Sea of Japan with its natural sweetness.
+
+00:15:38.296 --> 00:15:41.662
+Here, against the pub poet Rui.
+
+00:15:41.687 --> 00:15:45.521
+Kanako Muroya suddenly has a haiku.
+
+00:15:46.511 --> 00:15:52.721
+Gentle breeze
+Pororin Kararin
+Otaru candy/rain (same pronounciation)
+
+00:15:53.590 --> 00:15:54.741 line:20%
+（Customers）ｈｍｍｍ...
+
+00:15:54.766 --> 00:15:57.164 line:20%
+No no, this is... quite pleasing to the ear.
+
+00:15:57.189 --> 00:16:00.657
+（Yoshida）Um...
+We went to eat Otaru candy.
+
+00:16:00.682 --> 00:16:02.663
+（Muroya）We did.
+（Yoshida）There's a food stall.
+
+00:16:02.688 --> 00:16:04.821
+（Mr Arasawa）It was raining in the morning.
+
+00:16:04.846 --> 00:16:08.179
+（Muroya）Yes, that's right!
+（Yoshida）Ah, you understood very well.
+
+00:16:08.204 --> 00:16:11.304
+It's a play on the words ‘candy’ and ‘rain’...
+You know what I mean!
+
+00:16:11.329 --> 00:16:15.295
+I love it.
+（Laughter）
+
+00:16:15.320 --> 00:16:19.923
+This is a problem, isn't it?
+（Muroya）It's getting fun...
+
+00:16:19.948 --> 00:16:22.115
+(Narrator) When the lanterns are lit.
+
+00:16:22.729 --> 00:16:26.195
+The town of Otaru is tinged with laughter.
+
+00:16:26.697 --> 00:16:28.663
+(Customers) Cheers!
+
+00:16:28.688 --> 00:16:32.954
+(Narrator) Next is a Western-style pub where Otaru locals gather.
+
+00:16:33.561 --> 00:16:38.494
+Kanako Muroya is smitten with bacon on a scale she's never seen before!
+
+00:16:39.647 --> 00:16:41.514 line:20%
+(Something in Aomori dialect)
+
+00:16:41.539 --> 00:16:43.906 line:20%
+I'll translate it for you now...
+
+00:16:46.789 --> 00:16:48.989
+（Yoshida）Well, that was some fun, that standing bar.
+
+00:16:49.014 --> 00:16:51.147
+It was!
+（Yoshida）I mean...
+
+00:16:51.172 --> 00:16:55.206
+I feel like I want to spread that sort of thing across the country already.
+
+00:16:55.231 --> 00:16:57.297
+It's still early.
+（Muroya）Yes.
+
+00:16:58.348 --> 00:17:00.048
+Here!
+（Yoshida）Here also, still...
+
+00:17:00.073 --> 00:17:04.006
+Look at this place, too, how different it looks.
+
+00:17:04.031 --> 00:17:06.031
+It's “Ponkasu” right?
+（Muroya）It's not “Ponkasu”
+
+00:17:06.056 --> 00:17:07.522
+It's “Sukanpo”
+（Yoshida）Ah “Sukanpo”
+
+00:17:07.547 --> 00:17:09.581
+It's reverse
+（Yoshida）Ah I see.
+
+00:17:10.239 --> 00:17:12.705 line:20%
+（Narrator）〝Relaxation pub Sukanpo〞
+
+00:17:13.568 --> 00:17:16.568 line:20%
+Western-style pub where Otaru locals gather.
+
+00:17:18.528 --> 00:17:20.128
+（Yoshida）Excuse me for a moment, do you mind if I jump in next to you?
+
+00:17:20.153 --> 00:17:21.153
+（Man）Not at all.
+（Yoshida）Sorry.
+
+00:17:21.178 --> 00:17:22.645
+（Muroya）Excuse me.
+
+00:17:24.428 --> 00:17:25.461
+（Mr Tayama）Thrice poured...
+
+00:17:25.486 --> 00:17:27.686
+（Yoshida）Huh？ This, thrice poured, what is that?
+
+00:17:27.711 --> 00:17:28.778
+（Muroya）Thrice poured?
+
+00:17:29.028 --> 00:17:30.495
+（Mr Tayama）It will take a bit of time
+
+00:17:30.520 --> 00:17:31.420
+（Muroya）How long?
+
+00:17:31.445 --> 00:17:33.245
+(Mr Tayama)
+It will take 5 min.
+
+00:17:33.389 --> 00:17:37.122
+(Narrator) Three times poured beer that takes five minutes to complete.
+
+00:17:38.221 --> 00:17:41.388
+Even a pub connoisseurs like Rui has never heard of this menu.
+
+00:17:41.542 --> 00:17:44.308
+What on earth is it?
+
+00:17:45.155 --> 00:17:48.822
+He just drew it a bit like this and then left it...
+
+00:17:49.542 --> 00:17:51.575
+Is that the first pour?
+
+00:17:52.148 --> 00:17:54.381
+Yes that's the first pour...
+
+00:17:55.375 --> 00:17:57.508
+(Narrator) First there's the first pour.
+
+00:17:59.381 --> 00:18:04.081
+It's going to take a while, so Rui's party ordered some other beers.
+
+00:18:04.495 --> 00:18:06.262
+Here, too, it's also...
+
+00:18:08.301 --> 00:18:10.735
+（Yoshida）May I?
+Excuse me. Thank you very much.
+
+00:18:10.760 --> 00:18:13.526
+（Customers）Cheers！
+
+00:18:14.543 --> 00:18:15.910
+（Yoshida）Hello
+
+00:18:15.995 --> 00:18:19.428
+（Muroya）Just now, it's the second pour.
+It takes time...
+
+00:18:19.453 --> 00:18:21.886
+（Yoshida）This will probably take until tomorrow.
+
+00:18:23.768 --> 00:18:26.068
+(Narrator) It's five minutes, five minutes.
+
+00:18:27.115 --> 00:18:29.048
+(Yoshida) There are things like bacon steaks
+
+00:18:29.080 --> 00:18:31.780
+（Mr Tayama）It's from a place called Akaigawa Village, and they use Kurobuta pork...
+
+00:18:31.805 --> 00:18:33.839
+It's aged bacon, but ...
+
+00:18:34.221 --> 00:18:35.987
+Can I go to the bathroom first?
+
+00:18:36.012 --> 00:18:39.079
+Haha... bathroom? Please, by all means...
+
+00:18:39.104 --> 00:18:41.004
+I don't think it's done yet.
+
+00:18:41.029 --> 00:18:44.052
+It's not good for you to hold it in, you know, so please, go ahead...
+
+00:18:44.187 --> 00:18:45.954
+Has the third pour happened yet?
+（Mr Tayama）It's done!
+
+00:18:45.986 --> 00:18:48.853
+（Muroya）Is it done? Oh, I see!
+
+00:18:49.307 --> 00:18:51.774
+Then let's just say it's not done yet.
+
+00:18:51.902 --> 00:18:54.168
+No, it's a drink that doesn't work like that.
+
+00:18:54.193 --> 00:18:57.260
+（Muroya）Rui's gone to the bathroom. What should I do...
+
+00:18:57.285 --> 00:19:02.434
+This! This is the rumoured three-times-poured beer.
+
+00:19:02.509 --> 00:19:04.909
+I think I'll have a drink. Sorry about that, Rui.
+
+00:19:12.188 --> 00:19:15.455
+Aah! It different isn't it?
+（Mr Tayama）Yes
+
+00:19:16.028 --> 00:19:18.861
+Um... mellow...
+（Mr Tayama）Yes, that is right.
+
+00:19:18.886 --> 00:19:22.153
+Delicious bubbles that go right into your mouth!
+
+00:19:22.775 --> 00:19:25.208
+Rui quickly! Isn't he done yet?
+
+00:19:25.233 --> 00:19:26.833
+The bubbles are disappearing...
+
+00:19:28.369 --> 00:19:31.169 line:20%
+（Narrator）
+First pour… second pour…
+
+00:19:31.333 --> 00:19:32.800 line:20%
+Third pour
+
+00:19:33.849 --> 00:19:36.149 line:20%
+The beer that takes time to finish is...
+
+00:19:36.382 --> 00:19:38.282 line:20%
+Moderately decarbonated.
+
+00:19:38.307 --> 00:19:40.774 line:20%
+enhancing the taste of the beer.
+
+00:19:41.308 --> 00:19:46.475
+A gem of a drink, even if you have to wait a long time for it.
+
+00:19:49.049 --> 00:19:52.315
+Oh, Rui, I'm sorry I drank before you.
+
+00:19:52.635 --> 00:19:54.835
+This is the three times poured?
+（Muroya）This is it
+
+00:19:54.861 --> 00:19:56.561
+Once again...
+（Yoshida）Well then...
+
+00:19:56.586 --> 00:19:57.753
+（Yoshida･Muroya）Cheers!
+
+00:20:00.955 --> 00:20:03.088
+Wow, it's super creamy!
+
+00:20:03.113 --> 00:20:06.780
+Isn't this like a beer that's meant to be drunk for this foam? This ...
+
+00:20:06.935 --> 00:20:09.302
+（Muroya）Ah… wow!！
+（Yoshida）Oh...
+
+00:20:09.514 --> 00:20:11.114
+Ah, I knew it...
+
+00:20:12.212 --> 00:20:14.045 line:20%
+Right? It's beautiful.
+
+00:20:14.070 --> 00:20:15.204 line:20%
+（Mr Tayama）Thank you very much.
+
+00:20:16.117 --> 00:20:17.917 line:20%
+Well, it's bacon and eggs.
+
+00:20:17.942 --> 00:20:21.175 line:20%
+We use natural eggs from Yoichi.
+
+00:20:21.200 --> 00:20:22.800
+（Muroya）Wait, this yolk!
+
+00:20:22.825 --> 00:20:26.825
+The yolk is very...
+（Yoshida）It's full of sun.
+
+00:20:27.140 --> 00:20:29.740
+It's full of sun.…
+Given the name “Full of sun.”
+
+00:20:29.853 --> 00:20:31.419
+Given the name “Full of sun.”
+
+00:20:31.875 --> 00:20:35.409
+（Muroya）
+I've never had such thick bacon before!
+
+00:20:40.622 --> 00:20:42.462 line:20%
+It's very delicious (Aomori dialect)
+
+00:20:42.624 --> 00:20:44.710 line:20%
+It's super duper delicious (even more Aomori dialect)
+
+00:20:44.766 --> 00:20:46.800 line:20%
+I'll translate it for you now...
+
+00:20:47.002 --> 00:20:49.402 line:20%
+‘You... you don't get to eat this very often’.
+
+00:20:49.427 --> 00:20:51.760 line:20%
+‘Such a delicious taste’...
+
+00:20:52.288 --> 00:20:53.521
+Goo!
+（Mr Tayama）Thank you very much!
+
+00:20:53.592 --> 00:20:54.659
+（Yoshida）Is it okay without translating that?
+
+00:20:54.684 --> 00:20:57.151
+That was standard Japanese just now.
+
+00:20:57.942 --> 00:21:01.508
+(Narrator) Handmade taste, painstakingly produced on the farm.
+
+00:21:01.895 --> 00:21:05.162
+Aged bacon steaks from Kurobuta pork
+
+00:21:07.168 --> 00:21:09.835
+（Mr Tayama）The yolk's colour changes with the seasons.
+
+00:21:09.860 --> 00:21:13.194
+鶏たちが食べる餌が変わるので
+（Yoshida･Muroya）Really?!
+
+00:21:13.219 --> 00:21:16.386
+（Mr Tayama）Right now they eat a lot of pumpkins, leftover pumpkin...
+
+00:21:16.929 --> 00:21:18.229
+（Yoshida）And that's why there's this yellow colour...
+
+00:21:18.254 --> 00:21:20.121
+If it's like this then...
+
+00:21:20.146 --> 00:21:23.879
+I gradually feel like order more from the menu.
+
+00:21:24.081 --> 00:21:24.881
+Thank you very much
+
+00:21:25.186 --> 00:21:27.019
+（Muroya）What are you eating?
+
+00:21:27.044 --> 00:21:29.344
+（Man）It's kakuni (stew of cubed ingredients)
+（Muroya）Wow, looks tasty!
+
+00:21:29.421 --> 00:21:31.455
+（Man）Tanaka kakuni
+
+00:21:31.602 --> 00:21:34.035
+（Muroya）What was that?
+（Man）Haha, I'm sorry...
+
+00:21:34.060 --> 00:21:36.294
+（吉田）Well then, can you just confirm one more time
+
+00:21:36.318 --> 00:21:38.552 line:20%
+（TN）Pun, kakuni stew and confirm is pronounced similarly
+
+00:21:36.319 --> 00:21:39.452
+（Man）Aah...
+
+00:21:40.228 --> 00:21:43.328
+Oh, boy.
+（Muroya）Oh, my God, they're all drunk.
+
+00:21:45.275 --> 00:21:49.208
+(Narrator) Kakuni, a classic Japanese dish of stewed pork!
+
+00:21:50.662 --> 00:21:54.028
+And speaking of ‘sukampo’ specialities, here is one!
+
+00:21:54.748 --> 00:21:57.782 line:20%
+Soba-rice with lots of sauce
+
+00:21:57.902 --> 00:21:59.268 line:20%
+How does it taste?
+
+00:21:59.882 --> 00:22:01.882 line:20%
+（Yoshida）This soba-rice
+
+00:22:02.115 --> 00:22:04.248
+（Mr Tayama）Originally a food from the Kobe area.
+
+00:22:04.273 --> 00:22:06.640
+I was over there for a while.
+
+00:22:06.725 --> 00:22:08.358
+It was delicious at the time, so...
+
+00:22:08.528 --> 00:22:11.162
+I'd really like to adopt it in my own shop.
+
+00:22:11.187 --> 00:22:12.853
+Yakisoba, rice and...
+
+00:22:13.694 --> 00:22:14.528
+（Yoshida）Mm!
+
+00:22:15.989 --> 00:22:18.222
+Mmm!
+(Muroya) Mmm!
+
+00:22:20.475 --> 00:22:24.542
+（Yoshida）It's beautifully presented.
+（Mr Tayama）Hahaha...
+
+00:22:24.581 --> 00:22:26.781
+This is so refined.
+（Muroya）Very refined!
+
+00:22:27.108 --> 00:22:28.575
+（Customers）Cheers!
+
+00:22:28.688 --> 00:22:30.888
+（Muroya）So you are not from Otaru?
+
+00:22:30.913 --> 00:22:33.180
+（Mr Tayama）Correct
+（Muroya）What brought you to Otaru?
+
+00:22:33.205 --> 00:22:35.638 line:20%
+On a journey.
+（室谷）On a journey?
+
+00:22:35.783 --> 00:22:37.950 line:20%
+Yeah, I was just dropping by.
+
+00:22:38.268 --> 00:22:39.801
+And I liked it very much.
+
+00:22:39.935 --> 00:22:43.435
+I opened the shop to live in Otaru...
+
+00:22:43.460 --> 00:22:44.993
+I think we're the same.
+
+00:22:45.928 --> 00:22:49.762
+Um... please be my friend.
+
+00:22:50.668 --> 00:22:54.635
+Master and Rui both love Hokkaido.
+
+00:22:54.660 --> 00:22:57.526
+Right right.
+I think so.
+
+00:22:58.455 --> 00:22:59.355
+Ah, master.
+
+00:22:59.975 --> 00:23:01.475
+Oh, thank you very so much for today.
+
+00:23:01.500 --> 00:23:02.900
+No, no, thank you.
+
+00:23:03.228 --> 00:23:08.428 line:20%
+After this, at night in Otaru Rui Yoshida's haiku.
+
+00:23:17.161 --> 00:23:20.161
+These bubbles...
+These bubbles... for these bubbles...
+
+00:23:21.821 --> 00:23:29.313
+New sake when the tongue is smacking, God's dance (haiku)
+ - Rui Yoshida
+
+00:23:29.888 --> 00:23:32.688
+There's a friend on the other side of this drink...
+
+00:23:32.775 --> 00:23:33.842 line:20%
+（Muroya）Aa…
+
+00:23:34.435 --> 00:23:36.169 line:20%
+This makes you happy, doesn't it?
+
+00:23:36.194 --> 00:23:39.694 line:20%
+That's deep, isn't it? I didn't think of it that way at all.
+
+00:23:39.719 --> 00:23:41.219 line:20%
+I was just drinking...
+
+00:23:41.408 --> 00:23:43.874 line:20%
+No, from now on, you have to feel it.
+
+00:23:43.899 --> 00:23:45.199 line:20%
+You don't have to think about it.
+
+00:23:45.224 --> 00:23:47.158 line:20%
+You feel it.
+（Yoshida）Feel it.
+
+00:23:47.183 --> 00:23:50.683 line:20%
+（Narrator）
+Good drinks and good food.
+
+00:23:51.622 --> 00:23:55.189 line:20%
+We enjoyed the port town of Otaru.
