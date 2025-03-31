@@ -74,7 +74,7 @@ I am Rui Yoshida, hello, nice to meet you.
 Nice to meet you.
 
 00:01:03.700 --> 00:01:05.900 line:20%
-（吉田）I, sort of strangely decided to, you know, in front of this canal...
+（Yoshida）I, sort of strangely decided to, you know, in front of this canal...
 
 00:01:06.000 --> 00:01:07.166 line:20%
 Ah and in one hand you have...
@@ -86,7 +86,7 @@ Yes if I don't have this then the day doesn't start.
 Rui Yoshida
 
 00:01:21.600 --> 00:01:23.633 line:20%
-（ナレーター）Lover of alcohol and mountain climbing
+（Narrator）Lover of alcohol and mountain climbing
 
 00:01:21.600 --> 00:01:26.417
 (Bottom text) Author of numerous books on drinking and travel, and a national figure as a representative of ‘bar culture’.
@@ -113,7 +113,7 @@ So what encounters await us in the Hokkaido port town of Otaru?
 A tour of local delicacies frequented by Otaru locals.
 
 00:02:09.811 --> 00:02:15.357
- Port Town Walks in Hokkaido with Rui Yoshida
+Port Town Walks in Hokkaido with Rui Yoshida
 
 00:02:18.066 --> 00:02:24.134
 （Yoshida）Its not exactly
@@ -152,7 +152,7 @@ How nostalgic!
 （Narrator）Rui was drawn in by the swaying noren curtains
 
 00:02:47.166 --> 00:02:50.200
- but it's not a pub but rather a candy stall.
+but it's not a pub but rather a candy stall.
 
 00:02:50.300 --> 00:02:52.033
 （Muroya）Ah there is a shop inside...
@@ -648,7 +648,7 @@ Ehm is 6 pieces alright?
 （Mr Sanada）Understood
 
 00:11:43.188 --> 00:11:50.953 line:20%
- (TN) Untranslatable joke, "sixth sense" and "the sixth piece (of sushi)" is pronounced the same in Japanese
+(TN) Untranslatable joke, "sixth sense" and "the sixth piece (of sushi)" is pronounced the same in Japanese
 
 00:11:43.188 --> 00:11:44.988
 Somehow, with my sixth sense...
@@ -863,7 +863,7 @@ Chef! Dewishush!
 
 00:15:08.607 --> 00:15:11.107
 （Yoshida）
-“Delicious”  (in Aomori dialect)
+“Delicious” (in Aomori dialect)
 
 00:15:11.132 --> 00:15:13.832
 that means "This is a rare delicacy."
@@ -1386,7 +1386,7 @@ These bubbles... for these bubbles...
 
 00:23:21.821 --> 00:23:29.313
 New sake when the tongue is smacking, God's dance (haiku)
- - Rui Yoshida
+- Rui Yoshida
 
 00:23:29.888 --> 00:23:32.688
 There's a friend on the other side of this drink...
